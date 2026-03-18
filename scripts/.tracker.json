@@ -1,10 +1,11 @@
 [
-  "Count Primes (Sieve)",
-  "Sqrt(x)",
-  "Reverse Integer",
-  "Combination Sum II",
-  "Sort List",
-  "Merge Two Sorted Lists",
   "Valid Anagram",
-  "Min Stack"
+  "Count Primes (Sieve)",
+  "Sort List",
+  "Sqrt(x)",
+  "Product of Array Except Self",
+  "Merge Two Sorted Lists",
+  "Min Stack",
+  "Combination Sum II",
+  "Reverse Integer"
 ]
