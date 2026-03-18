@@ -1,8 +1,9 @@
 [
+  "Merge Two Sorted Lists",
+  "Min Stack",
+  "Valid Anagram",
   "Sort List",
   "Count Primes (Sieve)",
-  "Valid Anagram",
-  "Min Stack",
   "Reverse Integer",
   "Sqrt(x)"
 ]
