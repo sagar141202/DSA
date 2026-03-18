@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_18",
-    "index": 16,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_03_18",
     "index": 17,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
