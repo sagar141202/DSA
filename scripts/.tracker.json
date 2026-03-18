@@ -1,13 +1,14 @@
 [
-  "Product of Array Except Self",
-  "Valid Anagram",
-  "Sqrt(x)",
-  "Number of 1 Bits",
-  "Sort List",
   "Min Stack",
   "Reverse Integer",
+  "Sqrt(x)",
   "Climbing Stairs",
   "Count Primes (Sieve)",
+  "Product of Array Except Self",
+  "Sort List",
+  "Valid Anagram",
   "Combination Sum II",
-  "Merge Two Sorted Lists"
+  "Merge Two Sorted Lists",
+  "Wiggle Sort II",
+  "Number of 1 Bits"
 ]
