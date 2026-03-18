@@ -1,0 +1,132 @@
+name: DSA Practice
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 11:30 AM IST every day
+  workflow_dispatch:
+
+jobs:
+  daily-dsa:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install groq
+
+      - name: Configure git
+        run: |
+          git config --global user.email "sagar141202@gmail.com"
+          git config --global user.name "sagar141202"
+
+      - name: Commit 1
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 2
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 3
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 4
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 5
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 6
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 7
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 8
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 9
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 10
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 11
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 12
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 13
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 14
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 15
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 16
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 17
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 18
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 19
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
+
+      - name: Commit 20
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/generate_single.py && git push
