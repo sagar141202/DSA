@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_18",
-    "index": 10,
-    "topic": "Bit_Manipulation",
-    "question": "Number of 1 Bits"
-  },
-  {
-    "day": "2026_03_18",
     "index": 11,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"

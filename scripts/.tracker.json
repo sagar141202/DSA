@@ -1,11 +1,12 @@
 [
-  "Valid Anagram",
+  "Number of 1 Bits",
   "Count Primes (Sieve)",
-  "Sort List",
-  "Sqrt(x)",
-  "Product of Array Except Self",
-  "Merge Two Sorted Lists",
+  "Reverse Integer",
   "Min Stack",
+  "Sqrt(x)",
+  "Valid Anagram",
+  "Product of Array Except Self",
   "Combination Sum II",
-  "Reverse Integer"
+  "Merge Two Sorted Lists",
+  "Sort List"
 ]
