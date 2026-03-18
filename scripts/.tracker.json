@@ -1,7 +1,8 @@
 [
-  "Sqrt(x)",
-  "Reverse Integer",
   "Sort List",
+  "Count Primes (Sieve)",
+  "Valid Anagram",
   "Min Stack",
-  "Count Primes (Sieve)"
+  "Reverse Integer",
+  "Sqrt(x)"
 ]

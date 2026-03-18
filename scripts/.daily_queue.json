@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_18",
-    "index": 6,
-    "topic": "Arrays_and_Strings",
-    "question": "Valid Anagram"
-  },
-  {
-    "day": "2026_03_18",
     "index": 7,
     "topic": "Linked_Lists",
     "question": "Merge Two Sorted Lists"
