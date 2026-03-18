@@ -1,15 +1,16 @@
 [
   "Product of Array Except Self",
-  "Sqrt(x)",
-  "Combination Sum II",
-  "Merge Two Sorted Lists",
-  "Wiggle Sort II",
-  "Number of 1 Bits",
-  "Valid Anagram",
-  "Meeting Rooms II",
   "Sort List",
+  "Target Sum",
+  "Meeting Rooms II",
   "Reverse Integer",
+  "Combination Sum II",
+  "Sqrt(x)",
   "Climbing Stairs",
   "Count Primes (Sieve)",
-  "Min Stack"
+  "Valid Anagram",
+  "Wiggle Sort II",
+  "Min Stack",
+  "Merge Two Sorted Lists",
+  "Number of 1 Bits"
 ]
