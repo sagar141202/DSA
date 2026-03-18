@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_18",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_03_18",
     "index": 18,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations II"
