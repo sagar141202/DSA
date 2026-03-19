@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_19",
-    "index": 8,
-    "topic": "Greedy",
-    "question": "Boats to Save People"
-  },
-  {
-    "day": "2026_03_19",
     "index": 9,
     "topic": "Arrays_and_Strings",
     "question": "Longest Substring Without Repeating Characters"
