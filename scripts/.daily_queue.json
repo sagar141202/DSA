@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_19",
-    "index": 6,
-    "topic": "Greedy",
-    "question": "Activity Selection"
-  },
-  {
-    "day": "2026_03_19",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Kth Largest Element in Array"
