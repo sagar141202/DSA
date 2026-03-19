@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_19",
-    "index": 19,
-    "topic": "Tries",
-    "question": "Search Suggestions System"
-  },
-  {
-    "day": "2026_03_19",
     "index": 20,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
