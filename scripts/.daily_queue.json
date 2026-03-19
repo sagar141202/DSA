@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_19",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 3,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Activity Selection"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 11,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 12,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 13,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Gas Station"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 19,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_03_19",
+    "index": 20,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  }
+]
