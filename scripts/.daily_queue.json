@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_20",
-    "index": 6,
-    "topic": "Trees_and_Graphs",
-    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
-  },
-  {
-    "day": "2026_03_20",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Search a 2D Matrix"
