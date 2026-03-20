@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_20",
-    "index": 7,
-    "topic": "Sorting_and_Searching",
-    "question": "Search a 2D Matrix"
-  },
-  {
-    "day": "2026_03_20",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Search in Rotated Sorted Array"
