@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_20",
-    "index": 12,
-    "topic": "Math_and_Number_Theory",
-    "question": "Excel Sheet Column Number"
-  },
-  {
-    "day": "2026_03_20",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
