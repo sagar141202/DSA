@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_20",
-    "index": 4,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_03_20",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
