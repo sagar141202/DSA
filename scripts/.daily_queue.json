@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_20",
-    "index": 18,
-    "topic": "Greedy",
-    "question": "Huffman Coding"
-  },
-  {
-    "day": "2026_03_20",
     "index": 19,
     "topic": "Stacks_and_Queues",
     "question": "Largest Rectangle in Histogram"
