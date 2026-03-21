@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_21",
-    "index": 2,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_03_21",
     "index": 3,
     "topic": "Dynamic_Programming",
     "question": "Regular Expression Matching"
