@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_21",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Regular Expression Matching"
-  },
-  {
-    "day": "2026_03_21",
     "index": 4,
     "topic": "Arrays_and_Strings",
     "question": "Pascal's Triangle"
