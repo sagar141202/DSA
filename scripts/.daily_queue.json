@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_21",
-    "index": 7,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Permutations"
-  },
-  {
-    "day": "2026_03_21",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Clone Graph"
