@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_21",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_03_21",
     "index": 5,
     "topic": "Sorting_and_Searching",
     "question": "Quick Sort Implementation"
