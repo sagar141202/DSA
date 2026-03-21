@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_21",
+    "index": 2,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 14,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 15,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 17,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_03_21",
+    "index": 20,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  }
+]
