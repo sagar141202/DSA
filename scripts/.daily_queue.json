@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_22",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Valid Parentheses"
-  },
-  {
-    "day": "2026_03_22",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Remove K Digits"
