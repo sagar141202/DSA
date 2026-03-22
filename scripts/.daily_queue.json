@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_22",
-    "index": 9,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_03_22",
     "index": 10,
     "topic": "Dynamic_Programming",
     "question": "Minimum Path Sum"
