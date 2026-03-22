@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_22",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_03_22",
     "index": 19,
     "topic": "Greedy",
     "question": "Minimum Spanning Tree (Prim's)"
