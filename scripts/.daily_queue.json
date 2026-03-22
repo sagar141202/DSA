@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_22",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Rotate Array"
-  },
-  {
-    "day": "2026_03_22",
     "index": 12,
     "topic": "Arrays_and_Strings",
     "question": "Spiral Matrix"
