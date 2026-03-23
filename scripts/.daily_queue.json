@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_23",
-    "index": 2,
-    "topic": "Bit_Manipulation",
-    "question": "Power of Two"
-  },
-  {
-    "day": "2026_03_23",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
