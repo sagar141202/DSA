@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_23",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Paint House"
-  },
-  {
-    "day": "2026_03_23",
     "index": 15,
     "topic": "Linked_Lists",
     "question": "Remove Duplicates from Sorted List"
