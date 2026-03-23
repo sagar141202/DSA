@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_23",
-    "index": 12,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_03_23",
     "index": 13,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
