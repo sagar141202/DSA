@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_24",
-    "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Surrounded Regions"
-  },
-  {
-    "day": "2026_03_24",
     "index": 13,
     "topic": "Sorting_and_Searching",
     "question": "Median of Two Sorted Arrays"
