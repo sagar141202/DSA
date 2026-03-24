@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_24",
-    "index": 2,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_03_24",
     "index": 3,
     "topic": "Recursion_and_Backtracking",
     "question": "Combination Sum"
