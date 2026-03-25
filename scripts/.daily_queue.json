@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_25",
+    "index": 2,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 4,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 8,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Replace Words"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 17,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  },
+  {
+    "day": "2026_03_25",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  }
+]
