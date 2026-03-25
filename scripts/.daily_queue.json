@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_25",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Validate Binary Search Tree"
-  },
-  {
-    "day": "2026_03_25",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
