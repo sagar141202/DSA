@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_26",
+    "index": 2,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 4,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 5,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 7,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 8,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Word Break"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 13,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Task Scheduler"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 16,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Factorial Trailing Zeroes"
+  },
+  {
+    "day": "2026_03_26",
+    "index": 20,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  }
+]
