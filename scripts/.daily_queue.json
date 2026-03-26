@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "Trapping Rain Water"
-  },
-  {
-    "day": "2026_03_26",
     "index": 10,
     "topic": "Dynamic_Programming",
     "question": "Word Break"
