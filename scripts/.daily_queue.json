@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_03_26",
     "index": 13,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Task Scheduler"
