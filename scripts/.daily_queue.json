@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 16,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_03_26",
     "index": 17,
     "topic": "Dynamic_Programming",
     "question": "Palindromic Substrings"
