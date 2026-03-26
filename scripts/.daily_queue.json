@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_03_26",
     "index": 16,
     "topic": "Bit_Manipulation",
     "question": "Sum of Two Integers"
