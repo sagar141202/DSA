@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 7,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_03_26",
     "index": 8,
     "topic": "Linked_Lists",
     "question": "Reorder List"
