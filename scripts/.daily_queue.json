@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 3,
-    "topic": "Sorting_and_Searching",
-    "question": "Largest Number"
-  },
-  {
-    "day": "2026_03_26",
     "index": 4,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
