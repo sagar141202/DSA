@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_26",
-    "index": 11,
-    "topic": "Sorting_and_Searching",
-    "question": "Sort Colors (Dutch Flag)"
-  },
-  {
-    "day": "2026_03_26",
     "index": 12,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
