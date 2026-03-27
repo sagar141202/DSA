@@ -1,11 +1,12 @@
 [
-  "XOR of all Numbers in Range",
-  "Regular Expression Matching",
-  "Word Ladder",
-  "Daily Temperatures",
-  "Wildcard Matching",
+  "Palindrome Number",
   "Count of Smaller Numbers After Self",
+  "Regular Expression Matching",
+  "Wildcard Matching",
+  "Spiral Matrix",
   "Counting Bits",
+  "XOR of all Numbers in Range",
   "Generate Parentheses",
-  "Palindrome Number"
+  "Daily Temperatures",
+  "Word Ladder"
 ]
