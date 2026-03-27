@@ -1,14 +1,15 @@
 [
-  "House Robber II",
-  "Palindrome Number",
-  "Count of Smaller Numbers After Self",
-  "Daily Temperatures",
-  "Word Ladder",
   "Counting Bits",
   "Spiral Matrix",
   "Regular Expression Matching",
+  "Palindrome Number",
   "Wildcard Matching",
-  "Generate Parentheses",
+  "Reverse Integer",
+  "Word Ladder",
   "XOR of all Numbers in Range",
-  "Reverse Integer"
+  "Count of Smaller Numbers After Self",
+  "3Sum",
+  "Generate Parentheses",
+  "House Robber II",
+  "Daily Temperatures"
 ]
