@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_27",
-    "index": 19,
-    "topic": "Advanced_Graphs",
-    "question": "Bellman-Ford Algorithm"
-  },
-  {
-    "day": "2026_03_27",
     "index": 20,
     "topic": "Dynamic_Programming",
     "question": "Edit Distance"
