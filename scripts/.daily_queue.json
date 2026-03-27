@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_27",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Word Ladder"
-  },
-  {
-    "day": "2026_03_27",
     "index": 10,
     "topic": "Arrays_and_Strings",
     "question": "Spiral Matrix"

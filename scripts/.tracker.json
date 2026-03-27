@@ -1,10 +1,11 @@
 [
-  "Daily Temperatures",
   "XOR of all Numbers in Range",
-  "Wildcard Matching",
-  "Counting Bits",
   "Regular Expression Matching",
-  "Palindrome Number",
+  "Word Ladder",
+  "Daily Temperatures",
+  "Wildcard Matching",
+  "Count of Smaller Numbers After Self",
+  "Counting Bits",
   "Generate Parentheses",
-  "Count of Smaller Numbers After Self"
+  "Palindrome Number"
 ]
