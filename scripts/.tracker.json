@@ -1,13 +1,14 @@
 [
-  "Palindrome Number",
-  "Spiral Matrix",
-  "Generate Parentheses",
-  "Daily Temperatures",
-  "Wildcard Matching",
-  "Regular Expression Matching",
-  "XOR of all Numbers in Range",
-  "Word Ladder",
   "House Robber II",
+  "Palindrome Number",
   "Count of Smaller Numbers After Self",
-  "Counting Bits"
+  "Daily Temperatures",
+  "Word Ladder",
+  "Counting Bits",
+  "Spiral Matrix",
+  "Regular Expression Matching",
+  "Wildcard Matching",
+  "Generate Parentheses",
+  "XOR of all Numbers in Range",
+  "Reverse Integer"
 ]

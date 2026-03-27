@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_27",
-    "index": 12,
-    "topic": "Math_and_Number_Theory",
-    "question": "Reverse Integer"
-  },
-  {
-    "day": "2026_03_27",
     "index": 13,
     "topic": "Arrays_and_Strings",
     "question": "3Sum"
