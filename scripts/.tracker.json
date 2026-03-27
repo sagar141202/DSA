@@ -1,9 +1,10 @@
 [
   "Daily Temperatures",
+  "XOR of all Numbers in Range",
   "Wildcard Matching",
   "Counting Bits",
   "Regular Expression Matching",
-  "Count of Smaller Numbers After Self",
-  "XOR of all Numbers in Range",
-  "Palindrome Number"
+  "Palindrome Number",
+  "Generate Parentheses",
+  "Count of Smaller Numbers After Self"
 ]
