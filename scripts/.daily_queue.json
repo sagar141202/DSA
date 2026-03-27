@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_27",
-    "index": 6,
-    "topic": "Math_and_Number_Theory",
-    "question": "Palindrome Number"
-  },
-  {
-    "day": "2026_03_27",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Count of Smaller Numbers After Self"
