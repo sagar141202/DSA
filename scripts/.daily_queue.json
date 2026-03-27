@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_27",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 3,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 12,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 16,
+    "topic": "Greedy",
+    "question": "Activity Selection"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 18,
+    "topic": "Math_and_Number_Theory",
+    "question": "Factorial Trailing Zeroes"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 19,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_03_27",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  }
+]
