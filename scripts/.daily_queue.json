@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_28",
-    "index": 4,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_03_28",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
