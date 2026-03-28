@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_28",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 3,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 12,
+    "topic": "Sorting_and_Searching",
+    "question": "Find K Closest Elements"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 13,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Zigzag Level Order Traversal"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 18,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_03_28",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  }
+]
