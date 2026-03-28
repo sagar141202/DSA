@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_28",
-    "index": 18,
-    "topic": "Sorting_and_Searching",
-    "question": "Quick Sort Implementation"
-  },
-  {
-    "day": "2026_03_28",
     "index": 19,
     "topic": "Arrays_and_Strings",
     "question": "Insert Interval"
