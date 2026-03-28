@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_28",
-    "index": 7,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Combination Sum"
-  },
-  {
-    "day": "2026_03_28",
     "index": 8,
     "topic": "Dynamic_Programming",
     "question": "House Robber"
