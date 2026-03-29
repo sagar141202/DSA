@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_29",
-    "index": 16,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_03_29",
     "index": 17,
     "topic": "Trees_and_Graphs",
     "question": "Clone Graph"
