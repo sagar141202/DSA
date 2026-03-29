@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_29",
-    "index": 7,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_03_29",
     "index": 8,
     "topic": "Math_and_Number_Theory",
     "question": "Count Primes (Sieve)"
