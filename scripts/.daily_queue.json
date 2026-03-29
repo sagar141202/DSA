@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_29",
-    "index": 12,
-    "topic": "Dynamic_Programming",
-    "question": "Climbing Stairs"
-  },
-  {
-    "day": "2026_03_29",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Graph Valid Tree"
