@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_29",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 3,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 7,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 8,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 14,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 16,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 18,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_03_29",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  }
+]
