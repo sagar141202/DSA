@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_29",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Product Subarray"
-  },
-  {
-    "day": "2026_03_29",
     "index": 10,
     "topic": "Trees_and_Graphs",
     "question": "Symmetric Tree"
