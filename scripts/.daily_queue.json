@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_03_30",
+    "index": 2,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 6,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 8,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 13,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Remove Duplicates from Sorted List"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 15,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element I"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 16,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 17,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_03_30",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  }
+]
