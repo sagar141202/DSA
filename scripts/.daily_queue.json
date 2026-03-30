@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_30",
-    "index": 16,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_03_30",
     "index": 17,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
