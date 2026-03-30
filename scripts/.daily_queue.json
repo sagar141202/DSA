@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_30",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Sliding Window Maximum"
-  },
-  {
-    "day": "2026_03_30",
     "index": 19,
     "topic": "Greedy",
     "question": "Assign Cookies"
