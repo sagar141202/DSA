@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_30",
-    "index": 15,
-    "topic": "Math_and_Number_Theory",
-    "question": "Pow(x,n)"
-  },
-  {
-    "day": "2026_03_30",
     "index": 16,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Maximum Path Sum"
