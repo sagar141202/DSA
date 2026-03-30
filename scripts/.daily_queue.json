@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_30",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_03_30",
     "index": 4,
     "topic": "Recursion_and_Backtracking",
     "question": "N-Queens"
