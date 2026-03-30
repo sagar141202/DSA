@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_30",
-    "index": 7,
-    "topic": "Arrays_and_Strings",
-    "question": "Container With Most Water"
-  },
-  {
-    "day": "2026_03_30",
     "index": 8,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
