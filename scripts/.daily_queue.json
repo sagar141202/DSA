@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 16,
-    "topic": "Trees_and_Graphs",
-    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
-  },
-  {
-    "day": "2026_03_31",
     "index": 17,
     "topic": "Recursion_and_Backtracking",
     "question": "Subsets II"
