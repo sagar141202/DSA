@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 5,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Palindromic Subsequence"
-  },
-  {
-    "day": "2026_03_31",
     "index": 6,
     "topic": "Linked_Lists",
     "question": "Flatten a Multilevel Doubly Linked List"
