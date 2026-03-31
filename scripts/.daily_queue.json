@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 12,
-    "topic": "Arrays_and_Strings",
-    "question": "Minimum Window Substring"
-  },
-  {
-    "day": "2026_03_31",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Redundant Connection"
