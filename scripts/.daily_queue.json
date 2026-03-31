@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Largest Rectangle in Histogram"
-  },
-  {
-    "day": "2026_03_31",
     "index": 8,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Task Scheduler"
