@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 18,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_03_31",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Combination Sum IV"
