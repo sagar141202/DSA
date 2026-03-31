@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 7,
-    "topic": "Advanced_Graphs",
-    "question": "Tarjan's Algorithm (SCC)"
-  },
-  {
-    "day": "2026_03_31",
     "index": 8,
     "topic": "Linked_Lists",
     "question": "Partition List"
