@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 6,
-    "topic": "Linked_Lists",
-    "question": "Flatten a Multilevel Doubly Linked List"
-  },
-  {
-    "day": "2026_03_31",
     "index": 7,
     "topic": "Stacks_and_Queues",
     "question": "Largest Rectangle in Histogram"
