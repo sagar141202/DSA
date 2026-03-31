@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 2,
-    "topic": "Bit_Manipulation",
-    "question": "Number of 1 Bits"
-  },
-  {
-    "day": "2026_03_31",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
