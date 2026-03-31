@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 10,
-    "topic": "Sorting_and_Searching",
-    "question": "Merge Sort Implementation"
-  },
-  {
-    "day": "2026_03_31",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
