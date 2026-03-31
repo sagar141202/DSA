@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_03_31",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_03_31",
     "index": 5,
     "topic": "Dynamic_Programming",
     "question": "Longest Palindromic Subsequence"
