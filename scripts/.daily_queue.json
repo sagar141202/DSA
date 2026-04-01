@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_01",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 3,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 8,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 9,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 12,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_04_01",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  }
+]
