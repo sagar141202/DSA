@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 11,
-    "topic": "Tries",
-    "question": "Search Suggestions System"
-  },
-  {
-    "day": "2026_04_01",
     "index": 12,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
