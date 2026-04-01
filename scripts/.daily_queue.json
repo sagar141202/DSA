@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 4,
-    "topic": "Stacks_and_Queues",
-    "question": "Car Fleet"
-  },
-  {
-    "day": "2026_04_01",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "Trapping Rain Water"
