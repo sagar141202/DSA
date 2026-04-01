@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 19,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_04_01",
     "index": 20,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
