@@ -1,16 +1,17 @@
 [
-  "Excel Sheet Column Number",
-  "Tarjan's Algorithm (SCC)",
-  "Sum of Two Integers",
-  "Next Permutation",
-  "Bitwise AND of Numbers Range",
   "Permutations II",
-  "Path Sum",
   "Bellman-Ford Algorithm",
-  "Remove K Digits",
-  "Trapping Rain Water",
+  "Next Permutation",
   "Longest Common Subsequence",
+  "Excel Sheet Column Number",
+  "Bitwise AND of Numbers Range",
   "Regular Expression Matching",
+  "Kth Largest Element in a Stream",
   "Merge Two Sorted Lists",
-  "Kth Largest Element in a Stream"
+  "Remove K Digits",
+  "Path Sum",
+  "Trapping Rain Water",
+  "Sum of Two Integers",
+  "Tarjan's Algorithm (SCC)",
+  "Contains Duplicate"
 ]
