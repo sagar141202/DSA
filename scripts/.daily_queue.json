@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Surrounded Regions"
-  },
-  {
-    "day": "2026_04_01",
     "index": 10,
     "topic": "Dynamic_Programming",
     "question": "Paint House"
