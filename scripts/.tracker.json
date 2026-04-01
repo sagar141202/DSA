@@ -1,10 +1,11 @@
 [
-  "Sum of Two Integers",
-  "Next Permutation",
-  "Longest Common Subsequence",
-  "Excel Sheet Column Number",
-  "Path Sum",
+  "Tarjan's Algorithm (SCC)",
   "Merge Two Sorted Lists",
-  "Bitwise AND of Numbers Range",
-  "Bellman-Ford Algorithm"
+  "Next Permutation",
+  "Bellman-Ford Algorithm",
+  "Longest Common Subsequence",
+  "Sum of Two Integers",
+  "Path Sum",
+  "Excel Sheet Column Number",
+  "Bitwise AND of Numbers Range"
 ]
