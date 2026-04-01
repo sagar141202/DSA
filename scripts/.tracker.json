@@ -1,13 +1,14 @@
 [
   "Regular Expression Matching",
+  "Merge Two Sorted Lists",
   "Bellman-Ford Algorithm",
+  "Path Sum",
+  "Bitwise AND of Numbers Range",
+  "Excel Sheet Column Number",
+  "Tarjan's Algorithm (SCC)",
+  "Kth Largest Element in a Stream",
   "Remove K Digits",
   "Sum of Two Integers",
-  "Bitwise AND of Numbers Range",
-  "Tarjan's Algorithm (SCC)",
-  "Excel Sheet Column Number",
-  "Longest Common Subsequence",
   "Next Permutation",
-  "Merge Two Sorted Lists",
-  "Path Sum"
+  "Longest Common Subsequence"
 ]

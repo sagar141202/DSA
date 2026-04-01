@@ -1,28 +1,27 @@
 # Kth Largest Element in a Stream
 
 ## Problem Statement
-Given an unbounded stream of integers, find the kth largest element from the stream at any given time. The stream is represented as a sequence of integers, and we need to design a data structure that can efficiently handle the insertion of new elements and query the kth largest element. The data structure should be able to handle a large number of elements and queries. For example, if the stream is [4, 5, 8, 2] and k = 3, the kth largest element is 4.
+Given an unsorted array of integers `nums` and an integer `k`, find the `k`th largest element in the array. The array can be considered as a stream of integers, and we need to find the `k`th largest element at each step. The `k`th largest element is the `k`th largest element in the sorted array. If `k` is larger than the number of elements in the array, return -1. For example, if `nums` = [4, 5, 8, 2] and `k` = 3, the `k`th largest element is 4.
 
 ## Approach
-We can use a min-heap data structure to store the k largest elements from the stream. When a new element is inserted, we check if the heap is not full, and if it is, we remove the smallest element from the heap. This approach ensures that the heap always contains the k largest elements from the stream.
+We can use a min-heap to store the `k` largest elements. We iterate through the array, and for each element, we check if the heap has less than `k` elements or if the current element is larger than the smallest element in the heap. If so, we add the current element to the heap and remove the smallest element if the heap has more than `k` elements.
 
 ## Complexity
-- Time: O(log k) for insertion and query operations
-- Space: O(k) for storing the min-heap
+- Time: O(n log k)
+- Space: O(k)
 
 ## C++ Solution
 ```cpp
 #include <queue>
-#include <vector>
 using namespace std;
 
 class KthLargest {
-private:
+public:
     priority_queue<int, vector<int>, greater<int>> minHeap;
     int k;
 
-public:
-    KthLargest(int k, vector<int>& nums) : k(k) {
+    KthLargest(int k, vector<int>& nums) {
+        this->k = k;
         for (int num : nums) {
             add(num);
         }
@@ -42,15 +41,13 @@ public:
 
 ## Test Cases
 ```
-Input: KthLargest kthLargest(3, [4, 5, 8, 2]);
-Output: kthLargest.add(3); // returns 4
-        kthLargest.add(5); // returns 5
-        kthLargest.add(10); // returns 5
-        kthLargest.add(9); // returns 8
-        kthLargest.add(4); // returns 8
+Input: nums = [4, 5, 8, 2], k = 3
+Output: 4
+Input: nums = [4, 5, 8, 2], k = 4
+Output: 2
 ```
 
 ## Key Takeaways
-- Use a min-heap data structure to store the k largest elements from the stream.
-- The heap size should be limited to k elements to ensure efficient insertion and query operations.
-- The time complexity of insertion and query operations is O(log k), making it suitable for handling large streams and queries.
+- We use a min-heap to store the `k` largest elements, which allows us to efficiently find the smallest element in the heap.
+- We iterate through the array and add each element to the heap if it is larger than the smallest element in the heap or if the heap has less than `k` elements.
+- The time complexity is O(n log k) because we perform a heap operation for each element in the array, and each heap operation takes O(log k) time.
