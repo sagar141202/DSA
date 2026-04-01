@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 13,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Restore IP Addresses"
-  },
-  {
-    "day": "2026_04_01",
     "index": 14,
     "topic": "Recursion_and_Backtracking",
     "question": "Sudoku Solver"
