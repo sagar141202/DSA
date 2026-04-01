@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_01",
-    "index": 17,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_04_01",
     "index": 18,
     "topic": "Advanced_Graphs",
     "question": "Euler Path"
