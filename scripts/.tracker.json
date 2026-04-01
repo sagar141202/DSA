@@ -1,12 +1,13 @@
 [
-  "Tarjan's Algorithm (SCC)",
-  "Merge Two Sorted Lists",
-  "Path Sum",
+  "Regular Expression Matching",
+  "Bellman-Ford Algorithm",
   "Remove K Digits",
   "Sum of Two Integers",
-  "Bellman-Ford Algorithm",
-  "Next Permutation",
+  "Bitwise AND of Numbers Range",
+  "Tarjan's Algorithm (SCC)",
   "Excel Sheet Column Number",
   "Longest Common Subsequence",
-  "Bitwise AND of Numbers Range"
+  "Next Permutation",
+  "Merge Two Sorted Lists",
+  "Path Sum"
 ]
