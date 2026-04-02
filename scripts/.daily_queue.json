@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_02",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 3,
+    "topic": "Linked_Lists",
+    "question": "Remove Duplicates from Sorted List"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Course Schedule (Topological Sort)"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Remove Nth Node From End"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 7,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 9,
+    "topic": "Greedy",
+    "question": "Activity Selection"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 10,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Valid Anagram"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 16,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Word Break"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 19,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_04_02",
+    "index": 20,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  }
+]
