@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_02",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Course Schedule (Topological Sort)"
-  },
-  {
-    "day": "2026_04_02",
     "index": 5,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
