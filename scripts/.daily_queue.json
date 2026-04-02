@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_02",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_04_02",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "3Sum"
