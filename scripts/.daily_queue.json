@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_02",
-    "index": 6,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Word Search II"
-  },
-  {
-    "day": "2026_04_02",
     "index": 7,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
