@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_02",
-    "index": 19,
-    "topic": "Advanced_Graphs",
-    "question": "Euler Path"
-  },
-  {
-    "day": "2026_04_02",
     "index": 20,
     "topic": "Greedy",
     "question": "Non-overlapping Intervals"
