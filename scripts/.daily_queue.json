@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 5,
-    "topic": "Math_and_Number_Theory",
-    "question": "Integer to Roman"
-  },
-  {
-    "day": "2026_04_03",
     "index": 6,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
