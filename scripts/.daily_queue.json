@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Palindromic Subsequence"
-  },
-  {
-    "day": "2026_04_03",
     "index": 4,
     "topic": "Greedy",
     "question": "Assign Cookies"
