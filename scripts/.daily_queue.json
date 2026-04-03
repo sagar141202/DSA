@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Insert Interval"
-  },
-  {
-    "day": "2026_04_03",
     "index": 5,
     "topic": "Math_and_Number_Theory",
     "question": "Integer to Roman"
