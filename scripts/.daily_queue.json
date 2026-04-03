@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 6,
-    "topic": "Math_and_Number_Theory",
-    "question": "Count Primes (Sieve)"
-  },
-  {
-    "day": "2026_04_03",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Find Peak Element"
