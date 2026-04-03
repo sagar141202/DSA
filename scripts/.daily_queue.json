@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 17,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_04_03",
     "index": 18,
     "topic": "Trees_and_Graphs",
     "question": "Validate Binary Search Tree"
