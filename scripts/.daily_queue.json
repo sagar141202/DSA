@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_03",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 4,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 10,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 16,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_04_03",
+    "index": 20,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  }
+]
