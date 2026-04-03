@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Number of Islands"
-  },
-  {
-    "day": "2026_04_03",
     "index": 10,
     "topic": "Sorting_and_Searching",
     "question": "Sort Colors (Dutch Flag)"
