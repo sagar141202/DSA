@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_03",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
-  },
-  {
-    "day": "2026_04_03",
     "index": 19,
     "topic": "Stacks_and_Queues",
     "question": "Largest Rectangle in Histogram"
