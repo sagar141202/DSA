@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_04",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "Longest Substring Without Repeating Characters"
-  },
-  {
-    "day": "2026_04_04",
     "index": 10,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
