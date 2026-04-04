@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_04",
-    "index": 2,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_04_04",
     "index": 3,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
