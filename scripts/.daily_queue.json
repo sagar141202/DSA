@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_04",
-    "index": 10,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_04_04",
     "index": 11,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
