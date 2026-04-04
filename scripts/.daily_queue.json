@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_04",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 10,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 11,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Target Sum"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 17,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_04_04",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  }
+]
