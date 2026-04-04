@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_04",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Target Sum"
-  },
-  {
-    "day": "2026_04_04",
     "index": 15,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
