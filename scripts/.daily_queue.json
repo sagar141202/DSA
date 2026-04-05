@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_05",
+    "index": 2,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 6,
+    "topic": "Dynamic_Programming",
+    "question": "Paint House"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 14,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 16,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 17,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 18,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_04_05",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  }
+]
