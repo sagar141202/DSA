@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 18,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Task Scheduler"
-  },
-  {
-    "day": "2026_04_05",
     "index": 19,
     "topic": "Math_and_Number_Theory",
     "question": "Factorial Trailing Zeroes"
