@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 19,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_04_05",
     "index": 20,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
