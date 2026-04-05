@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 18,
-    "topic": "Linked_Lists",
-    "question": "Add Two Numbers"
-  },
-  {
-    "day": "2026_04_05",
     "index": 19,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
