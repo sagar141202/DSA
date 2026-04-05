@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 9,
-    "topic": "Stacks_and_Queues",
-    "question": "Car Fleet"
-  },
-  {
-    "day": "2026_04_05",
     "index": 10,
     "topic": "Stacks_and_Queues",
     "question": "Implement Queue using Stacks"
