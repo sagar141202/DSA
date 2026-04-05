@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 15,
-    "topic": "Linked_Lists",
-    "question": "Odd Even Linked List"
-  },
-  {
-    "day": "2026_04_05",
     "index": 16,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
