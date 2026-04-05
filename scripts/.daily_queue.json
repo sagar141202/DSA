@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_04_05",
     "index": 5,
     "topic": "Linked_Lists",
     "question": "Flatten a Multilevel Doubly Linked List"
