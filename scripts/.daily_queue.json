@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_05",
-    "index": 14,
-    "topic": "Advanced_Graphs",
-    "question": "Articulation Points"
-  },
-  {
-    "day": "2026_04_05",
     "index": 15,
     "topic": "Dynamic_Programming",
     "question": "Wildcard Matching"
