@@ -1,16 +1,17 @@
 [
-  "Find Median from Data Stream",
-  "Binary Tree Zigzag Level Order Traversal",
-  "Kth Smallest Element in BST",
-  "Intersection of Two Linked Lists",
-  "Floyd-Warshall Algorithm",
-  "Palindromic Substrings",
   "Happy Number",
+  "Dijkstra's Algorithm",
+  "Find Median from Data Stream",
+  "Intersection of Two Linked Lists",
+  "Kth Smallest Element in BST",
   "Basic Calculator II",
   "Euler Path",
-  "Count Primes (Sieve)",
-  "Find Minimum in Rotated Sorted Array",
+  "Restore IP Addresses",
+  "Palindromic Substrings",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Smallest Range Covering Elements from K Lists",
   "Sudoku Solver",
-  "Dijkstra's Algorithm",
-  "Restore IP Addresses"
+  "Floyd-Warshall Algorithm",
+  "Find Minimum in Rotated Sorted Array",
+  "Count Primes (Sieve)"
 ]

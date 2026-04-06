@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 15,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_04_06",
     "index": 16,
     "topic": "Stacks_and_Queues",
     "question": "Simplify Path"
