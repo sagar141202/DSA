@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Triangle Minimum Path"
-  },
-  {
-    "day": "2026_04_06",
     "index": 4,
     "topic": "Arrays_and_Strings",
     "question": "Product of Array Except Self"
