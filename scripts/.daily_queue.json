@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Interleaving String"
-  },
-  {
-    "day": "2026_04_06",
     "index": 19,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
