@@ -1,14 +1,15 @@
 [
-  "Kth Smallest Element in BST",
-  "Intersection of Two Linked Lists",
-  "Happy Number",
-  "Find Median from Data Stream",
-  "Restore IP Addresses",
-  "Palindromic Substrings",
-  "Count Primes (Sieve)",
-  "Binary Tree Zigzag Level Order Traversal",
-  "Floyd-Warshall Algorithm",
   "Dijkstra's Algorithm",
+  "Palindromic Substrings",
+  "Intersection of Two Linked Lists",
   "Sudoku Solver",
-  "Basic Calculator II"
+  "Find Minimum in Rotated Sorted Array",
+  "Happy Number",
+  "Basic Calculator II",
+  "Find Median from Data Stream",
+  "Kth Smallest Element in BST",
+  "Restore IP Addresses",
+  "Count Primes (Sieve)",
+  "Floyd-Warshall Algorithm",
+  "Binary Tree Zigzag Level Order Traversal"
 ]
