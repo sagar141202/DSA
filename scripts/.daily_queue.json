@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_06",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 3,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 5,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Zigzag Level Order Traversal"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 7,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 9,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 10,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 14,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 15,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 16,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 18,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_04_06",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  }
+]
