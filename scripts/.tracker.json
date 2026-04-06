@@ -1,15 +1,16 @@
 [
-  "Dijkstra's Algorithm",
-  "Palindromic Substrings",
+  "Find Median from Data Stream",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Kth Smallest Element in BST",
   "Intersection of Two Linked Lists",
-  "Sudoku Solver",
-  "Find Minimum in Rotated Sorted Array",
+  "Floyd-Warshall Algorithm",
+  "Palindromic Substrings",
   "Happy Number",
   "Basic Calculator II",
-  "Find Median from Data Stream",
-  "Kth Smallest Element in BST",
-  "Restore IP Addresses",
+  "Euler Path",
   "Count Primes (Sieve)",
-  "Floyd-Warshall Algorithm",
-  "Binary Tree Zigzag Level Order Traversal"
+  "Find Minimum in Rotated Sorted Array",
+  "Sudoku Solver",
+  "Dijkstra's Algorithm",
+  "Restore IP Addresses"
 ]
