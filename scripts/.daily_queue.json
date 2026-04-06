@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 3,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_04_06",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Kth Smallest Element in BST"
