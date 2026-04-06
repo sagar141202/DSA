@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 7,
-    "topic": "Math_and_Number_Theory",
-    "question": "Happy Number"
-  },
-  {
-    "day": "2026_04_06",
     "index": 8,
     "topic": "Recursion_and_Backtracking",
     "question": "Sudoku Solver"
