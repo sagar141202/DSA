@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 10,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_04_06",
     "index": 11,
     "topic": "Linked_Lists",
     "question": "Merge K Sorted Lists"
