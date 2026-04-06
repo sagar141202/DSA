@@ -1,12 +1,13 @@
 [
-  "Sudoku Solver",
-  "Dijkstra's Algorithm",
-  "Floyd-Warshall Algorithm",
-  "Find Median from Data Stream",
-  "Basic Calculator II",
   "Happy Number",
+  "Sudoku Solver",
+  "Basic Calculator II",
   "Kth Smallest Element in BST",
+  "Find Median from Data Stream",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Dijkstra's Algorithm",
   "Intersection of Two Linked Lists",
-  "Count Primes (Sieve)",
-  "Binary Tree Zigzag Level Order Traversal"
+  "Restore IP Addresses",
+  "Floyd-Warshall Algorithm",
+  "Count Primes (Sieve)"
 ]
