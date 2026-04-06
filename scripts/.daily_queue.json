@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 10,
-    "topic": "Math_and_Number_Theory",
-    "question": "Count Primes (Sieve)"
-  },
-  {
-    "day": "2026_04_06",
     "index": 11,
     "topic": "Recursion_and_Backtracking",
     "question": "Restore IP Addresses"
