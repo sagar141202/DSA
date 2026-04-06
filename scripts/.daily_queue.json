@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 5,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_04_06",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Zigzag Level Order Traversal"
