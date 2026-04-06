@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 2,
-    "topic": "Trees_and_Graphs",
-    "question": "Path Sum"
-  },
-  {
-    "day": "2026_04_06",
     "index": 3,
     "topic": "Dynamic_Programming",
     "question": "Triangle Minimum Path"
