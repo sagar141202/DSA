@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_06",
-    "index": 17,
-    "topic": "Bit_Manipulation",
-    "question": "Number of 1 Bits"
-  },
-  {
-    "day": "2026_04_06",
     "index": 18,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
