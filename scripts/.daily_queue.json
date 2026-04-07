@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 5,
-    "topic": "Greedy",
-    "question": "Minimum Spanning Tree (Prim's)"
-  },
-  {
-    "day": "2026_04_07",
     "index": 6,
     "topic": "Dynamic_Programming",
     "question": "Longest Increasing Subsequence"
