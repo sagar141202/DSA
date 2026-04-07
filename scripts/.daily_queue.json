@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Diameter of Binary Tree"
-  },
-  {
-    "day": "2026_04_07",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations"
