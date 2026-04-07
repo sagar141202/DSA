@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 15,
-    "topic": "Greedy",
-    "question": "Assign Cookies"
-  },
-  {
-    "day": "2026_04_07",
     "index": 16,
     "topic": "Linked_Lists",
     "question": "Partition List"
