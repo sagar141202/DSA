@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_04_07",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Maximum Path Sum"
