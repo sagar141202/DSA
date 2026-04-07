@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Maximum Square of 1s"
-  },
-  {
-    "day": "2026_04_07",
     "index": 9,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
