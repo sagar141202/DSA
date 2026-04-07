@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 2,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_04_07",
     "index": 3,
     "topic": "Arrays_and_Strings",
     "question": "Jump Game"
