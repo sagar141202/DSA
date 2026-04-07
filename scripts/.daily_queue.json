@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 16,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Sliding Window Median"
-  },
-  {
-    "day": "2026_04_07",
     "index": 17,
     "topic": "Arrays_and_Strings",
     "question": "Maximum Product Subarray"
