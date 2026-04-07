@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_07",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_04_07",
     "index": 9,
     "topic": "Stacks_and_Queues",
     "question": "Car Fleet"
