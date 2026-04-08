@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_04_08",
     "index": 19,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
