@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_04_08",
     "index": 15,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
