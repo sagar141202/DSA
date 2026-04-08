@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 3,
-    "topic": "Math_and_Number_Theory",
-    "question": "Palindrome Number"
-  },
-  {
-    "day": "2026_04_08",
     "index": 4,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations II"
