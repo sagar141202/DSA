@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 5,
-    "topic": "Advanced_Graphs",
-    "question": "Tarjan's Algorithm (SCC)"
-  },
-  {
-    "day": "2026_04_08",
     "index": 6,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
