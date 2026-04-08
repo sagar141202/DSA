@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_08",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 7,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 8,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 10,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 15,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_04_08",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  }
+]
