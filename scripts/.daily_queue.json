@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Permutations II"
-  },
-  {
-    "day": "2026_04_08",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Word Ladder"
