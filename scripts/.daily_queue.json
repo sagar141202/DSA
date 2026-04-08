@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 8,
-    "topic": "Greedy",
-    "question": "Huffman Coding"
-  },
-  {
-    "day": "2026_04_08",
     "index": 9,
     "topic": "Dynamic_Programming",
     "question": "House Robber II"
