@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_08",
-    "index": 13,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_04_08",
     "index": 14,
     "topic": "Dynamic_Programming",
     "question": "Edit Distance"
