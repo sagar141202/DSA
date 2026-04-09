@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 9,
-    "topic": "Sorting_and_Searching",
-    "question": "Find Peak Element"
-  },
-  {
-    "day": "2026_04_09",
     "index": 10,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
