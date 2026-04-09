@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 5,
-    "topic": "Linked_Lists",
-    "question": "Reorder List"
-  },
-  {
-    "day": "2026_04_09",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Level Order Traversal"
