@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_09",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 4,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 8,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 13,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 14,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 15,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 19,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_04_09",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  }
+]
