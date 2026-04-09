@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_04_09",
     "index": 11,
     "topic": "Recursion_and_Backtracking",
     "question": "Palindrome Partitioning"
