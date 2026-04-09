@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 12,
-    "topic": "Linked_Lists",
-    "question": "Sort List"
-  },
-  {
-    "day": "2026_04_09",
     "index": 13,
     "topic": "Bit_Manipulation",
     "question": "Missing Number"
