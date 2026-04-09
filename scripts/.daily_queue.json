@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 15,
-    "topic": "Arrays_and_Strings",
-    "question": "Spiral Matrix"
-  },
-  {
-    "day": "2026_04_09",
     "index": 16,
     "topic": "Stacks_and_Queues",
     "question": "Implement Queue using Stacks"
