@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 16,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_04_09",
     "index": 17,
     "topic": "Trees_and_Graphs",
     "question": "Graph Valid Tree"
