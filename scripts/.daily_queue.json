@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_09",
-    "index": 10,
-    "topic": "Bit_Manipulation",
-    "question": "XOR of all Numbers in Range"
-  },
-  {
-    "day": "2026_04_09",
     "index": 11,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
