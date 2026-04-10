@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 14,
-    "topic": "Trees_and_Graphs",
-    "question": "Validate Binary Search Tree"
-  },
-  {
-    "day": "2026_04_10",
     "index": 15,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
