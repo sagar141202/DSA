@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_10",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Gas Station"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 9,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 12,
+    "topic": "Sorting_and_Searching",
+    "question": "Find K Closest Elements"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 15,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 20,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  }
+]
