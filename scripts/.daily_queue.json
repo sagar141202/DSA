@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_10",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 3,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 4,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Maximum Path Sum"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 9,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 10,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 11,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Largest Rectangle in Histogram"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Remove Nth Node From End"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 17,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Paint House"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_04_10",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  }
+]
