@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 7,
-    "topic": "Arrays_and_Strings",
-    "question": "Merge Intervals"
-  },
-  {
-    "day": "2026_04_10",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
