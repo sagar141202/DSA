@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 6,
-    "topic": "Math_and_Number_Theory",
-    "question": "Sqrt(x)"
-  },
-  {
-    "day": "2026_04_10",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Jump Game II"
