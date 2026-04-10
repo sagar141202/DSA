@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Paint House"
-  },
-  {
-    "day": "2026_04_10",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
