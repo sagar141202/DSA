@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 3,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_04_10",
     "index": 4,
     "topic": "Sorting_and_Searching",
     "question": "Meeting Rooms II"
