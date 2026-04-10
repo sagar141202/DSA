@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 8,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_04_10",
     "index": 9,
     "topic": "Recursion_and_Backtracking",
     "question": "Subsets II"
