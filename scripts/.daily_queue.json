@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 13,
-    "topic": "Stacks_and_Queues",
-    "question": "Asteroid Collision"
-  },
-  {
-    "day": "2026_04_10",
     "index": 14,
     "topic": "Trees_and_Graphs",
     "question": "Validate Binary Search Tree"
