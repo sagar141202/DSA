@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_04_10",
     "index": 20,
     "topic": "Sorting_and_Searching",
     "question": "Wiggle Sort II"
