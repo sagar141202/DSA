@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Jump Game II"
-  },
-  {
-    "day": "2026_04_10",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
