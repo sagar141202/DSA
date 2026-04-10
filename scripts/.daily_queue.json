@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 17,
-    "topic": "Arrays_and_Strings",
-    "question": "Container With Most Water"
-  },
-  {
-    "day": "2026_04_10",
     "index": 18,
     "topic": "Recursion_and_Backtracking",
     "question": "Combination Sum II"
