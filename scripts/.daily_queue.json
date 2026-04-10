@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_10",
-    "index": 6,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_04_10",
     "index": 7,
     "topic": "Arrays_and_Strings",
     "question": "Merge Intervals"
