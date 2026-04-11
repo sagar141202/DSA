@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_11",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_04_11",
     "index": 10,
     "topic": "Heaps_and_Priority_Queues",
     "question": "K Closest Points to Origin"
