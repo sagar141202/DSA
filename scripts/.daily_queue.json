@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_11",
-    "index": 6,
-    "topic": "Trees_and_Graphs",
-    "question": "Path Sum"
-  },
-  {
-    "day": "2026_04_11",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Find K Closest Elements"
