@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_11",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 4,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Find K Closest Elements"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 10,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Target Sum"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 15,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 18,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 19,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_04_11",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  }
+]
