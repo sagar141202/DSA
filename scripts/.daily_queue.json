@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_11",
-    "index": 5,
-    "topic": "Arrays_and_Strings",
-    "question": "Best Time to Buy and Sell Stock"
-  },
-  {
-    "day": "2026_04_11",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Path Sum"
