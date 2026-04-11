@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_11",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Number of Islands"
-  },
-  {
-    "day": "2026_04_11",
     "index": 4,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
