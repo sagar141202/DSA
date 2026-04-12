@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_12",
-    "index": 11,
-    "topic": "Sorting_and_Searching",
-    "question": "Quick Sort Implementation"
-  },
-  {
-    "day": "2026_04_12",
     "index": 12,
     "topic": "Math_and_Number_Theory",
     "question": "Sqrt(x)"
