@@ -1,62 +1,116 @@
 [
   {
-    "day": "2026_04_11",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
+    "day": "2026_04_12",
+    "index": 2,
+    "topic": "Tries",
+    "question": "Replace Words"
   },
   {
-    "day": "2026_04_11",
-    "index": 12,
+    "day": "2026_04_12",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 6,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 9,
     "topic": "Dynamic_Programming",
     "question": "Target Sum"
   },
   {
-    "day": "2026_04_11",
-    "index": 13,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber"
+    "day": "2026_04_12",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
   },
   {
-    "day": "2026_04_11",
-    "index": 14,
-    "topic": "Tries",
-    "question": "Longest Word in Dictionary"
+    "day": "2026_04_12",
+    "index": 11,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
   },
   {
-    "day": "2026_04_11",
-    "index": 15,
+    "day": "2026_04_12",
+    "index": 12,
     "topic": "Stacks_and_Queues",
     "question": "Car Fleet"
   },
   {
-    "day": "2026_04_11",
-    "index": 16,
-    "topic": "Trees_and_Graphs",
-    "question": "Kth Smallest Element in BST"
+    "day": "2026_04_12",
+    "index": 13,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
   },
   {
-    "day": "2026_04_11",
-    "index": 17,
+    "day": "2026_04_12",
+    "index": 14,
     "topic": "Dynamic_Programming",
-    "question": "Coin Change"
+    "question": "Partition Equal Subset Sum"
   },
   {
-    "day": "2026_04_11",
+    "day": "2026_04_12",
+    "index": 15,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 16,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_04_12",
+    "index": 17,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_04_12",
     "index": 18,
-    "topic": "Linked_Lists",
-    "question": "Copy List with Random Pointer"
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
   },
   {
-    "day": "2026_04_11",
+    "day": "2026_04_12",
     "index": 19,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Reorganize String"
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
   },
   {
-    "day": "2026_04_11",
+    "day": "2026_04_12",
     "index": 20,
-    "topic": "Stacks_and_Queues",
-    "question": "Daily Temperatures"
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
   }
 ]
