@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_12",
-    "index": 6,
-    "topic": "Bit_Manipulation",
-    "question": "Missing Number"
-  },
-  {
-    "day": "2026_04_12",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
