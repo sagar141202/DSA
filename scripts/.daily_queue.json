@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_12",
-    "index": 8,
-    "topic": "Arrays_and_Strings",
-    "question": "Insert Interval"
-  },
-  {
-    "day": "2026_04_12",
     "index": 9,
     "topic": "Dynamic_Programming",
     "question": "Target Sum"
