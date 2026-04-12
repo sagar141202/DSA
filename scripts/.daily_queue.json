@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_12",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Regular Expression Matching"
-  },
-  {
-    "day": "2026_04_12",
     "index": 8,
     "topic": "Dynamic_Programming",
     "question": "Coin Change"
