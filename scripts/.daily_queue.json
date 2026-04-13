@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_13",
+    "index": 2,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 3,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 4,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 8,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 9,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 12,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Decode Ways"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 14,
+    "topic": "Arrays_and_Strings",
+    "question": "Product of Array Except Self"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 16,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 18,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  }
+]
