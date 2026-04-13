@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_13",
-    "index": 15,
-    "topic": "Dynamic_Programming",
-    "question": "Jump Game II"
-  },
-  {
-    "day": "2026_04_13",
     "index": 16,
     "topic": "Stacks_and_Queues",
     "question": "Decode String"
