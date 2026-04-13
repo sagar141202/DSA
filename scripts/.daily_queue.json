@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_13",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 3,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Course Schedule (Topological Sort)"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 10,
+    "topic": "Greedy",
+    "question": "Activity Selection"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 12,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 13,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 14,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 18,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_04_13",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  }
+]
