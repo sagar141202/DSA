@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_13",
-    "index": 19,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Beautiful Arrangement"
-  },
-  {
-    "day": "2026_04_13",
     "index": 20,
     "topic": "Arrays_and_Strings",
     "question": "Minimum Window Substring"
