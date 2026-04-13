@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_13",
-    "index": 12,
-    "topic": "Greedy",
-    "question": "Assign Cookies"
-  },
-  {
-    "day": "2026_04_13",
     "index": 13,
     "topic": "Dynamic_Programming",
     "question": "Decode Ways"
