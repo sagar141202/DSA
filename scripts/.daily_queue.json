@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_13",
-    "index": 10,
-    "topic": "Greedy",
-    "question": "Activity Selection"
-  },
-  {
-    "day": "2026_04_13",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
