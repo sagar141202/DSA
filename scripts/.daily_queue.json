@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_13",
-    "index": 14,
-    "topic": "Greedy",
-    "question": "Non-overlapping Intervals"
-  },
-  {
-    "day": "2026_04_13",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
