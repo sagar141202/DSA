@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_14",
-    "index": 17,
-    "topic": "Arrays_and_Strings",
-    "question": "Next Permutation"
-  },
-  {
-    "day": "2026_04_14",
     "index": 18,
     "topic": "Arrays_and_Strings",
     "question": "Find Minimum in Rotated Sorted Array"
