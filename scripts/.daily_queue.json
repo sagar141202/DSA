@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_14",
-    "index": 9,
-    "topic": "Dynamic_Programming",
-    "question": "Distinct Subsequences"
-  },
-  {
-    "day": "2026_04_14",
     "index": 10,
     "topic": "Stacks_and_Queues",
     "question": "Remove K Digits"
