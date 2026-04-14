@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_14",
+    "index": 2,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 6,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Gas Station"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 12,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  }
+]
