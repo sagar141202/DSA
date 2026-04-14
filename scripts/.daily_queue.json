@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_14",
-    "index": 10,
-    "topic": "Stacks_and_Queues",
-    "question": "Remove K Digits"
-  },
-  {
-    "day": "2026_04_14",
     "index": 11,
     "topic": "Stacks_and_Queues",
     "question": "Daily Temperatures"
