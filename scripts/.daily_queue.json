@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_14",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Word Break"
-  },
-  {
-    "day": "2026_04_14",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Asteroid Collision"
