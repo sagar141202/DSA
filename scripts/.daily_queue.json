@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_14",
+    "index": 2,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 3,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Word Break"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 9,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 15,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_04_14",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  }
+]
