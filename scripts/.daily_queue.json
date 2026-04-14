@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_14",
-    "index": 3,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_04_14",
     "index": 4,
     "topic": "Math_and_Number_Theory",
     "question": "Count Primes (Sieve)"
