@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Word Search II"
-  },
-  {
-    "day": "2026_04_15",
     "index": 5,
     "topic": "Greedy",
     "question": "Fractional Knapsack"
