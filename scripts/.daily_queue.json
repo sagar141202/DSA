@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 6,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber"
-  },
-  {
-    "day": "2026_04_15",
     "index": 7,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
