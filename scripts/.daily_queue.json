@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 17,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_04_15",
     "index": 18,
     "topic": "Greedy",
     "question": "Activity Selection"
