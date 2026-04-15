@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_15",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 4,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 6,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 8,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 9,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 11,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 16,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Task Scheduler"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_04_15",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Zigzag Level Order Traversal"
+  }
+]
