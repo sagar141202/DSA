@@ -1,17 +1,18 @@
 [
-  "Maximum Depth of Binary Tree",
-  "Meeting Rooms II",
-  "Car Fleet",
-  "Maximum Square of 1s",
-  "Fractional Knapsack",
-  "Kth Smallest Element in BST",
-  "Largest Number",
-  "Partition Equal Subset Sum",
   "Happy Number",
+  "Maximum Square of 1s",
   "House Robber",
-  "Floyd-Warshall Algorithm",
+  "Largest Number",
+  "Redundant Connection",
   "Word Search II",
+  "Linked List Cycle",
   "Binary Tree Level Order Traversal",
+  "Kth Smallest Element in BST",
+  "Floyd-Warshall Algorithm",
+  "Meeting Rooms II",
+  "Partition Equal Subset Sum",
   "N-Queens",
-  "Linked List Cycle"
+  "Fractional Knapsack",
+  "Car Fleet",
+  "Maximum Depth of Binary Tree"
 ]
