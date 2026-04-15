@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 10,
-    "topic": "Dynamic_Programming",
-    "question": "Wildcard Matching"
-  },
-  {
-    "day": "2026_04_15",
     "index": 11,
     "topic": "Tries",
     "question": "Longest Word in Dictionary"
