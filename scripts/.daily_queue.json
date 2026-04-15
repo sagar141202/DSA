@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_04_15",
     "index": 13,
     "topic": "Arrays_and_Strings",
     "question": "Move Zeroes"
