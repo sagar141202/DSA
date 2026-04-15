@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_04_15",
     "index": 16,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Task Scheduler"
