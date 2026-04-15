@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_15",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Pacific Atlantic Water Flow"
-  },
-  {
-    "day": "2026_04_15",
     "index": 4,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
