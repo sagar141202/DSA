@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 9,
-    "topic": "Sorting_and_Searching",
-    "question": "Find K Closest Elements"
-  },
-  {
-    "day": "2026_04_16",
     "index": 10,
     "topic": "Trees_and_Graphs",
     "question": "Validate Binary Search Tree"
