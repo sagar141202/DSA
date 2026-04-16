@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Coin Change"
-  },
-  {
-    "day": "2026_04_16",
     "index": 5,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
