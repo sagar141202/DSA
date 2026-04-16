@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 19,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_04_16",
     "index": 20,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Sliding Window Median"
