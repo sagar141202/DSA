@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Validate Binary Search Tree"
-  },
-  {
-    "day": "2026_04_16",
     "index": 11,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
