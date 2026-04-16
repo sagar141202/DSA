@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 11,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_04_16",
     "index": 12,
     "topic": "Math_and_Number_Theory",
     "question": "Pow(x,n)"
