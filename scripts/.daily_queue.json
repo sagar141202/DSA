@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_04_16",
     "index": 9,
     "topic": "Stacks_and_Queues",
     "question": "Valid Parentheses"
