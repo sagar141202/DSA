@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Product of Array Except Self"
-  },
-  {
-    "day": "2026_04_16",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Coin Change"
