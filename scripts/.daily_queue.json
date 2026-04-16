@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 16,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_04_16",
     "index": 17,
     "topic": "Trees_and_Graphs",
     "question": "Diameter of Binary Tree"
