@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 10,
-    "topic": "Arrays_and_Strings",
-    "question": "Valid Anagram"
-  },
-  {
-    "day": "2026_04_16",
     "index": 11,
     "topic": "Arrays_and_Strings",
     "question": "Insert Interval"
