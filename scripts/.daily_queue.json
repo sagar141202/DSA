@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_16",
-    "index": 4,
-    "topic": "Advanced_Graphs",
-    "question": "Alien Dictionary"
-  },
-  {
-    "day": "2026_04_16",
     "index": 5,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Task Scheduler"
