@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Lowest Common Ancestor of BST"
-  },
-  {
-    "day": "2026_04_17",
     "index": 5,
     "topic": "Tries",
     "question": "Replace Words"
