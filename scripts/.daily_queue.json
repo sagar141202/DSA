@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_04_17",
     "index": 9,
     "topic": "Arrays_and_Strings",
     "question": "Gas Station"
