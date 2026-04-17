@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_04_17",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Rotate Array"
