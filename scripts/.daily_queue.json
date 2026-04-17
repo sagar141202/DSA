@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_17",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Course Schedule (Topological Sort)"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Target Sum"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Rotate Array"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 10,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 14,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 15,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 16,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 17,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 18,
+    "topic": "Math_and_Number_Theory",
+    "question": "Factorial Trailing Zeroes"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_04_17",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  }
+]
