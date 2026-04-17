@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 15,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_04_17",
     "index": 16,
     "topic": "Advanced_Graphs",
     "question": "Bipartite Graph Check"
