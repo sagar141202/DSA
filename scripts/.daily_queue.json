@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 14,
-    "topic": "Bit_Manipulation",
-    "question": "XOR of all Numbers in Range"
-  },
-  {
-    "day": "2026_04_17",
     "index": 15,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
