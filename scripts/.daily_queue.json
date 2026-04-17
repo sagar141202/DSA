@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 11,
-    "topic": "Math_and_Number_Theory",
-    "question": "Reverse Integer"
-  },
-  {
-    "day": "2026_04_17",
     "index": 12,
     "topic": "Recursion_and_Backtracking",
     "question": "Letter Combinations of Phone Number"
