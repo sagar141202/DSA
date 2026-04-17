@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 8,
-    "topic": "Arrays_and_Strings",
-    "question": "Rotate Array"
-  },
-  {
-    "day": "2026_04_17",
     "index": 9,
     "topic": "Dynamic_Programming",
     "question": "Longest Palindromic Subsequence"
