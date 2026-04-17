@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_17",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Zigzag Level Order Traversal"
-  },
-  {
-    "day": "2026_04_17",
     "index": 11,
     "topic": "Math_and_Number_Theory",
     "question": "Reverse Integer"
