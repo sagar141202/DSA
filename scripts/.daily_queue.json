@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 5,
-    "topic": "Stacks_and_Queues",
-    "question": "Daily Temperatures"
-  },
-  {
-    "day": "2026_04_18",
     "index": 6,
     "topic": "Dynamic_Programming",
     "question": "Palindromic Substrings"
