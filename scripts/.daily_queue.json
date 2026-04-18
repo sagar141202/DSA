@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Minimum Window Substring"
-  },
-  {
-    "day": "2026_04_18",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Daily Temperatures"
