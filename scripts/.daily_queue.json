@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 9,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_04_18",
     "index": 10,
     "topic": "Arrays_and_Strings",
     "question": "Maximum Product Subarray"
