@@ -1,32 +1,116 @@
 [
   {
-    "day": "2026_04_17",
-    "index": 16,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Subsets II"
-  },
-  {
-    "day": "2026_04_17",
-    "index": 17,
-    "topic": "Sorting_and_Searching",
-    "question": "Search a 2D Matrix II"
-  },
-  {
-    "day": "2026_04_17",
-    "index": 18,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_04_17",
-    "index": 19,
+    "day": "2026_04_18",
+    "index": 2,
     "topic": "Math_and_Number_Theory",
     "question": "Count Primes (Sieve)"
   },
   {
-    "day": "2026_04_17",
-    "index": 20,
+    "day": "2026_04_18",
+    "index": 3,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 4,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 12,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 13,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 14,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 15,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 17,
     "topic": "Bit_Manipulation",
-    "question": "Reverse Bits"
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 18,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
   }
 ]
