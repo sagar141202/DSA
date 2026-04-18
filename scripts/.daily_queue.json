@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_18",
+    "index": 2,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 5,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 6,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 9,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Largest Rectangle in Histogram"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Paint House"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 18,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_04_18",
+    "index": 20,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  }
+]
