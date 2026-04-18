@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 11,
-    "topic": "Advanced_Graphs",
-    "question": "Articulation Points"
-  },
-  {
-    "day": "2026_04_18",
     "index": 12,
     "topic": "Stacks_and_Queues",
     "question": "Remove K Digits"
