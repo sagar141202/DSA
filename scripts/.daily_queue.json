@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 10,
-    "topic": "Advanced_Graphs",
-    "question": "Bellman-Ford Algorithm"
-  },
-  {
-    "day": "2026_04_18",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
