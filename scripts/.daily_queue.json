@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_04_18",
     "index": 8,
     "topic": "Greedy",
     "question": "Boats to Save People"
