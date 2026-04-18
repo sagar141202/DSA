@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_18",
-    "index": 3,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Restore IP Addresses"
-  },
-  {
-    "day": "2026_04_18",
     "index": 4,
     "topic": "Arrays_and_Strings",
     "question": "Minimum Window Substring"
