@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_19",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Graph Valid Tree"
-  },
-  {
-    "day": "2026_04_19",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
