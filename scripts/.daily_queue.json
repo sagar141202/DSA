@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_19",
-    "index": 5,
-    "topic": "Linked_Lists",
-    "question": "Odd Even Linked List"
-  },
-  {
-    "day": "2026_04_19",
     "index": 6,
     "topic": "Sorting_and_Searching",
     "question": "Quick Sort Implementation"
