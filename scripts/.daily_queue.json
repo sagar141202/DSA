@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_19",
-    "index": 6,
-    "topic": "Trees_and_Graphs",
-    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
-  },
-  {
-    "day": "2026_04_19",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Burst Balloons"
