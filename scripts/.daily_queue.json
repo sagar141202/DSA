@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_19",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_04_19",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Word Break"
