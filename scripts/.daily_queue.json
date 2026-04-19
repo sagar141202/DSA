@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_19",
+    "index": 2,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 4,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 7,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 9,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 16,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element I"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 19,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_04_19",
+    "index": 20,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  }
+]
