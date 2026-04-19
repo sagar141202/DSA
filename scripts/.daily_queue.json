@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_19",
-    "index": 6,
-    "topic": "Sorting_and_Searching",
-    "question": "Quick Sort Implementation"
-  },
-  {
-    "day": "2026_04_19",
     "index": 7,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
