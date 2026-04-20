@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Distinct Subsequences"
-  },
-  {
-    "day": "2026_04_20",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
