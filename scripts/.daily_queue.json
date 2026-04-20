@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 13,
-    "topic": "Linked_Lists",
-    "question": "Flatten a Multilevel Doubly Linked List"
-  },
-  {
-    "day": "2026_04_20",
     "index": 14,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
