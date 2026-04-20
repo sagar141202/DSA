@@ -1,9 +1,10 @@
 [
-  "Unique Paths",
-  "Word Ladder",
-  "Roman to Integer",
   "Rotate List",
+  "Roman to Integer",
+  "Articulation Points",
   "Beautiful Arrangement",
+  "Unique Paths",
   "Sqrt(x)",
+  "Word Ladder",
   "Tarjan's Algorithm (SCC)"
 ]
