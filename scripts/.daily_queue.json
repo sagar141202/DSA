@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 12,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_04_20",
     "index": 13,
     "topic": "Linked_Lists",
     "question": "Flatten a Multilevel Doubly Linked List"

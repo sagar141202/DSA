@@ -1,13 +1,14 @@
 [
+  "Unique Paths",
+  "Rotate List",
+  "Tarjan's Algorithm (SCC)",
   "Fractional Knapsack",
   "Articulation Points",
+  "Beautiful Arrangement",
   "Permutations II",
-  "Rotate List",
-  "Word Ladder",
-  "Accounts Merge",
   "Roman to Integer",
-  "Unique Paths",
-  "Tarjan's Algorithm (SCC)",
   "Sqrt(x)",
-  "Beautiful Arrangement"
+  "Smallest Range Covering Elements from K Lists",
+  "Word Ladder",
+  "Accounts Merge"
 ]
