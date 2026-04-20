@@ -1,10 +1,11 @@
 [
-  "Rotate List",
   "Roman to Integer",
-  "Articulation Points",
+  "Accounts Merge",
   "Beautiful Arrangement",
   "Unique Paths",
+  "Articulation Points",
   "Sqrt(x)",
-  "Word Ladder",
-  "Tarjan's Algorithm (SCC)"
+  "Rotate List",
+  "Tarjan's Algorithm (SCC)",
+  "Word Ladder"
 ]
