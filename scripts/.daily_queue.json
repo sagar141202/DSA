@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_20",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 15,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 16,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 19,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_04_20",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  }
+]
