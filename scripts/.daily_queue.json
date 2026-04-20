@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 5,
-    "topic": "Advanced_Graphs",
-    "question": "Tarjan's Algorithm (SCC)"
-  },
-  {
-    "day": "2026_04_20",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Word Ladder"
