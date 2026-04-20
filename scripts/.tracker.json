@@ -1,16 +1,17 @@
 [
-  "Smallest Range Covering Elements from K Lists",
   "Permutations II",
-  "Rotate List",
   "Flatten a Multilevel Doubly Linked List",
   "Implement Trie (Prefix Tree)",
-  "Articulation Points",
-  "Accounts Merge",
   "Beautiful Arrangement",
-  "Tarjan's Algorithm (SCC)",
-  "Fractional Knapsack",
   "Sqrt(x)",
+  "Remove K Digits",
+  "Word Ladder",
+  "Rotate List",
   "Roman to Integer",
+  "Fractional Knapsack",
   "Unique Paths",
-  "Word Ladder"
+  "Articulation Points",
+  "Smallest Range Covering Elements from K Lists",
+  "Tarjan's Algorithm (SCC)",
+  "Accounts Merge"
 ]
