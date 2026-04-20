@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Valid Parentheses"
-  },
-  {
-    "day": "2026_04_20",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Decode String"
