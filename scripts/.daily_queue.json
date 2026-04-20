@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_20",
-    "index": 5,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_04_20",
     "index": 6,
     "topic": "Greedy",
     "question": "Huffman Coding"
