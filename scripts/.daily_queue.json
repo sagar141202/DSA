@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 7,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_04_21",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Group Anagrams"
