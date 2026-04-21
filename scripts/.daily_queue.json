@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 4,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Kth Largest Element in a Stream"
-  },
-  {
-    "day": "2026_04_21",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Combination Sum II"
