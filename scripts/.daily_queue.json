@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 19,
-    "topic": "Linked_Lists",
-    "question": "Add Two Numbers"
-  },
-  {
-    "day": "2026_04_21",
     "index": 20,
     "topic": "Trees_and_Graphs",
     "question": "Number of Islands"
