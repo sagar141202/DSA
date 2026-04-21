@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 2,
-    "topic": "Linked_Lists",
-    "question": "Copy List with Random Pointer"
-  },
-  {
-    "day": "2026_04_21",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Word Search"
