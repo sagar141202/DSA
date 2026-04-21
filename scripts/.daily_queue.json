@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_21",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 10,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Remove Duplicates from Sorted List"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 16,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  }
+]
