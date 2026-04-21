@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_21",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 4,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 6,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 8,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 9,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 11,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 12,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 15,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 16,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 17,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_04_21",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  }
+]
