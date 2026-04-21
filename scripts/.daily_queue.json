@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Subarray (Kadane's Algorithm)"
-  },
-  {
-    "day": "2026_04_21",
     "index": 19,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations"
