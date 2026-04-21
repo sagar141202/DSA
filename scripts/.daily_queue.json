@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_21",
-    "index": 9,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Sudoku Solver"
-  },
-  {
-    "day": "2026_04_21",
     "index": 10,
     "topic": "Linked_Lists",
     "question": "Intersection of Two Linked Lists"
