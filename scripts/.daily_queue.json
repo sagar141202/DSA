@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_22",
-    "index": 6,
-    "topic": "Arrays_and_Strings",
-    "question": "Set Matrix Zeroes"
-  },
-  {
-    "day": "2026_04_22",
     "index": 7,
     "topic": "Math_and_Number_Theory",
     "question": "Reverse Integer"
