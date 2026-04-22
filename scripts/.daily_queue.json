@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_22",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_04_22",
     "index": 6,
     "topic": "Arrays_and_Strings",
     "question": "Set Matrix Zeroes"
