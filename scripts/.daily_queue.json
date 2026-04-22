@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_22",
-    "index": 4,
-    "topic": "Linked_Lists",
-    "question": "Odd Even Linked List"
-  },
-  {
-    "day": "2026_04_22",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Serialize and Deserialize Binary Tree"
