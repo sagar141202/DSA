@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_22",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_04_22",
     "index": 9,
     "topic": "Stacks_and_Queues",
     "question": "Basic Calculator II"
