@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_22",
-    "index": 16,
-    "topic": "Greedy",
-    "question": "Boats to Save People"
-  },
-  {
-    "day": "2026_04_22",
     "index": 17,
     "topic": "Dynamic_Programming",
     "question": "Longest Palindromic Subsequence"
