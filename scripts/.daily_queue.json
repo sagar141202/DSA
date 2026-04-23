@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Contains Duplicate"
-  },
-  {
-    "day": "2026_04_23",
     "index": 4,
     "topic": "Arrays_and_Strings",
     "question": "3Sum"
