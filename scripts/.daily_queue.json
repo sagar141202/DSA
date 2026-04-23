@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Validate Binary Search Tree"
-  },
-  {
-    "day": "2026_04_23",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
