@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 9,
-    "topic": "Linked_Lists",
-    "question": "Reverse Linked List"
-  },
-  {
-    "day": "2026_04_23",
     "index": 10,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
