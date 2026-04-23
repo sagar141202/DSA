@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 11,
-    "topic": "Advanced_Graphs",
-    "question": "Floyd-Warshall Algorithm"
-  },
-  {
-    "day": "2026_04_23",
     "index": 12,
     "topic": "Math_and_Number_Theory",
     "question": "Count Primes (Sieve)"
