@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_23",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 6,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 9,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Remove Nth Node From End"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 12,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 13,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 15,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 16,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_04_23",
+    "index": 20,
+    "topic": "Math_and_Number_Theory",
+    "question": "Factorial Trailing Zeroes"
+  }
+]
