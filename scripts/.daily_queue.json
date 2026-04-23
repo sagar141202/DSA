@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 10,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Product Subarray"
-  },
-  {
-    "day": "2026_04_23",
     "index": 11,
     "topic": "Heaps_and_Priority_Queues",
     "question": "K Closest Points to Origin"
