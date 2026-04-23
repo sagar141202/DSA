@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 10,
-    "topic": "Linked_Lists",
-    "question": "Remove Nth Node From End"
-  },
-  {
-    "day": "2026_04_23",
     "index": 11,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
