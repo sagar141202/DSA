@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_23",
-    "index": 17,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Subsets II"
-  },
-  {
-    "day": "2026_04_23",
     "index": 18,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Level Order Traversal"
