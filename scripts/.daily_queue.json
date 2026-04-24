@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_24",
+    "index": 2,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 6,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 9,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 12,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 16,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Valid Anagram"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_04_24",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  }
+]
