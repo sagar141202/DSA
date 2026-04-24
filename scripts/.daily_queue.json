@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_24",
-    "index": 9,
-    "topic": "Math_and_Number_Theory",
-    "question": "Palindrome Number"
-  },
-  {
-    "day": "2026_04_24",
     "index": 10,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
