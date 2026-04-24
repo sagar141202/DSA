@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_24",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "Valid Anagram"
-  },
-  {
-    "day": "2026_04_24",
     "index": 10,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
