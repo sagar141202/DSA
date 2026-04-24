@@ -1,13 +1,14 @@
 [
-  "Climbing Stairs",
-  "Next Greater Element II",
-  "Evaluate Reverse Polish Notation",
+  "Bridges in Graph",
   "Minimum Spanning Tree (Prim's)",
   "Construct Binary Tree from Preorder and Inorder Traversal",
-  "Find Median from Data Stream",
-  "Minimum Path Sum",
+  "Smallest Range Covering Elements from K Lists",
   "Maximum Product Subarray",
-  "Palindrome Number",
+  "Minimum Path Sum",
+  "Evaluate Reverse Polish Notation",
   "Implement Queue using Stacks",
-  "Bridges in Graph"
+  "Palindrome Number",
+  "Next Greater Element II",
+  "Find Median from Data Stream",
+  "Climbing Stairs"
 ]
