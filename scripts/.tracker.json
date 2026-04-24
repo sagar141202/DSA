@@ -1,8 +1,9 @@
 [
   "Implement Queue using Stacks",
   "Find Median from Data Stream",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
   "Bridges in Graph",
   "Climbing Stairs",
+  "Construct Binary Tree from Preorder and Inorder Traversal",
+  "Next Greater Element II",
   "Maximum Product Subarray"
 ]
