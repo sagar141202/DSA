@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_24",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Valid Anagram"
-  },
-  {
-    "day": "2026_04_24",
     "index": 19,
     "topic": "Greedy",
     "question": "Fractional Knapsack"
