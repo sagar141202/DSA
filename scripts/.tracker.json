@@ -1,15 +1,16 @@
 [
-  "Find Median from Data Stream",
-  "Climbing Stairs",
   "Maximum Product Subarray",
-  "Implement Queue using Stacks",
-  "Bridges in Graph",
+  "House Robber II",
+  "Smallest Range Covering Elements from K Lists",
+  "Climbing Stairs",
   "Minimum Spanning Tree (Prim's)",
   "Construct Binary Tree from Preorder and Inorder Traversal",
-  "Palindrome Number",
+  "Design Add and Search Words Data Structure",
+  "Implement Queue using Stacks",
+  "Find Median from Data Stream",
   "Minimum Path Sum",
-  "Evaluate Reverse Polish Notation",
+  "Palindrome Number",
+  "Bridges in Graph",
   "Next Greater Element II",
-  "House Robber II",
-  "Smallest Range Covering Elements from K Lists"
+  "Evaluate Reverse Polish Notation"
 ]
