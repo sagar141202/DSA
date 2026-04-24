@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_24",
-    "index": 2,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Combination Sum"
-  },
-  {
-    "day": "2026_04_24",
     "index": 3,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
