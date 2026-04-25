@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_25",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Find K Closest Elements"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 10,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 13,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 14,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 16,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 19,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 20,
+    "topic": "Greedy",
+    "question": "Activity Selection"
+  }
+]
