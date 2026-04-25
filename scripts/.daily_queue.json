@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_25",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Remove Duplicates from Sorted List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 3,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 8,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 13,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 15,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 16,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_04_25",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  }
+]
