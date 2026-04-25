@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 12,
-    "topic": "Dynamic_Programming",
-    "question": "Regular Expression Matching"
-  },
-  {
-    "day": "2026_04_25",
     "index": 13,
     "topic": "Sorting_and_Searching",
     "question": "Count of Smaller Numbers After Self"
