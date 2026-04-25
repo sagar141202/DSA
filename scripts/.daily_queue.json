@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Palindromic Substrings"
-  },
-  {
-    "day": "2026_04_25",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Gray Code"
