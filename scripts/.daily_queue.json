@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Maximum Square of 1s"
-  },
-  {
-    "day": "2026_04_25",
     "index": 20,
     "topic": "Recursion_and_Backtracking",
     "question": "N-Queens"
