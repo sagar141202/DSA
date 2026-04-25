@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Contains Duplicate"
-  },
-  {
-    "day": "2026_04_25",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Maximum Square of 1s"
