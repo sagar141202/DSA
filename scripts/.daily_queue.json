@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Surrounded Regions"
-  },
-  {
-    "day": "2026_04_25",
     "index": 9,
     "topic": "Sorting_and_Searching",
     "question": "Quick Sort Implementation"
