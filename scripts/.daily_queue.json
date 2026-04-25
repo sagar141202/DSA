@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Word Ladder"
-  },
-  {
-    "day": "2026_04_25",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
