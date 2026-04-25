@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_25",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_04_25",
     "index": 6,
     "topic": "Recursion_and_Backtracking",
     "question": "Combination Sum"
