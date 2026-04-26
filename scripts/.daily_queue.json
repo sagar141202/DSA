@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Subarray (Kadane's Algorithm)"
-  },
-  {
-    "day": "2026_04_26",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
