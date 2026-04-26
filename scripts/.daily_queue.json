@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 13,
-    "topic": "Arrays_and_Strings",
-    "question": "Rotate Array"
-  },
-  {
-    "day": "2026_04_26",
     "index": 14,
     "topic": "Heaps_and_Priority_Queues",
     "question": "K Closest Points to Origin"
