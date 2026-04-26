@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 16,
-    "topic": "Math_and_Number_Theory",
-    "question": "Excel Sheet Column Number"
-  },
-  {
-    "day": "2026_04_26",
     "index": 17,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
