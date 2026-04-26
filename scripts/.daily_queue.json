@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 7,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Task Scheduler"
-  },
-  {
-    "day": "2026_04_26",
     "index": 8,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
