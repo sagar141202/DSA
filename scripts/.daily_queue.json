@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 8,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_04_26",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
