@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 2,
-    "topic": "Arrays_and_Strings",
-    "question": "Trapping Rain Water"
-  },
-  {
-    "day": "2026_04_26",
     "index": 3,
     "topic": "Sorting_and_Searching",
     "question": "Meeting Rooms II"
