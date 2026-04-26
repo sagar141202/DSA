@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 13,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_04_26",
     "index": 14,
     "topic": "Trees_and_Graphs",
     "question": "Kth Smallest Element in BST"
