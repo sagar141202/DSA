@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_26",
-    "index": 17,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_04_26",
     "index": 18,
     "topic": "Recursion_and_Backtracking",
     "question": "Subsets II"
