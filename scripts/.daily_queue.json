@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_26",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 8,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 11,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Rotate Array"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 16,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_04_26",
+    "index": 20,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  }
+]
