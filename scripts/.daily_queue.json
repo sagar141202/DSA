@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_27",
-    "index": 12,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Permutations II"
-  },
-  {
-    "day": "2026_04_27",
     "index": 13,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
