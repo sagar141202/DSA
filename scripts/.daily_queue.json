@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_27",
-    "index": 11,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_04_27",
     "index": 12,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations II"
