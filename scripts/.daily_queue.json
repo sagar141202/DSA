@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_27",
-    "index": 7,
-    "topic": "Trees_and_Graphs",
-    "question": "Graph Valid Tree"
-  },
-  {
-    "day": "2026_04_27",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Asteroid Collision"
