@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_27",
-    "index": 10,
-    "topic": "Greedy",
-    "question": "Boats to Save People"
-  },
-  {
-    "day": "2026_04_27",
     "index": 11,
     "topic": "Greedy",
     "question": "Dijkstra's Algorithm"
