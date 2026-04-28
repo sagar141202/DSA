@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_28",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Coin Change"
-  },
-  {
-    "day": "2026_04_28",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Validate Binary Search Tree"
