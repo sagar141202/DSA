@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_28",
-    "index": 4,
-    "topic": "Bit_Manipulation",
-    "question": "Reverse Bits"
-  },
-  {
-    "day": "2026_04_28",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "Move Zeroes"
