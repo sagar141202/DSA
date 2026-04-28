@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_28",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_04_28",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
