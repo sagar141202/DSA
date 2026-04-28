@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_04_28",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Target Sum"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 6,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 11,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 12,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_04_28",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  }
+]
