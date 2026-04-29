@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 11,
-    "topic": "Trees_and_Graphs",
-    "question": "Path Sum"
-  },
-  {
-    "day": "2026_04_29",
     "index": 12,
     "topic": "Linked_Lists",
     "question": "Remove Duplicates from Sorted List"

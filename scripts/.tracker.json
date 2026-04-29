@@ -1,12 +1,13 @@
 [
-  "Minimum Number of Arrows to Burst Balloons",
-  "Huffman Coding",
-  "Task Scheduler",
-  "Reorder List",
-  "Largest Rectangle in Histogram",
-  "Maximum Product Subarray",
-  "Assign Cookies",
+  "Path Sum",
+  "Sliding Window Median",
   "Best Time to Buy and Sell Stock",
+  "Minimum Number of Arrows to Burst Balloons",
+  "Reorder List",
+  "Huffman Coding",
   "Count of Smaller Numbers After Self",
-  "Sliding Window Median"
+  "Largest Rectangle in Histogram",
+  "Task Scheduler",
+  "Maximum Product Subarray",
+  "Assign Cookies"
 ]
