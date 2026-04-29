@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 11,
-    "topic": "Trees_and_Graphs",
-    "question": "Diameter of Binary Tree"
-  },
-  {
-    "day": "2026_04_29",
     "index": 12,
     "topic": "Dynamic_Programming",
     "question": "Combination Sum IV"
