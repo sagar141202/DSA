@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 19,
-    "topic": "Advanced_Graphs",
-    "question": "Bridges in Graph"
-  },
-  {
-    "day": "2026_04_29",
     "index": 20,
     "topic": "Dynamic_Programming",
     "question": "Longest Common Subsequence"
