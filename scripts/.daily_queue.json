@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 4,
-    "topic": "Tries",
-    "question": "Replace Words"
-  },
-  {
-    "day": "2026_04_29",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "Minimum Window Substring"
