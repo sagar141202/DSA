@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 6,
-    "topic": "Sorting_and_Searching",
-    "question": "Search a 2D Matrix II"
-  },
-  {
-    "day": "2026_04_29",
     "index": 7,
     "topic": "Advanced_Graphs",
     "question": "Minimum Spanning Tree (Kruskal's)"
