@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Invert Binary Tree"
-  },
-  {
-    "day": "2026_04_29",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Redundant Connection"
