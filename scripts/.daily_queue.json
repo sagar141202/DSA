@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 15,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_04_29",
     "index": 16,
     "topic": "Trees_and_Graphs",
     "question": "Surrounded Regions"
