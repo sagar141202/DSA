@@ -1,15 +1,16 @@
 [
   "Count of Smaller Numbers After Self",
+  "Largest Rectangle in Histogram",
+  "Assign Cookies",
+  "Huffman Coding",
   "Minimum Number of Arrows to Burst Balloons",
   "Maximum Product Subarray",
-  "Remove Duplicates from Sorted List",
-  "Assign Cookies",
   "Sliding Window Median",
+  "Reorder List",
+  "Remove Duplicates from Sorted List",
+  "Sqrt(x)",
+  "Path Sum",
   "Task Scheduler",
   "Best Time to Buy and Sell Stock",
-  "Path Sum",
-  "Huffman Coding",
-  "Maximum Depth of Binary Tree",
-  "Largest Rectangle in Histogram",
-  "Reorder List"
+  "Maximum Depth of Binary Tree"
 ]
