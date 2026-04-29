@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 7,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_04_29",
     "index": 8,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Task Scheduler"
