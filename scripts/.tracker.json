@@ -1,13 +1,14 @@
 [
-  "Path Sum",
-  "Sliding Window Median",
-  "Best Time to Buy and Sell Stock",
+  "Assign Cookies",
   "Minimum Number of Arrows to Burst Balloons",
-  "Reorder List",
-  "Huffman Coding",
   "Count of Smaller Numbers After Self",
-  "Largest Rectangle in Histogram",
+  "Remove Duplicates from Sorted List",
   "Task Scheduler",
+  "Huffman Coding",
+  "Largest Rectangle in Histogram",
+  "Sliding Window Median",
+  "Reorder List",
+  "Best Time to Buy and Sell Stock",
   "Maximum Product Subarray",
-  "Assign Cookies"
+  "Path Sum"
 ]
