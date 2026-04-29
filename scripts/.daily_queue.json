@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 8,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Task Scheduler"
-  },
-  {
-    "day": "2026_04_29",
     "index": 9,
     "topic": "Arrays_and_Strings",
     "question": "Maximum Product Subarray"
