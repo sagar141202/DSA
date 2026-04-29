@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_04_29",
     "index": 18,
     "topic": "Sorting_and_Searching",
     "question": "Sort Colors (Dutch Flag)"
