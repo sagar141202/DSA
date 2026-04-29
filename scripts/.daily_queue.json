@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_29",
-    "index": 2,
-    "topic": "Greedy",
-    "question": "Assign Cookies"
-  },
-  {
-    "day": "2026_04_29",
     "index": 3,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Sliding Window Median"
