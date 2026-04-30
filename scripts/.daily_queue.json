@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Move Zeroes"
-  },
-  {
-    "day": "2026_04_30",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Remove K Digits"
