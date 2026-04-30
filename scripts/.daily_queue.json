@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 17,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_04_30",
     "index": 18,
     "topic": "Sorting_and_Searching",
     "question": "Search a 2D Matrix II"
