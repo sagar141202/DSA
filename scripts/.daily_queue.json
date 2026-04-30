@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 19,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_04_30",
     "index": 20,
     "topic": "Bit_Manipulation",
     "question": "Bitwise AND of Numbers Range"
