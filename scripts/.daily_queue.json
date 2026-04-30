@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Regular Expression Matching"
-  },
-  {
-    "day": "2026_04_30",
     "index": 9,
     "topic": "Math_and_Number_Theory",
     "question": "Integer to Roman"
