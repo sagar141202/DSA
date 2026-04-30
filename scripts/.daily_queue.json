@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 16,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_04_30",
     "index": 17,
     "topic": "Arrays_and_Strings",
     "question": "Pascal's Triangle"
