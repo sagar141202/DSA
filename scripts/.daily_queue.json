@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 2,
-    "topic": "Sorting_and_Searching",
-    "question": "Find K Closest Elements"
-  },
-  {
-    "day": "2026_04_30",
     "index": 3,
     "topic": "Linked_Lists",
     "question": "Merge Two Sorted Lists"
