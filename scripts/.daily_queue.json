@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_04_30",
-    "index": 14,
-    "topic": "Math_and_Number_Theory",
-    "question": "Palindrome Number"
-  },
-  {
-    "day": "2026_04_30",
     "index": 15,
     "topic": "Arrays_and_Strings",
     "question": "Valid Anagram"
