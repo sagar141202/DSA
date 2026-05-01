@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 15,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Gray Code"
-  },
-  {
-    "day": "2026_05_01",
     "index": 16,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
