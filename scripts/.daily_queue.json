@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_05_01",
     "index": 6,
     "topic": "Math_and_Number_Theory",
     "question": "Count Primes (Sieve)"
