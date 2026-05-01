@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 17,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_05_01",
     "index": 18,
     "topic": "Math_and_Number_Theory",
     "question": "Pow(x,n)"
