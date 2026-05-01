@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_05_01",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
