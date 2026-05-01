@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 9,
-    "topic": "Bit_Manipulation",
-    "question": "Missing Number"
-  },
-  {
-    "day": "2026_05_01",
     "index": 10,
     "topic": "Tries",
     "question": "Design Add and Search Words Data Structure"
