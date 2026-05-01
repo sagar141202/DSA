@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_01",
-    "index": 7,
-    "topic": "Greedy",
-    "question": "Non-overlapping Intervals"
-  },
-  {
-    "day": "2026_05_01",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "3Sum"
