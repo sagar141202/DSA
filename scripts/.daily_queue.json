@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 4,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_05_02",
     "index": 5,
     "topic": "Sorting_and_Searching",
     "question": "Median of Two Sorted Arrays"
