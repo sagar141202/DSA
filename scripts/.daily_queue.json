@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 7,
-    "topic": "Greedy",
-    "question": "Minimum Spanning Tree (Prim's)"
-  },
-  {
-    "day": "2026_05_02",
     "index": 8,
     "topic": "Heaps_and_Priority_Queues",
     "question": "K Closest Points to Origin"
