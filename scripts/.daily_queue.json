@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_02",
+    "index": 2,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 4,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 9,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 12,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 14,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 19,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_05_02",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  }
+]
