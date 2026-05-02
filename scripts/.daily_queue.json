@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 19,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_05_02",
     "index": 20,
     "topic": "Tries",
     "question": "Replace Words"
