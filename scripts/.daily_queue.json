@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 12,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_05_02",
     "index": 13,
     "topic": "Linked_Lists",
     "question": "Rotate List"
