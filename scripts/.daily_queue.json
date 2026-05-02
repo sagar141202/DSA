@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 11,
-    "topic": "Advanced_Graphs",
-    "question": "Floyd-Warshall Algorithm"
-  },
-  {
-    "day": "2026_05_02",
     "index": 12,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Top K Frequent Elements"
