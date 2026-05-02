@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 16,
-    "topic": "Greedy",
-    "question": "Fractional Knapsack"
-  },
-  {
-    "day": "2026_05_02",
     "index": 17,
     "topic": "Dynamic_Programming",
     "question": "Coin Change"
