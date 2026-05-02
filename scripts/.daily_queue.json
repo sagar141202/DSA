@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 10,
-    "topic": "Stacks_and_Queues",
-    "question": "Min Stack"
-  },
-  {
-    "day": "2026_05_02",
     "index": 11,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
