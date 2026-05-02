@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_02",
-    "index": 5,
-    "topic": "Advanced_Graphs",
-    "question": "Alien Dictionary"
-  },
-  {
-    "day": "2026_05_02",
     "index": 6,
     "topic": "Arrays_and_Strings",
     "question": "Longest Substring Without Repeating Characters"
