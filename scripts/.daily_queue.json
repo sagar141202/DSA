@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_03",
-    "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Symmetric Tree"
-  },
-  {
-    "day": "2026_05_03",
     "index": 13,
     "topic": "Dynamic_Programming",
     "question": "Maximum Square of 1s"
