@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_03",
-    "index": 10,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_05_03",
     "index": 11,
     "topic": "Bit_Manipulation",
     "question": "Sum of Two Integers"
