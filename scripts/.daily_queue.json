@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_04",
+    "index": 2,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Jump Game"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 4,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 16,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Factorial Trailing Zeroes"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 18,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 19,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_05_04",
+    "index": 20,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  }
+]
