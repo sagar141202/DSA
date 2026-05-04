@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_04",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_05_04",
     "index": 16,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
