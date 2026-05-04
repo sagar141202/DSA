@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_04",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_05_04",
     "index": 10,
     "topic": "Dynamic_Programming",
     "question": "House Robber II"
