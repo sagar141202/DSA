@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_04",
-    "index": 4,
-    "topic": "Math_and_Number_Theory",
-    "question": "Excel Sheet Column Number"
-  },
-  {
-    "day": "2026_05_04",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Asteroid Collision"
