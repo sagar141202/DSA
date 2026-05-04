@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_04",
-    "index": 11,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_05_04",
     "index": 12,
     "topic": "Linked_Lists",
     "question": "Odd Even Linked List"
