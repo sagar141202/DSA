@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_05",
-    "index": 5,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_05_05",
     "index": 6,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
