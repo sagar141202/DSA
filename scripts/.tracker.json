@@ -1,14 +1,15 @@
 [
-  "Count Primes (Sieve)",
+  "Generate Parentheses",
+  "Decode String",
+  "Reorder List",
+  "Rotate List",
   "Sum of Two Integers",
+  "Minimum Spanning Tree (Prim's)",
+  "Triangle Minimum Path",
   "Longest Substring Without Repeating Characters",
   "Invert Binary Tree",
+  "Evaluate Reverse Polish Notation",
   "Permutations II",
-  "Number of 1 Bits",
-  "Decode String",
-  "Rotate List",
-  "Reorder List",
-  "Generate Parentheses",
-  "Minimum Spanning Tree (Prim's)",
-  "Evaluate Reverse Polish Notation"
+  "Count Primes (Sieve)",
+  "Number of 1 Bits"
 ]
