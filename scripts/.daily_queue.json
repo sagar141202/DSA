@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_05",
-    "index": 14,
-    "topic": "Recursion_and_Backtracking",
-    "question": "N-Queens"
-  },
-  {
-    "day": "2026_05_05",
     "index": 15,
     "topic": "Bit_Manipulation",
     "question": "Bitwise AND of Numbers Range"
