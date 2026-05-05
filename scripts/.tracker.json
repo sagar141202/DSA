@@ -1,10 +1,11 @@
 [
-  "Number of 1 Bits",
-  "Decode String",
   "Generate Parentheses",
   "Rotate List",
   "Permutations II",
+  "Evaluate Reverse Polish Notation",
   "Longest Substring Without Repeating Characters",
+  "Number of 1 Bits",
+  "Decode String",
   "Sum of Two Integers",
-  "Evaluate Reverse Polish Notation"
+  "Minimum Spanning Tree (Prim's)"
 ]
