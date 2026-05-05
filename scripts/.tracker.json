@@ -1,17 +1,18 @@
 [
-  "Reorder List",
   "Generate Parentheses",
+  "Rotate List",
+  "Minimum Spanning Tree (Prim's)",
+  "Longest Substring Without Repeating Characters",
   "Number of 1 Bits",
   "Invert Binary Tree",
-  "Permutations II",
-  "Sum of Two Integers",
-  "Triangle Minimum Path",
-  "Rotate List",
   "Decode String",
-  "Minimum Spanning Tree (Prim's)",
+  "XOR of all Numbers in Range",
+  "Sum of Two Integers",
   "Linked List Cycle",
-  "Longest Substring Without Repeating Characters",
-  "Missing Number",
   "Count Primes (Sieve)",
-  "Evaluate Reverse Polish Notation"
+  "Evaluate Reverse Polish Notation",
+  "Triangle Minimum Path",
+  "Reorder List",
+  "Permutations II",
+  "Missing Number"
 ]
