@@ -1,9 +1,10 @@
 [
-  "Rotate List",
-  "Evaluate Reverse Polish Notation",
+  "Number of 1 Bits",
   "Decode String",
-  "Permutations II",
-  "Sum of Two Integers",
   "Generate Parentheses",
-  "Number of 1 Bits"
+  "Rotate List",
+  "Permutations II",
+  "Longest Substring Without Repeating Characters",
+  "Sum of Two Integers",
+  "Evaluate Reverse Polish Notation"
 ]
