@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_05",
-    "index": 10,
-    "topic": "Math_and_Number_Theory",
-    "question": "Count Primes (Sieve)"
-  },
-  {
-    "day": "2026_05_05",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Invert Binary Tree"

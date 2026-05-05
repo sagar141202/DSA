@@ -1,11 +1,12 @@
 [
-  "Generate Parentheses",
-  "Rotate List",
-  "Permutations II",
-  "Evaluate Reverse Polish Notation",
   "Longest Substring Without Repeating Characters",
-  "Number of 1 Bits",
+  "Evaluate Reverse Polish Notation",
+  "Minimum Spanning Tree (Prim's)",
+  "Count Primes (Sieve)",
   "Decode String",
+  "Rotate List",
   "Sum of Two Integers",
-  "Minimum Spanning Tree (Prim's)"
+  "Number of 1 Bits",
+  "Generate Parentheses",
+  "Permutations II"
 ]
