@@ -1,8 +1,9 @@
 [
-  "Number of 1 Bits",
-  "Sum of Two Integers",
   "Rotate List",
-  "Generate Parentheses",
   "Evaluate Reverse Polish Notation",
-  "Decode String"
+  "Decode String",
+  "Permutations II",
+  "Sum of Two Integers",
+  "Generate Parentheses",
+  "Number of 1 Bits"
 ]
