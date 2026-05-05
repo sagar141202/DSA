@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_05",
-    "index": 17,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "K Closest Points to Origin"
-  },
-  {
-    "day": "2026_05_05",
     "index": 18,
     "topic": "Stacks_and_Queues",
     "question": "Basic Calculator II"
