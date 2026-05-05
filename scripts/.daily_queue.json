@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_05",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 5,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 9,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 10,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 16,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 17,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_05_05",
+    "index": 20,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  }
+]
