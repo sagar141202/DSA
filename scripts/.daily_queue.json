@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Palindromic Substrings"
-  },
-  {
-    "day": "2026_05_06",
     "index": 20,
     "topic": "Sorting_and_Searching",
     "question": "Wiggle Sort II"
