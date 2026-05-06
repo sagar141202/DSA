@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Redundant Connection"
-  },
-  {
-    "day": "2026_05_06",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
