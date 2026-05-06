@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 6,
-    "topic": "Math_and_Number_Theory",
-    "question": "Factorial Trailing Zeroes"
-  },
-  {
-    "day": "2026_05_06",
     "index": 7,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
