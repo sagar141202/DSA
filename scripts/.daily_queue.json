@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 11,
-    "topic": "Stacks_and_Queues",
-    "question": "Remove K Digits"
-  },
-  {
-    "day": "2026_05_06",
     "index": 12,
     "topic": "Tries",
     "question": "Replace Words"
