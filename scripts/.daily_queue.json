@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 9,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_05_06",
     "index": 10,
     "topic": "Math_and_Number_Theory",
     "question": "Palindrome Number"
