@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_06",
-    "index": 8,
-    "topic": "Bit_Manipulation",
-    "question": "Counting Bits"
-  },
-  {
-    "day": "2026_05_06",
     "index": 9,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
