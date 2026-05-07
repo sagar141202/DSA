@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_07",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_05_07",
     "index": 19,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
