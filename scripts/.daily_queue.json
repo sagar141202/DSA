@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_07",
-    "index": 15,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_05_07",
     "index": 16,
     "topic": "Stacks_and_Queues",
     "question": "Largest Rectangle in Histogram"
