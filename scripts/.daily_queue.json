@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_07",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Flatten a Multilevel Doubly Linked List"
-  },
-  {
-    "day": "2026_05_07",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Maximum Subarray (Kadane's Algorithm)"
