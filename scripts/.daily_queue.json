@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_07",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "3Sum"
-  },
-  {
-    "day": "2026_05_07",
     "index": 10,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
