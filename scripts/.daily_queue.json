@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_08",
-    "index": 5,
-    "topic": "Linked_Lists",
-    "question": "Add Two Numbers"
-  },
-  {
-    "day": "2026_05_08",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Word Ladder"
