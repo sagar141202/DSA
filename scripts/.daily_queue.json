@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_08",
-    "index": 16,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Common Subsequence"
-  },
-  {
-    "day": "2026_05_08",
     "index": 17,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
