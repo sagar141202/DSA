@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_08",
-    "index": 19,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Letter Combinations of Phone Number"
-  },
-  {
-    "day": "2026_05_08",
     "index": 20,
     "topic": "Trees_and_Graphs",
     "question": "Accounts Merge"
