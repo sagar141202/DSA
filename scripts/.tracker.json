@@ -1,6 +1,7 @@
 [
-  "Partition List",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
   "Merge Sort Implementation",
-  "Target Sum"
+  "Partition List",
+  "Target Sum",
+  "Construct Binary Tree from Preorder and Inorder Traversal",
+  "Activity Selection"
 ]
