@@ -1,17 +1,18 @@
 [
-  "Lowest Common Ancestor of BST",
-  "Activity Selection",
   "Search a 2D Matrix",
-  "Longest Word in Dictionary",
-  "Odd Even Linked List",
-  "Count of Smaller Numbers After Self",
+  "Minimum Spanning Tree (Kruskal's)",
+  "Activity Selection",
+  "Reorganize String",
+  "Construct Binary Tree from Preorder and Inorder Traversal",
   "Coin Change",
+  "Odd Even Linked List",
+  "Bellman-Ford Algorithm",
+  "Count of Smaller Numbers After Self",
+  "Paint House",
   "Partition List",
   "Merge Sort Implementation",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
-  "Paint House",
   "Non-overlapping Intervals",
-  "Reorganize String",
-  "Bellman-Ford Algorithm",
-  "Target Sum"
+  "Longest Word in Dictionary",
+  "Target Sum",
+  "Lowest Common Ancestor of BST"
 ]
