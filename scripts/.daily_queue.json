@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_10",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 5,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Product of Array Except Self"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 9,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 12,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Rotate Array"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 19,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_05_10",
+    "index": 20,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  }
+]
