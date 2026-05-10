@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_10",
-    "index": 7,
-    "topic": "Arrays_and_Strings",
-    "question": "Product of Array Except Self"
-  },
-  {
-    "day": "2026_05_10",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Implement Queue using Stacks"
