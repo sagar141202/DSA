@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_10",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Maximum Square of 1s"
-  },
-  {
-    "day": "2026_05_10",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Serialize and Deserialize Binary Tree"
