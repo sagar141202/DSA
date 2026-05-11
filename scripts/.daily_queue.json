@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_11",
-    "index": 14,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_05_11",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Surrounded Regions"
