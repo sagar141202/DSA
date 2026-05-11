@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_11",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Course Schedule (Topological Sort)"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 6,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element I"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Maximum Path Sum"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 14,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 17,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 18,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 19,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_05_11",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  }
+]
