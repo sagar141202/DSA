@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_11",
-    "index": 7,
-    "topic": "Sorting_and_Searching",
-    "question": "Largest Number"
-  },
-  {
-    "day": "2026_05_11",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Next Greater Element I"
