@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_12",
-    "index": 11,
-    "topic": "Trees_and_Graphs",
-    "question": "Diameter of Binary Tree"
-  },
-  {
-    "day": "2026_05_12",
     "index": 12,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
