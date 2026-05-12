@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_12",
-    "index": 5,
-    "topic": "Advanced_Graphs",
-    "question": "Tarjan's Algorithm (SCC)"
-  },
-  {
-    "day": "2026_05_12",
     "index": 6,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
