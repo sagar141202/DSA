@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_13",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 4,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 9,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 10,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 14,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 19,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  }
+]
