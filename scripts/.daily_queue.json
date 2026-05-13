@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_13",
-    "index": 14,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_05_13",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
