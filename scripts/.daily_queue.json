@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_13",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Jump Game II"
-  },
-  {
-    "day": "2026_05_13",
     "index": 4,
     "topic": "Greedy",
     "question": "Minimum Spanning Tree (Prim's)"
