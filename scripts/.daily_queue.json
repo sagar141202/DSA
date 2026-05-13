@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_13",
+    "index": 2,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 3,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 4,
+    "topic": "Stacks_and_Queues",
+    "question": "Largest Rectangle in Histogram"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Find Minimum in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 6,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Find K Closest Elements"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 13,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_05_13",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  }
+]
