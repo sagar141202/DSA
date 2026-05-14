@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_14",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_05_14",
     "index": 11,
     "topic": "Stacks_and_Queues",
     "question": "Simplify Path"
