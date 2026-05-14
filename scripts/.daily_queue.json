@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_14",
+    "index": 2,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 4,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 6,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 7,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 9,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Gas Station"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 13,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 14,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 16,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_05_14",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  }
+]
