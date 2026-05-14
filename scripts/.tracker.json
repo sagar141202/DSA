@@ -1,12 +1,13 @@
 [
-  "Find K Closest Elements",
-  "Longest Palindromic Subsequence",
-  "Path Sum",
-  "Missing Number",
-  "Binary Tree Zigzag Level Order Traversal",
+  "Pow(x,n)",
   "Implement Stack using Queues",
-  "Fractional Knapsack",
+  "Find K Closest Elements",
   "Set Matrix Zeroes",
+  "Missing Number",
   "Clone Graph",
-  "Pow(x,n)"
+  "Fractional Knapsack",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Path Sum",
+  "Reverse Integer",
+  "Longest Palindromic Subsequence"
 ]
