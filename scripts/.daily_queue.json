@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_14",
-    "index": 6,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Product Subarray"
-  },
-  {
-    "day": "2026_05_14",
     "index": 7,
     "topic": "Math_and_Number_Theory",
     "question": "Reverse Integer"
