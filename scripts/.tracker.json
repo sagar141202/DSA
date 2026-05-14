@@ -1,14 +1,15 @@
 [
-  "Missing Number",
-  "Longest Palindromic Subsequence",
-  "Set Matrix Zeroes",
-  "Wildcard Matching",
-  "Reverse Integer",
-  "Clone Graph",
-  "Pow(x,n)",
-  "Implement Stack using Queues",
-  "Find K Closest Elements",
-  "Binary Tree Zigzag Level Order Traversal",
+  "Palindrome Number",
   "Fractional Knapsack",
-  "Path Sum"
+  "Clone Graph",
+  "Reverse Integer",
+  "Path Sum",
+  "Wildcard Matching",
+  "Pow(x,n)",
+  "Find K Closest Elements",
+  "Implement Stack using Queues",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Missing Number",
+  "Set Matrix Zeroes",
+  "Longest Palindromic Subsequence"
 ]
