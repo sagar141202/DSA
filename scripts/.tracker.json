@@ -1,9 +1,10 @@
 [
+  "Pow(x,n)",
   "Clone Graph",
-  "Find K Closest Elements",
-  "Set Matrix Zeroes",
-  "Fractional Knapsack",
   "Binary Tree Zigzag Level Order Traversal",
+  "Implement Stack using Queues",
+  "Fractional Knapsack",
+  "Find K Closest Elements",
   "Missing Number",
-  "Implement Stack using Queues"
+  "Set Matrix Zeroes"
 ]
