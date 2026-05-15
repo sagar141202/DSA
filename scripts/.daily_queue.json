@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_05_15",
     "index": 10,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
