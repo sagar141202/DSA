@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 3,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Letter Combinations of Phone Number"
-  },
-  {
-    "day": "2026_05_15",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Longest Increasing Subsequence"
