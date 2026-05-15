@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Rotate Array"
-  },
-  {
-    "day": "2026_05_15",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
