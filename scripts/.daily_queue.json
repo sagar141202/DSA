@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 19,
-    "topic": "Bit_Manipulation",
-    "question": "Bitwise AND of Numbers Range"
-  },
-  {
-    "day": "2026_05_15",
     "index": 20,
     "topic": "Sorting_and_Searching",
     "question": "Search a 2D Matrix"
