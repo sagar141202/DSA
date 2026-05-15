@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 13,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_05_15",
     "index": 14,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Sliding Window Median"
