@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_05_15",
     "index": 5,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Find Median from Data Stream"
