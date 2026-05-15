@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 10,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_05_15",
     "index": 11,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations II"
