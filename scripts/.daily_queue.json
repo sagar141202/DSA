@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 2,
-    "topic": "Arrays_and_Strings",
-    "question": "Container With Most Water"
-  },
-  {
-    "day": "2026_05_15",
     "index": 3,
     "topic": "Recursion_and_Backtracking",
     "question": "Letter Combinations of Phone Number"
