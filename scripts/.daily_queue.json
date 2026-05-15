@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_05_15",
     "index": 6,
     "topic": "Advanced_Graphs",
     "question": "Minimum Spanning Tree (Kruskal's)"
