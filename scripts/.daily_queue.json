@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_15",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Min Stack"
-  },
-  {
-    "day": "2026_05_15",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Implement Queue using Stacks"
