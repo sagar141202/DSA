@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_16",
-    "index": 3,
-    "topic": "Math_and_Number_Theory",
-    "question": "Happy Number"
-  },
-  {
-    "day": "2026_05_16",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
