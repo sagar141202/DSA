@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_17",
-    "index": 8,
-    "topic": "Bit_Manipulation",
-    "question": "Power of Two"
-  },
-  {
-    "day": "2026_05_17",
     "index": 9,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
