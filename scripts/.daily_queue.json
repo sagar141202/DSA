@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_17",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "Interleaving String"
-  },
-  {
-    "day": "2026_05_17",
     "index": 18,
     "topic": "Arrays_and_Strings",
     "question": "Next Permutation"
