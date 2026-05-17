@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_17",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Jump Game"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 4,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 6,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_05_17",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  }
+]
