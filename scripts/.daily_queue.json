@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_18",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_05_18",
     "index": 15,
     "topic": "Bit_Manipulation",
     "question": "XOR of all Numbers in Range"
