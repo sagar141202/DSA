@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_18",
-    "index": 19,
-    "topic": "Linked_Lists",
-    "question": "Remove Nth Node From End"
-  },
-  {
-    "day": "2026_05_18",
     "index": 20,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
