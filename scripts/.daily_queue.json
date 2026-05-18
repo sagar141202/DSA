@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_18",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Spiral Matrix"
-  },
-  {
-    "day": "2026_05_18",
     "index": 19,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
