@@ -1,12 +1,13 @@
 [
-  "Minimum Window Substring",
   "Missing Number",
-  "Reverse Bits",
-  "Climbing Stairs",
-  "Search Suggestions System",
   "Rotate List",
-  "Valid Anagram",
-  "Sum of Two Integers",
   "Coin Change",
-  "Symmetric Tree"
+  "Minimum Window Substring",
+  "Search Suggestions System",
+  "Climbing Stairs",
+  "Sum of Two Integers",
+  "Symmetric Tree",
+  "Largest Rectangle in Histogram",
+  "Reverse Bits",
+  "Valid Anagram"
 ]
