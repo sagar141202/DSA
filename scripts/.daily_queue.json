@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_19",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Minimum Window Substring"
-  },
-  {
-    "day": "2026_05_19",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
