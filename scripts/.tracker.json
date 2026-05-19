@@ -1,11 +1,12 @@
 [
-  "Sum of Two Integers",
-  "Climbing Stairs",
-  "Rotate List",
-  "Reverse Bits",
   "Minimum Window Substring",
-  "Search Suggestions System",
-  "Symmetric Tree",
   "Missing Number",
-  "Coin Change"
+  "Reverse Bits",
+  "Climbing Stairs",
+  "Search Suggestions System",
+  "Rotate List",
+  "Valid Anagram",
+  "Sum of Two Integers",
+  "Coin Change",
+  "Symmetric Tree"
 ]
