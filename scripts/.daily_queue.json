@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_19",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Remove K Digits"
-  },
-  {
-    "day": "2026_05_19",
     "index": 8,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
