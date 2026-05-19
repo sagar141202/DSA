@@ -1,14 +1,15 @@
 [
-  "Search Suggestions System",
-  "Missing Number",
-  "Symmetric Tree",
-  "Climbing Stairs",
-  "Minimum Window Substring",
-  "Rotate List",
-  "Largest Rectangle in Histogram",
-  "Valid Anagram",
-  "Coin Change",
-  "Sum of Two Integers",
   "Reverse Bits",
-  "Invert Binary Tree"
+  "Sum of Two Integers",
+  "Valid Anagram",
+  "Climbing Stairs",
+  "Largest Rectangle in Histogram",
+  "Invert Binary Tree",
+  "Rotate List",
+  "Symmetric Tree",
+  "Minimum Window Substring",
+  "Missing Number",
+  "Search Suggestions System",
+  "Construct Binary Tree from Preorder and Inorder Traversal",
+  "Coin Change"
 ]
