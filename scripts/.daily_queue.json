@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_19",
-    "index": 6,
-    "topic": "Dynamic_Programming",
-    "question": "Regular Expression Matching"
-  },
-  {
-    "day": "2026_05_19",
     "index": 7,
     "topic": "Stacks_and_Queues",
     "question": "Remove K Digits"
