@@ -1,15 +1,16 @@
 [
-  "Reverse Bits",
   "Sum of Two Integers",
-  "Valid Anagram",
   "Climbing Stairs",
   "Largest Rectangle in Histogram",
-  "Invert Binary Tree",
+  "Best Time to Buy and Sell Stock",
+  "Minimum Window Substring",
+  "Search Suggestions System",
+  "Coin Change",
   "Rotate List",
   "Symmetric Tree",
-  "Minimum Window Substring",
+  "Reverse Bits",
+  "Valid Anagram",
   "Missing Number",
-  "Search Suggestions System",
   "Construct Binary Tree from Preorder and Inorder Traversal",
-  "Coin Change"
+  "Invert Binary Tree"
 ]
