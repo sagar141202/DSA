@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_19",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Rotate List"
-  },
-  {
-    "day": "2026_05_19",
     "index": 8,
     "topic": "Tries",
     "question": "Search Suggestions System"

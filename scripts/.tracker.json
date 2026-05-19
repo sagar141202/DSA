@@ -1,8 +1,9 @@
 [
-  "Coin Change",
-  "Sum of Two Integers",
-  "Climbing Stairs",
-  "Minimum Window Substring",
   "Reverse Bits",
-  "Missing Number"
+  "Sum of Two Integers",
+  "Rotate List",
+  "Missing Number",
+  "Climbing Stairs",
+  "Coin Change",
+  "Minimum Window Substring"
 ]
