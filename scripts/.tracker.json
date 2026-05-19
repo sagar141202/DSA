@@ -1,10 +1,11 @@
 [
   "Sum of Two Integers",
-  "Reverse Bits",
   "Climbing Stairs",
   "Rotate List",
+  "Reverse Bits",
   "Minimum Window Substring",
-  "Coin Change",
   "Search Suggestions System",
-  "Missing Number"
+  "Symmetric Tree",
+  "Missing Number",
+  "Coin Change"
 ]
