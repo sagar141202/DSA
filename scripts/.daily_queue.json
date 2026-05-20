@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_20",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 6,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 8,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Zigzag Level Order Traversal"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 18,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_05_20",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  }
+]
