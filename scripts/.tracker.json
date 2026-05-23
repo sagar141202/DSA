@@ -1,17 +1,18 @@
 [
+  "Graph Valid Tree",
   "Bipartite Graph Check",
-  "Paint House",
-  "Sort List",
-  "Meeting Rooms II",
-  "Tarjan's Algorithm (SCC)",
+  "Spiral Matrix",
+  "Integer to Roman",
   "Palindrome Number",
   "Contains Duplicate",
   "Letter Combinations of Phone Number",
-  "Integer to Roman",
   "Lowest Common Ancestor of BST",
-  "Merge Sort Implementation",
-  "Graph Valid Tree",
-  "Spiral Matrix",
+  "Permutations II",
+  "Minimum Spanning Tree (Kruskal's)",
   "Palindrome Partitioning",
-  "Permutations II"
+  "Tarjan's Algorithm (SCC)",
+  "Merge Sort Implementation",
+  "Meeting Rooms II",
+  "Paint House",
+  "Sort List"
 ]
