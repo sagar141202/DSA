@@ -1,18 +1,18 @@
 # Redundant Connection
 
 ## Problem Statement
-In this problem, we are given a list of edges in a graph, and we need to find the redundant connection. A redundant connection is an edge that, when removed, does not affect the connectivity of the graph. The graph is represented as an undirected graph, and the edges are given as pairs of nodes. The graph may contain cycles, and we need to find the edge that is part of a cycle. The input is a 2D vector of integers, where each integer represents a node in the graph. The output is a vector of two integers, representing the nodes of the redundant connection. For example, given the input `[[1,2],[1,3],[2,3]]`, the output should be `[2,3]`, because the edge between nodes 2 and 3 is redundant.
+In this problem, we are given a list of edges in a graph, and we need to find the redundant connection. A redundant connection is an edge that, when removed, does not affect the connectivity of the graph. The graph is represented as an adjacency list, where each edge is a pair of nodes. The input will be a 2D vector of integers, where each integer represents a node in the graph. The graph is undirected and connected, and it may contain cycles. The goal is to find the redundant connection, which is the edge that can be removed without affecting the connectivity of the graph. For example, given the input `[[1,2],[1,3],[2,3]]`, the output should be `[2,3]`, because removing this edge does not affect the connectivity of the graph.
 
 ## Approach
-We can use a Union-Find algorithm to solve this problem, where we iterate over the edges and check if the two nodes are already connected. If they are, then the current edge is redundant. We can use a parent array to keep track of the connected components.
+We can use the Union-Find algorithm to solve this problem. The Union-Find algorithm is a data structure that keeps track of the connected components in a graph. We can iterate over the edges and use the Union-Find algorithm to check if the two nodes are already connected. If they are, then the current edge is the redundant connection.
 
 ## Complexity
-- Time: O(n*α(n))
+- Time: O(n alpha(n))
 - Space: O(n)
 
 ## C++ Solution
 ```cpp
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 class UnionFind {
@@ -24,34 +24,39 @@ public:
             parent[i] = i;
         }
     }
-
     int find(int x) {
         if (parent[x] != x) {
             parent[x] = find(parent[x]);
         }
         return parent[x];
     }
-
-    void unionNodes(int x, int y) {
-        int rootX = find(x);
-        int rootY = find(y);
-        if (rootX != rootY) {
-            parent[rootX] = rootY;
+    void union_(int x, int y) {
+        int rootx = find(x);
+        int rooty = find(y);
+        if (rootx != rooty) {
+            parent[rootx] = rooty;
         }
     }
 };
 
 vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-    UnionFind uf(edges.size());
+    UnionFind uf(1001); // assuming the maximum number of nodes is 1000
     for (auto& edge : edges) {
         int x = edge[0];
         int y = edge[1];
         if (uf.find(x) == uf.find(y)) {
             return edge;
         }
-        uf.unionNodes(x, y);
+        uf.union_(x, y);
     }
     return {};
+}
+
+int main() {
+    vector<vector<int>> edges = {{1,2},{1,3},{2,3}};
+    vector<int> result = findRedundantConnection(edges);
+    cout << "[" << result[0] << "," << result[1] << "]" << endl;
+    return 0;
 }
 ```
 
@@ -64,6 +69,6 @@ Output: [1,4]
 ```
 
 ## Key Takeaways
-- Use a Union-Find algorithm to keep track of connected components in the graph.
-- Iterate over the edges and check if the two nodes are already connected using the `find` method.
-- If the nodes are already connected, then the current edge is redundant and can be returned as the result.
+- The Union-Find algorithm is useful for finding connected components in a graph.
+- We can use the Union-Find algorithm to find the redundant connection in a graph by checking if the two nodes are already connected before adding the edge.
+- The time complexity of the Union-Find algorithm is O(n alpha(n)), where n is the number of nodes and alpha(n) is the inverse Ackermann function.
