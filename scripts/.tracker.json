@@ -1,11 +1,12 @@
 [
-  "Contains Duplicate",
-  "Palindrome Number",
   "Bipartite Graph Check",
-  "Graph Valid Tree",
-  "Merge Sort Implementation",
-  "Palindrome Partitioning",
   "Sort List",
+  "Merge Sort Implementation",
+  "Tarjan's Algorithm (SCC)",
+  "Palindrome Number",
+  "Paint House",
+  "Graph Valid Tree",
   "Permutations II",
-  "Tarjan's Algorithm (SCC)"
+  "Palindrome Partitioning",
+  "Contains Duplicate"
 ]
