@@ -1,12 +1,13 @@
 [
-  "Bipartite Graph Check",
   "Sort List",
-  "Merge Sort Implementation",
-  "Tarjan's Algorithm (SCC)",
   "Palindrome Number",
-  "Paint House",
+  "Merge Sort Implementation",
+  "Lowest Common Ancestor of BST",
+  "Contains Duplicate",
+  "Bipartite Graph Check",
+  "Tarjan's Algorithm (SCC)",
   "Graph Valid Tree",
+  "Paint House",
   "Permutations II",
-  "Palindrome Partitioning",
-  "Contains Duplicate"
+  "Palindrome Partitioning"
 ]
