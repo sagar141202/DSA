@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_23",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 4,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Tarjan's Algorithm (SCC)"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Paint House"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 13,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 16,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 18,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_05_23",
+    "index": 20,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  }
+]
