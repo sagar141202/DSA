@@ -1,13 +1,14 @@
 [
   "Sort List",
-  "Palindrome Number",
-  "Merge Sort Implementation",
-  "Lowest Common Ancestor of BST",
-  "Contains Duplicate",
-  "Bipartite Graph Check",
+  "Letter Combinations of Phone Number",
   "Tarjan's Algorithm (SCC)",
   "Graph Valid Tree",
   "Paint House",
   "Permutations II",
-  "Palindrome Partitioning"
+  "Contains Duplicate",
+  "Merge Sort Implementation",
+  "Palindrome Partitioning",
+  "Bipartite Graph Check",
+  "Lowest Common Ancestor of BST",
+  "Palindrome Number"
 ]
