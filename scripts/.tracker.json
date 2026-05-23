@@ -1,9 +1,10 @@
 [
-  "Palindrome Partitioning",
-  "Palindrome Number",
-  "Tarjan's Algorithm (SCC)",
   "Graph Valid Tree",
+  "Tarjan's Algorithm (SCC)",
+  "Palindrome Number",
   "Sort List",
   "Bipartite Graph Check",
+  "Merge Sort Implementation",
+  "Palindrome Partitioning",
   "Permutations II"
 ]
