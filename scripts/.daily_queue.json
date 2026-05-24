@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_24",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_05_24",
     "index": 5,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
