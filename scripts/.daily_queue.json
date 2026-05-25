@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_25",
-    "index": 12,
-    "topic": "Advanced_Graphs",
-    "question": "Articulation Points"
-  },
-  {
-    "day": "2026_05_25",
     "index": 13,
     "topic": "Greedy",
     "question": "Huffman Coding"
