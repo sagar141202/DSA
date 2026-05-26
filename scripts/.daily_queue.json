@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_26",
-    "index": 14,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_05_26",
     "index": 15,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
