@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_26",
-    "index": 10,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_05_26",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
