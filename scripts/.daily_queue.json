@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_26",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_05_26",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Number of 1 Bits"
