@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_26",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 4,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 6,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 8,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 10,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Valid Anagram"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 13,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 14,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 16,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 17,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 18,
+    "topic": "Bit_Manipulation",
+    "question": "Single Number"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_05_26",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  }
+]
