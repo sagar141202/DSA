@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_26",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Reorder List"
-  },
-  {
-    "day": "2026_05_26",
     "index": 8,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
