@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_27",
-    "index": 3,
-    "topic": "Math_and_Number_Theory",
-    "question": "Excel Sheet Column Number"
-  },
-  {
-    "day": "2026_05_27",
     "index": 4,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
