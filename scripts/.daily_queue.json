@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_27",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_05_27",
     "index": 19,
     "topic": "Recursion_and_Backtracking",
     "question": "Subsets II"
