@@ -1,14 +1,15 @@
 [
-  "Reorder List",
-  "Symmetric Tree",
-  "Sort List",
-  "Next Greater Element II",
   "Two Sum",
-  "Bitwise AND of Numbers Range",
-  "Intersection of Two Linked Lists",
-  "Merge Intervals",
-  "Tarjan's Algorithm (SCC)",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
+  "Next Greater Element II",
   "Integer to Roman",
-  "Find Peak Element"
+  "Intersection of Two Linked Lists",
+  "Bitwise AND of Numbers Range",
+  "Reorder List",
+  "Sort List",
+  "Construct Binary Tree from Preorder and Inorder Traversal",
+  "Symmetric Tree",
+  "Tarjan's Algorithm (SCC)",
+  "Binary Tree Maximum Path Sum",
+  "Find Peak Element",
+  "Merge Intervals"
 ]
