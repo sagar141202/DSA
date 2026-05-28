@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_28",
-    "index": 4,
-    "topic": "Linked_Lists",
-    "question": "Reorder List"
-  },
-  {
-    "day": "2026_05_28",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Next Greater Element II"
