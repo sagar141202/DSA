@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_05_28",
+    "index": 2,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 4,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 5,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 6,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Insert Interval"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 15,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 17,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 18,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_05_28",
+    "index": 20,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  }
+]
