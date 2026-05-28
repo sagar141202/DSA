@@ -1,9 +1,10 @@
 [
-  "Integer to Roman",
-  "Bitwise AND of Numbers Range",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
-  "Find Peak Element",
-  "Next Greater Element II",
   "Intersection of Two Linked Lists",
-  "Reorder List"
+  "Reorder List",
+  "Bitwise AND of Numbers Range",
+  "Integer to Roman",
+  "Next Greater Element II",
+  "Find Peak Element",
+  "Two Sum",
+  "Construct Binary Tree from Preorder and Inorder Traversal"
 ]
