@@ -1,11 +1,12 @@
 [
-  "Intersection of Two Linked Lists",
-  "Bitwise AND of Numbers Range",
-  "Construct Binary Tree from Preorder and Inorder Traversal",
   "Integer to Roman",
-  "Two Sum",
-  "Tarjan's Algorithm (SCC)",
   "Find Peak Element",
+  "Bitwise AND of Numbers Range",
+  "Intersection of Two Linked Lists",
+  "Two Sum",
   "Reorder List",
-  "Next Greater Element II"
+  "Sort List",
+  "Tarjan's Algorithm (SCC)",
+  "Next Greater Element II",
+  "Construct Binary Tree from Preorder and Inorder Traversal"
 ]
