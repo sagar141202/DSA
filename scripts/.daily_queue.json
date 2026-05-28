@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_28",
-    "index": 9,
-    "topic": "Arrays_and_Strings",
-    "question": "Search in Rotated Sorted Array"
-  },
-  {
-    "day": "2026_05_28",
     "index": 10,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
