@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_29",
-    "index": 19,
-    "topic": "Advanced_Graphs",
-    "question": "Euler Path"
-  },
-  {
-    "day": "2026_05_29",
     "index": 20,
     "topic": "Linked_Lists",
     "question": "Remove Duplicates from Sorted List"
