@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_29",
-    "index": 14,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_05_29",
     "index": 15,
     "topic": "Greedy",
     "question": "Non-overlapping Intervals"
