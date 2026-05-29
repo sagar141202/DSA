@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_29",
-    "index": 6,
-    "topic": "Tries",
-    "question": "Design Add and Search Words Data Structure"
-  },
-  {
-    "day": "2026_05_29",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Maximum Square of 1s"
