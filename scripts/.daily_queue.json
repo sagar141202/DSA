@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_29",
-    "index": 11,
-    "topic": "Math_and_Number_Theory",
-    "question": "Reverse Integer"
-  },
-  {
-    "day": "2026_05_29",
     "index": 12,
     "topic": "Trees_and_Graphs",
     "question": "Word Search"
