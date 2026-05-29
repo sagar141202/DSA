@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_29",
-    "index": 11,
-    "topic": "Sorting_and_Searching",
-    "question": "Sort Colors (Dutch Flag)"
-  },
-  {
-    "day": "2026_05_29",
     "index": 12,
     "topic": "Trees_and_Graphs",
     "question": "Graph Valid Tree"
