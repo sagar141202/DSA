@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_30",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Paint House"
-  },
-  {
-    "day": "2026_05_30",
     "index": 20,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Top K Frequent Elements"
