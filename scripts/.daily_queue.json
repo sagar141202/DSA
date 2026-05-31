@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_31",
-    "index": 9,
-    "topic": "Advanced_Graphs",
-    "question": "Bellman-Ford Algorithm"
-  },
-  {
-    "day": "2026_05_31",
     "index": 10,
     "topic": "Arrays_and_Strings",
     "question": "Gas Station"
