@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_31",
-    "index": 8,
-    "topic": "Stacks_and_Queues",
-    "question": "Simplify Path"
-  },
-  {
-    "day": "2026_05_31",
     "index": 9,
     "topic": "Advanced_Graphs",
     "question": "Bellman-Ford Algorithm"
