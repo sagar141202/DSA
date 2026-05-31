@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_31",
-    "index": 12,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_05_31",
     "index": 13,
     "topic": "Dynamic_Programming",
     "question": "Unique Paths"
