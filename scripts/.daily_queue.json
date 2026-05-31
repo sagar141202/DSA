@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_31",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_05_31",
     "index": 9,
     "topic": "Recursion_and_Backtracking",
     "question": "Restore IP Addresses"
