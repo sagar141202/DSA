@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_05_31",
-    "index": 10,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Beautiful Arrangement"
-  },
-  {
-    "day": "2026_05_31",
     "index": 11,
     "topic": "Linked_Lists",
     "question": "Copy List with Random Pointer"
