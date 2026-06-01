@@ -1,14 +1,15 @@
 [
-  "XOR of all Numbers in Range",
-  "Remove Nth Node From End",
-  "Car Fleet",
-  "Symmetric Tree",
   "Permutations II",
-  "Binary Tree Zigzag Level Order Traversal",
-  "Linked List Cycle II",
-  "Permutations",
   "Find Median from Data Stream",
+  "Remove Nth Node From End",
   "Triangle Minimum Path",
+  "Happy Number",
+  "Symmetric Tree",
+  "Permutations",
   "Gray Code",
-  "Happy Number"
+  "Word Break",
+  "XOR of all Numbers in Range",
+  "Binary Tree Zigzag Level Order Traversal",
+  "Car Fleet",
+  "Linked List Cycle II"
 ]
