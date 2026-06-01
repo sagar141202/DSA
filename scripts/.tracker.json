@@ -1,11 +1,12 @@
 [
-  "Happy Number",
-  "Car Fleet",
-  "Gray Code",
-  "Find Median from Data Stream",
-  "Linked List Cycle II",
-  "XOR of all Numbers in Range",
-  "Symmetric Tree",
+  "Permutations II",
   "Permutations",
-  "Permutations II"
+  "Car Fleet",
+  "Find Median from Data Stream",
+  "Symmetric Tree",
+  "Linked List Cycle II",
+  "Happy Number",
+  "XOR of all Numbers in Range",
+  "Gray Code",
+  "Remove Nth Node From End"
 ]
