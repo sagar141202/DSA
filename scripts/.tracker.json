@@ -1,17 +1,18 @@
 [
-  "Find Median from Data Stream",
-  "Remove Nth Node From End",
-  "Car Fleet",
-  "Redundant Connection",
   "XOR of all Numbers in Range",
-  "Permutations II",
-  "Happy Number",
-  "Triangle Minimum Path",
+  "Word Break",
   "Symmetric Tree",
+  "Permutations II",
   "Binary Tree Zigzag Level Order Traversal",
   "Gray Code",
+  "Redundant Connection",
+  "Triangle Minimum Path",
+  "Remove Nth Node From End",
+  "Car Fleet",
   "Linked List Cycle II",
-  "Permutations",
-  "Word Break",
-  "Container With Most Water"
+  "Container With Most Water",
+  "Happy Number",
+  "Kth Largest Element in Array",
+  "Find Median from Data Stream",
+  "Permutations"
 ]
