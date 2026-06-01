@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_01",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_06_01",
     "index": 20,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
