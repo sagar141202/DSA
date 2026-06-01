@@ -1,12 +1,13 @@
 [
-  "Permutations II",
-  "Permutations",
-  "Car Fleet",
-  "Find Median from Data Stream",
   "Symmetric Tree",
+  "Find Median from Data Stream",
   "Linked List Cycle II",
-  "Happy Number",
-  "XOR of all Numbers in Range",
   "Gray Code",
-  "Remove Nth Node From End"
+  "Permutations",
+  "Happy Number",
+  "Permutations II",
+  "Car Fleet",
+  "XOR of all Numbers in Range",
+  "Remove Nth Node From End",
+  "Binary Tree Zigzag Level Order Traversal"
 ]
