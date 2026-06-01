@@ -1,16 +1,17 @@
 [
-  "Happy Number",
-  "XOR of all Numbers in Range",
   "Find Median from Data Stream",
-  "Word Break",
   "Remove Nth Node From End",
+  "Car Fleet",
+  "Redundant Connection",
+  "XOR of all Numbers in Range",
+  "Permutations II",
+  "Happy Number",
   "Triangle Minimum Path",
   "Symmetric Tree",
-  "Permutations",
   "Binary Tree Zigzag Level Order Traversal",
-  "Permutations II",
-  "Container With Most Water",
-  "Linked List Cycle II",
   "Gray Code",
-  "Car Fleet"
+  "Linked List Cycle II",
+  "Permutations",
+  "Word Break",
+  "Container With Most Water"
 ]
