@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_02",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_06_02",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
