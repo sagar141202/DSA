@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_03",
-    "index": 9,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_06_03",
     "index": 10,
     "topic": "Arrays_and_Strings",
     "question": "Merge Intervals"
