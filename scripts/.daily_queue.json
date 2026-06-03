@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_03",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element I"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Quick Sort Implementation"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 8,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 9,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 16,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Path Sum"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_06_03",
+    "index": 20,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  }
+]
