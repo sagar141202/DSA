@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_04",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Valid Anagram"
-  },
-  {
-    "day": "2026_06_04",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "Trapping Rain Water"
