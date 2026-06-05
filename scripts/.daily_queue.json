@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_05",
-    "index": 17,
-    "topic": "Bit_Manipulation",
-    "question": "Single Number"
-  },
-  {
-    "day": "2026_06_05",
     "index": 18,
     "topic": "Arrays_and_Strings",
     "question": "Rotate Array"
