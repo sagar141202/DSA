@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_05",
-    "index": 5,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_06_05",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Number of Islands"
