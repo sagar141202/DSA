@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_05",
+    "index": 2,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 5,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 9,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Intersection of Two Linked Lists"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 14,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 16,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 17,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 18,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_06_05",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  }
+]
