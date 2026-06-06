@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_06",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Rotate Array"
-  },
-  {
-    "day": "2026_06_06",
     "index": 12,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
