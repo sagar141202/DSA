@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_06",
-    "index": 3,
-    "topic": "Sorting_and_Searching",
-    "question": "Median of Two Sorted Arrays"
-  },
-  {
-    "day": "2026_06_06",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Sum of Two Integers"
