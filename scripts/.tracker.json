@@ -1,13 +1,14 @@
 [
-  "Sum of Two Integers",
+  "K Closest Points to Origin",
   "Car Fleet",
-  "Median of Two Sorted Arrays",
   "Bipartite Graph Check",
   "Implement Trie (Prefix Tree)",
-  "Remove Duplicates from Sorted List",
-  "Jump Game",
-  "K Closest Points to Origin",
+  "Sum of Two Integers",
   "Combination Sum II",
+  "Median of Two Sorted Arrays",
+  "Jump Game",
+  "Find Peak Element",
   "Merge K Sorted Lists",
-  "Burst Balloons"
+  "Burst Balloons",
+  "Remove Duplicates from Sorted List"
 ]
