@@ -1,17 +1,18 @@
 [
-  "Combination Sum II",
-  "Merge K Sorted Lists",
-  "Burst Balloons",
   "Implement Trie (Prefix Tree)",
-  "Car Fleet",
+  "Combination Sum II",
   "Minimum Spanning Tree (Prim's)",
-  "K Closest Points to Origin",
-  "Remove Duplicates from Sorted List",
+  "Merge K Sorted Lists",
   "Sum of Two Integers",
-  "Median of Two Sorted Arrays",
-  "Find Peak Element",
+  "Remove Duplicates from Sorted List",
   "Jump Game",
-  "Kth Largest Element in Array",
+  "Median of Two Sorted Arrays",
   "Bipartite Graph Check",
-  "Jump Game II"
+  "Kth Largest Element in Array",
+  "K Closest Points to Origin",
+  "Car Fleet",
+  "Jump Game II",
+  "Trapping Rain Water",
+  "Burst Balloons",
+  "Find Peak Element"
 ]
