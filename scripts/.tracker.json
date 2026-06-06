@@ -1,10 +1,11 @@
 [
-  "Remove Duplicates from Sorted List",
-  "Combination Sum II",
-  "Bipartite Graph Check",
-  "Car Fleet",
-  "K Closest Points to Origin",
-  "Jump Game",
   "Median of Two Sorted Arrays",
-  "Sum of Two Integers"
+  "Bipartite Graph Check",
+  "K Closest Points to Origin",
+  "Sum of Two Integers",
+  "Implement Trie (Prefix Tree)",
+  "Car Fleet",
+  "Combination Sum II",
+  "Remove Duplicates from Sorted List",
+  "Jump Game"
 ]
