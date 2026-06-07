@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_07",
-    "index": 6,
-    "topic": "Greedy",
-    "question": "Activity Selection"
-  },
-  {
-    "day": "2026_06_07",
     "index": 7,
     "topic": "Trees_and_Graphs",
     "question": "Number of Islands"
