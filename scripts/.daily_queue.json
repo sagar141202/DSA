@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_07",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 5,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 12,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_06_07",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  }
+]
