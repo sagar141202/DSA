@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_07",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Spiral Matrix"
-  },
-  {
-    "day": "2026_06_07",
     "index": 4,
     "topic": "Arrays_and_Strings",
     "question": "Sliding Window Maximum"
