@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_07",
-    "index": 5,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_06_07",
     "index": 6,
     "topic": "Math_and_Number_Theory",
     "question": "Palindrome Number"
