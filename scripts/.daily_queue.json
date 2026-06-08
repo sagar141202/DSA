@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_08",
+    "index": 2,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Decode Ways"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 8,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Diameter of Binary Tree"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 11,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 13,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 14,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 15,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element II"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 18,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Task Scheduler"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  },
+  {
+    "day": "2026_06_08",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  }
+]
