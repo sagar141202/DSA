@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_09",
-    "index": 8,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Subsets II"
-  },
-  {
-    "day": "2026_06_09",
     "index": 9,
     "topic": "Bit_Manipulation",
     "question": "Missing Number"
