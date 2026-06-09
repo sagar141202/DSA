@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_09",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 5,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 7,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Ladder"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 11,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 12,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "Minimum Window Substring"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 14,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 19,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_06_09",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Maximum Path Sum"
+  }
+]
