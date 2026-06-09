@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_09",
-    "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Kth Smallest Element in BST"
-  },
-  {
-    "day": "2026_06_09",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
