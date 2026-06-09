@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_09",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Graph Valid Tree"
-  },
-  {
-    "day": "2026_06_09",
     "index": 11,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
