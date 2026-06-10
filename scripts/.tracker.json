@@ -1,12 +1,13 @@
 [
-  "Path Sum",
-  "Search in Rotated Sorted Array",
-  "Boats to Save People",
-  "Next Permutation",
-  "Find Minimum in Rotated Sorted Array",
   "Number of 1 Bits",
   "Daily Temperatures",
-  "Non-overlapping Intervals",
+  "Top K Frequent Elements",
   "Fractional Knapsack",
-  "Top K Frequent Elements"
+  "Path Sum",
+  "Find Minimum in Rotated Sorted Array",
+  "Boats to Save People",
+  "Bitwise AND of Numbers Range",
+  "Non-overlapping Intervals",
+  "Search in Rotated Sorted Array",
+  "Next Permutation"
 ]
