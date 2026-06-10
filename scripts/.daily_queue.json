@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Pacific Atlantic Water Flow"
-  },
-  {
-    "day": "2026_06_10",
     "index": 11,
     "topic": "Dynamic_Programming",
     "question": "Combination Sum IV"
