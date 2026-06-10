@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 9,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_06_10",
     "index": 10,
     "topic": "Greedy",
     "question": "Boats to Save People"
