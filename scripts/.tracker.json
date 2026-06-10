@@ -1,15 +1,16 @@
 [
-  "Path Sum",
-  "Find Minimum in Rotated Sorted Array",
-  "Non-overlapping Intervals",
-  "Top K Frequent Elements",
-  "Search in Rotated Sorted Array",
-  "Bitwise AND of Numbers Range",
+  "Pacific Atlantic Water Flow",
   "Daily Temperatures",
   "Factorial Trailing Zeroes",
-  "Number of 1 Bits",
-  "Boats to Save People",
   "Fractional Knapsack",
-  "Pacific Atlantic Water Flow",
-  "Next Permutation"
+  "Find Minimum in Rotated Sorted Array",
+  "Next Permutation",
+  "Non-overlapping Intervals",
+  "Top K Frequent Elements",
+  "Path Sum",
+  "Number of 1 Bits",
+  "Bitwise AND of Numbers Range",
+  "Boats to Save People",
+  "Jump Game",
+  "Search in Rotated Sorted Array"
 ]
