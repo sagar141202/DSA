@@ -1,0 +1,43 @@
+# Number of 1 Bits
+
+## Problem Statement
+Write a function that takes an unsigned integer as input and returns the number of 1 bits in its binary representation. The input integer is guaranteed to be within the range of 0 to 2^32 - 1. For example, the binary representation of 9 is 1001, so the function should return 2. The binary representation of 15 is 1111, so the function should return 4.
+
+## Approach
+The approach is to use bitwise operations to count the number of 1 bits in the binary representation of the input integer. We can use a while loop to iterate over each bit in the integer and use the bitwise AND operator to check if the current bit is 1. We can also use Brian Kernighan's algorithm, which is an optimization that uses the fact that doing a bitwise AND operation with a number and the number minus one will clear the least significant 1 bit.
+
+## Complexity
+- Time: O(log n)
+- Space: O(1)
+
+## C++ Solution
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int hammingWeight(uint32_t n) {
+        int count = 0;
+        while (n) {
+            // clear the least significant 1 bit
+            n &= (n - 1);
+            count++;
+        }
+        return count;
+    }
+};
+```
+
+## Test Cases
+```
+Input: 9
+Output: 2
+Input: 15
+Output: 4
+```
+
+## Key Takeaways
+- Bit manipulation can be used to solve problems involving binary representation.
+- Brian Kernighan's algorithm is an efficient way to count the number of 1 bits in a binary representation.
+- The time complexity of the solution is O(log n) because we are iterating over each bit in the binary representation of the input integer.
