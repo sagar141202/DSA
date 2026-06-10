@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 12,
-    "topic": "Math_and_Number_Theory",
-    "question": "Factorial Trailing Zeroes"
-  },
-  {
-    "day": "2026_06_10",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Pacific Atlantic Water Flow"
