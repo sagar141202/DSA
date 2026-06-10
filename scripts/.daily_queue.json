@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 6,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_06_10",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Unique Paths"
