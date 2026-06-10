@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 2,
-    "topic": "Greedy",
-    "question": "Non-overlapping Intervals"
-  },
-  {
-    "day": "2026_06_10",
     "index": 3,
     "topic": "Arrays_and_Strings",
     "question": "Search in Rotated Sorted Array"
