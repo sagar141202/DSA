@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_10",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_06_10",
     "index": 4,
     "topic": "Tries",
     "question": "Replace Words"
