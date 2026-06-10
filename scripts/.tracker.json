@@ -1,9 +1,10 @@
 [
-  "Number of 1 Bits",
-  "Next Permutation",
-  "Daily Temperatures",
-  "Find Minimum in Rotated Sorted Array",
+  "Path Sum",
   "Fractional Knapsack",
   "Search in Rotated Sorted Array",
-  "Non-overlapping Intervals"
+  "Next Permutation",
+  "Number of 1 Bits",
+  "Daily Temperatures",
+  "Non-overlapping Intervals",
+  "Find Minimum in Rotated Sorted Array"
 ]
