@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_11",
-    "index": 5,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Combination Sum II"
-  },
-  {
-    "day": "2026_06_11",
     "index": 6,
     "topic": "Recursion_and_Backtracking",
     "question": "N-Queens"
