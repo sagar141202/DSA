@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_11",
-    "index": 19,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_06_11",
     "index": 20,
     "topic": "Advanced_Graphs",
     "question": "Euler Path"
