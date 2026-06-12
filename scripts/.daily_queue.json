@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_12",
+    "index": 2,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 3,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 7,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 12,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 13,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 15,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 16,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Roman to Integer"
+  },
+  {
+    "day": "2026_06_12",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Trapping Rain Water"
+  }
+]
