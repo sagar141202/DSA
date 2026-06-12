@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_12",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Target Sum"
-  },
-  {
-    "day": "2026_06_12",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Next Greater Element II"
