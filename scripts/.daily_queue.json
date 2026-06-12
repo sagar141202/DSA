@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_12",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_06_12",
     "index": 15,
     "topic": "Tries",
     "question": "Longest Word in Dictionary"
