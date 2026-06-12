@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_12",
-    "index": 16,
-    "topic": "Dynamic_Programming",
-    "question": "Maximum Square of 1s"
-  },
-  {
-    "day": "2026_06_12",
     "index": 17,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
