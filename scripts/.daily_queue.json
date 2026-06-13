@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 2,
-    "topic": "Advanced_Graphs",
-    "question": "Bipartite Graph Check"
-  },
-  {
-    "day": "2026_06_13",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Invert Binary Tree"
