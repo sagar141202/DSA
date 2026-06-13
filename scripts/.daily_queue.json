@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 12,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_06_13",
     "index": 13,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
