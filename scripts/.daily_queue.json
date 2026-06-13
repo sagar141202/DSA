@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 17,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_06_13",
     "index": 18,
     "topic": "Trees_and_Graphs",
     "question": "Serialize and Deserialize Binary Tree"
