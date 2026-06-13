@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 4,
-    "topic": "Math_and_Number_Theory",
-    "question": "Reverse Integer"
-  },
-  {
-    "day": "2026_06_13",
     "index": 5,
     "topic": "Sorting_and_Searching",
     "question": "Find Peak Element"
