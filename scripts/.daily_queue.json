@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Merge Intervals"
-  },
-  {
-    "day": "2026_06_13",
     "index": 12,
     "topic": "Greedy",
     "question": "Dijkstra's Algorithm"
