@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_13",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_06_13",
     "index": 19,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
