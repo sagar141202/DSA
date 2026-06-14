@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_14",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_06_14",
     "index": 5,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
