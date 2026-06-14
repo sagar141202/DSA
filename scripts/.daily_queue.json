@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_14",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Decode Ways"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 5,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 6,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 9,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 10,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 13,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 15,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 17,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_06_14",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  }
+]
