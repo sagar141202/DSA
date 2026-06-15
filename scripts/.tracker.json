@@ -1,12 +1,13 @@
 [
-  "Trapping Rain Water",
+  "Burst Balloons",
+  "Longest Increasing Subsequence",
   "Sum of Two Integers",
   "Word Search",
-  "Min Stack",
-  "Burst Balloons",
+  "Trapping Rain Water",
   "Odd Even Linked List",
+  "Symmetric Tree",
   "Median of Two Sorted Arrays",
   "N-Queens",
-  "Longest Increasing Subsequence",
-  "Symmetric Tree"
+  "Bridges in Graph",
+  "Min Stack"
 ]
