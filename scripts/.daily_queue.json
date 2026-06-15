@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_15",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Flatten a Multilevel Doubly Linked List"
-  },
-  {
-    "day": "2026_06_15",
     "index": 8,
     "topic": "Greedy",
     "question": "Minimum Spanning Tree (Prim's)"
