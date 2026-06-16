@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_16",
-    "index": 3,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Find Median from Data Stream"
-  },
-  {
-    "day": "2026_06_16",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Word Break"
