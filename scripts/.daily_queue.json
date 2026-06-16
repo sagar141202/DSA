@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_16",
-    "index": 13,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_06_16",
     "index": 14,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
