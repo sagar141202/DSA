@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_16",
-    "index": 10,
-    "topic": "Dynamic_Programming",
-    "question": "Minimum Path Sum"
-  },
-  {
-    "day": "2026_06_16",
     "index": 11,
     "topic": "Sorting_and_Searching",
     "question": "Meeting Rooms II"
