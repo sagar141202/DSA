@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 6,
-    "topic": "Dynamic_Programming",
-    "question": "Unique Paths"
-  },
-  {
-    "day": "2026_06_17",
     "index": 7,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
