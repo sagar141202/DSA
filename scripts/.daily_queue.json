@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 2,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_06_17",
     "index": 3,
     "topic": "Recursion_and_Backtracking",
     "question": "Sudoku Solver"
