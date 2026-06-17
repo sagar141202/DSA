@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 18,
-    "topic": "Math_and_Number_Theory",
-    "question": "Factorial Trailing Zeroes"
-  },
-  {
-    "day": "2026_06_17",
     "index": 19,
     "topic": "Linked_Lists",
     "question": "Intersection of Two Linked Lists"
