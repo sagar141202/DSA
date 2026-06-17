@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 5,
-    "topic": "Arrays_and_Strings",
-    "question": "Find Minimum in Rotated Sorted Array"
-  },
-  {
-    "day": "2026_06_17",
     "index": 6,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
