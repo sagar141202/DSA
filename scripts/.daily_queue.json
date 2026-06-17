@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_06_17",
     "index": 16,
     "topic": "Greedy",
     "question": "Boats to Save People"
