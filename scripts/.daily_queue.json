@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 7,
-    "topic": "Trees_and_Graphs",
-    "question": "Lowest Common Ancestor of BST"
-  },
-  {
-    "day": "2026_06_17",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
