@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 15,
-    "topic": "Linked_Lists",
-    "question": "Merge Two Sorted Lists"
-  },
-  {
-    "day": "2026_06_17",
     "index": 16,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
