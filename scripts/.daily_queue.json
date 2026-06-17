@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 5,
-    "topic": "Sorting_and_Searching",
-    "question": "Search a 2D Matrix"
-  },
-  {
-    "day": "2026_06_17",
     "index": 6,
     "topic": "Dynamic_Programming",
     "question": "Unique Paths"
