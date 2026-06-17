@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_17",
-    "index": 14,
-    "topic": "Advanced_Graphs",
-    "question": "Bipartite Graph Check"
-  },
-  {
-    "day": "2026_06_17",
     "index": 15,
     "topic": "Linked_Lists",
     "question": "Merge Two Sorted Lists"
