@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 4,
-    "topic": "Bit_Manipulation",
-    "question": "XOR of all Numbers in Range"
-  },
-  {
-    "day": "2026_06_18",
     "index": 5,
     "topic": "Dynamic_Programming",
     "question": "Target Sum"
