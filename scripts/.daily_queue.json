@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 3,
-    "topic": "Tries",
-    "question": "Longest Word in Dictionary"
-  },
-  {
-    "day": "2026_06_18",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "XOR of all Numbers in Range"
