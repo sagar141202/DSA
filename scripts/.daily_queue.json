@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 4,
-    "topic": "Advanced_Graphs",
-    "question": "Floyd-Warshall Algorithm"
-  },
-  {
-    "day": "2026_06_18",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
