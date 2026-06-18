@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 6,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Common Subsequence"
-  },
-  {
-    "day": "2026_06_18",
     "index": 7,
     "topic": "Sorting_and_Searching",
     "question": "Find K Closest Elements"
