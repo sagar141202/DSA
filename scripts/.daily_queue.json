@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Clone Graph"
-  },
-  {
-    "day": "2026_06_18",
     "index": 11,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
