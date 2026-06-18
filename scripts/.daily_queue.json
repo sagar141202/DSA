@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 19,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_06_18",
     "index": 20,
     "topic": "Advanced_Graphs",
     "question": "Bellman-Ford Algorithm"
