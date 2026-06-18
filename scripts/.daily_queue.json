@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 15,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_06_18",
     "index": 16,
     "topic": "Arrays_and_Strings",
     "question": "Sliding Window Maximum"
