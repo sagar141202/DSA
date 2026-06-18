@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Next Permutation"
-  },
-  {
-    "day": "2026_06_18",
     "index": 12,
     "topic": "Math_and_Number_Theory",
     "question": "Sqrt(x)"
