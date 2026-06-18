@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_18",
-    "index": 3,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_06_18",
     "index": 4,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
