@@ -1,16 +1,17 @@
 [
-  "Binary Tree Inorder Traversal",
-  "Excel Sheet Column Number",
+  "Merge Sort Implementation",
   "Find Peak Element",
-  "Search a 2D Matrix",
+  "Excel Sheet Column Number",
   "Largest Number",
-  "Word Search II",
-  "Bitwise AND of Numbers Range",
-  "Minimum Spanning Tree (Kruskal's)",
-  "Jump Game",
-  "Merge Two Sorted Lists",
   "Graph Valid Tree",
-  "Bipartite Graph Check",
   "Bellman-Ford Algorithm",
-  "Best Time to Buy and Sell Stock with Cooldown"
+  "Bipartite Graph Check",
+  "Search a 2D Matrix",
+  "Jump Game",
+  "Best Time to Buy and Sell Stock with Cooldown",
+  "Bitwise AND of Numbers Range",
+  "Merge Two Sorted Lists",
+  "Word Search II",
+  "Binary Tree Inorder Traversal",
+  "Minimum Spanning Tree (Kruskal's)"
 ]
