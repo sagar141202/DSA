@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_19",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 3,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 4,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 6,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 9,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 11,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 12,
+    "topic": "Advanced_Graphs",
+    "question": "Bellman-Ford Algorithm"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 13,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 14,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 15,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 16,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 18,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 19,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_06_19",
+    "index": 20,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  }
+]
