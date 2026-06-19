@@ -1,10 +1,11 @@
 [
-  "Largest Number",
-  "Jump Game",
-  "Word Search II",
+  "Graph Valid Tree",
   "Bitwise AND of Numbers Range",
-  "Search a 2D Matrix",
   "Best Time to Buy and Sell Stock with Cooldown",
-  "Bipartite Graph Check",
-  "Graph Valid Tree"
+  "Minimum Spanning Tree (Kruskal's)",
+  "Word Search II",
+  "Jump Game",
+  "Search a 2D Matrix",
+  "Largest Number",
+  "Bipartite Graph Check"
 ]
