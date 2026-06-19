@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_19",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
-  },
-  {
-    "day": "2026_06_19",
     "index": 11,
     "topic": "Linked_Lists",
     "question": "Merge Two Sorted Lists"
