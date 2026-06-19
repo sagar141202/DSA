@@ -1,14 +1,15 @@
 [
-  "Bitwise AND of Numbers Range",
-  "Minimum Spanning Tree (Kruskal's)",
-  "Jump Game",
-  "Best Time to Buy and Sell Stock with Cooldown",
-  "Largest Number",
+  "Find Peak Element",
   "Merge Two Sorted Lists",
+  "Bitwise AND of Numbers Range",
   "Word Search II",
-  "Search a 2D Matrix",
-  "Graph Valid Tree",
-  "Binary Tree Inorder Traversal",
   "Bellman-Ford Algorithm",
-  "Bipartite Graph Check"
+  "Best Time to Buy and Sell Stock with Cooldown",
+  "Minimum Spanning Tree (Kruskal's)",
+  "Bipartite Graph Check",
+  "Binary Tree Inorder Traversal",
+  "Graph Valid Tree",
+  "Largest Number",
+  "Jump Game",
+  "Search a 2D Matrix"
 ]
