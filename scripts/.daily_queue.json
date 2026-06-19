@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_19",
-    "index": 4,
-    "topic": "Linked_Lists",
-    "question": "Linked List Cycle"
-  },
-  {
-    "day": "2026_06_19",
     "index": 5,
     "topic": "Math_and_Number_Theory",
     "question": "Pow(x,n)"
