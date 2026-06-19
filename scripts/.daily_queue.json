@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_19",
-    "index": 7,
-    "topic": "Trees_and_Graphs",
-    "question": "Graph Valid Tree"
-  },
-  {
-    "day": "2026_06_19",
     "index": 8,
     "topic": "Recursion_and_Backtracking",
     "question": "Word Search II"
