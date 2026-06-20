@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_20",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_06_20",
     "index": 5,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Reorganize String"
