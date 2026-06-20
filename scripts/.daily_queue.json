@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_20",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Spiral Matrix"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 5,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 6,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 9,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations II"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Product of Array Except Self"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 12,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 13,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 17,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Valid Anagram"
+  },
+  {
+    "day": "2026_06_20",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  }
+]
