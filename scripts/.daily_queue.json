@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_20",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Jump Game II"
-  },
-  {
-    "day": "2026_06_20",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Daily Temperatures"
