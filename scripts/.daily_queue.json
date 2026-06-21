@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_21",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Container With Most Water"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 3,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Maximum Square of 1s"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 6,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 8,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 9,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 10,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 11,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Remove Nth Node From End"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 16,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 19,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_06_21",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  }
+]
