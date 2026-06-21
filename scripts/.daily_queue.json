@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_21",
-    "index": 19,
-    "topic": "Arrays_and_Strings",
-    "question": "Set Matrix Zeroes"
-  },
-  {
-    "day": "2026_06_21",
     "index": 20,
     "topic": "Tries",
     "question": "Search Suggestions System"
