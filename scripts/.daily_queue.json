@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_22",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_06_22",
     "index": 9,
     "topic": "Linked_Lists",
     "question": "Add Two Numbers"
