@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_22",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Paint House"
-  },
-  {
-    "day": "2026_06_22",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
