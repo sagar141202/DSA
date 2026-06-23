@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_23",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_06_23",
     "index": 4,
     "topic": "Trees_and_Graphs",
     "question": "Pacific Atlantic Water Flow"
