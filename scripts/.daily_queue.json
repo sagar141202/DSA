@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_23",
-    "index": 3,
-    "topic": "Bit_Manipulation",
-    "question": "Missing Number"
-  },
-  {
-    "day": "2026_06_23",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Coin Change"
