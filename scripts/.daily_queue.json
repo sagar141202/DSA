@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_23",
-    "index": 12,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Sliding Window Median"
-  },
-  {
-    "day": "2026_06_23",
     "index": 13,
     "topic": "Dynamic_Programming",
     "question": "Longest Palindromic Subsequence"
