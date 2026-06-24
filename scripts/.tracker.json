@@ -1,15 +1,16 @@
 [
-  "Sliding Window Maximum",
-  "Minimum Spanning Tree (Prim's)",
-  "Word Search",
-  "Graph Valid Tree",
-  "Find K Closest Elements",
-  "Tarjan's Algorithm (SCC)",
-  "Next Greater Element I",
-  "Invert Binary Tree",
   "Happy Number",
-  "Palindromic Substrings",
-  "Path Sum",
+  "Invert Binary Tree",
+  "Tarjan's Algorithm (SCC)",
+  "Search in Rotated Sorted Array",
+  "Graph Valid Tree",
+  "Next Greater Element I",
+  "Minimum Spanning Tree (Prim's)",
+  "Smallest Range Covering Elements from K Lists",
+  "Find K Closest Elements",
+  "Word Search",
   "Decode String",
-  "Smallest Range Covering Elements from K Lists"
+  "Path Sum",
+  "Palindromic Substrings",
+  "Sliding Window Maximum"
 ]
