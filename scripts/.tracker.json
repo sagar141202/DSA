@@ -1,8 +1,9 @@
 [
-  "Decode String",
-  "Graph Valid Tree",
-  "Next Greater Element I",
-  "Palindromic Substrings",
   "Path Sum",
-  "Sliding Window Maximum"
+  "Graph Valid Tree",
+  "Decode String",
+  "Tarjan's Algorithm (SCC)",
+  "Palindromic Substrings",
+  "Sliding Window Maximum",
+  "Next Greater Element I"
 ]
