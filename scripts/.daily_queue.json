@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_24",
+    "index": 2,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 4,
+    "topic": "Linked_Lists",
+    "question": "Reorder List"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Floyd-Warshall Algorithm"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 11,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 14,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 15,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Longest Substring Without Repeating Characters"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 17,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  },
+  {
+    "day": "2026_06_24",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  }
+]
