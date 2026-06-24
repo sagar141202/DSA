@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_24",
-    "index": 11,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Smallest Range Covering Elements from K Lists"
-  },
-  {
-    "day": "2026_06_24",
     "index": 12,
     "topic": "Greedy",
     "question": "Minimum Spanning Tree (Prim's)"

@@ -1,12 +1,13 @@
 [
-  "Word Search",
-  "Graph Valid Tree",
   "Sliding Window Maximum",
-  "Tarjan's Algorithm (SCC)",
-  "Decode String",
-  "Next Greater Element I",
+  "Path Sum",
+  "Word Search",
   "Happy Number",
-  "Invert Binary Tree",
+  "Decode String",
+  "Graph Valid Tree",
+  "Next Greater Element I",
   "Palindromic Substrings",
-  "Path Sum"
+  "Tarjan's Algorithm (SCC)",
+  "Invert Binary Tree",
+  "Smallest Range Covering Elements from K Lists"
 ]
