@@ -1,10 +1,11 @@
 [
+  "Word Search",
   "Palindromic Substrings",
-  "Sliding Window Maximum",
   "Path Sum",
-  "Tarjan's Algorithm (SCC)",
   "Invert Binary Tree",
   "Graph Valid Tree",
+  "Tarjan's Algorithm (SCC)",
   "Decode String",
+  "Sliding Window Maximum",
   "Next Greater Element I"
 ]
