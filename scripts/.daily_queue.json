@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 2,
-    "topic": "Linked_Lists",
-    "question": "Copy List with Random Pointer"
-  },
-  {
-    "day": "2026_06_25",
     "index": 3,
     "topic": "Recursion_and_Backtracking",
     "question": "Sudoku Solver"
