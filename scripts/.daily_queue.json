@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 14,
-    "topic": "Linked_Lists",
-    "question": "Linked List Cycle"
-  },
-  {
-    "day": "2026_06_25",
     "index": 15,
     "topic": "Arrays_and_Strings",
     "question": "Contains Duplicate"
