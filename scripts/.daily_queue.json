@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 14,
-    "topic": "Bit_Manipulation",
-    "question": "Missing Number"
-  },
-  {
-    "day": "2026_06_25",
     "index": 15,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
