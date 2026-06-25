@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 5,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Palindromic Subsequence"
-  },
-  {
-    "day": "2026_06_25",
     "index": 6,
     "topic": "Math_and_Number_Theory",
     "question": "Reverse Integer"
