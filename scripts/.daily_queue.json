@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 11,
-    "topic": "Trees_and_Graphs",
-    "question": "Course Schedule (Topological Sort)"
-  },
-  {
-    "day": "2026_06_25",
     "index": 12,
     "topic": "Tries",
     "question": "Implement Trie (Prefix Tree)"
