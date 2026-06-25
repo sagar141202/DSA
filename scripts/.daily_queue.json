@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 3,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Sudoku Solver"
-  },
-  {
-    "day": "2026_06_25",
     "index": 4,
     "topic": "Advanced_Graphs",
     "question": "Alien Dictionary"
