@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 12,
-    "topic": "Tries",
-    "question": "Implement Trie (Prefix Tree)"
-  },
-  {
-    "day": "2026_06_25",
     "index": 13,
     "topic": "Stacks_and_Queues",
     "question": "Simplify Path"
