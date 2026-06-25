@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 7,
-    "topic": "Tries",
-    "question": "Design Add and Search Words Data Structure"
-  },
-  {
-    "day": "2026_06_25",
     "index": 8,
     "topic": "Linked_Lists",
     "question": "Remove Duplicates from Sorted List"
