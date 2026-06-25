@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 13,
-    "topic": "Math_and_Number_Theory",
-    "question": "Pow(x,n)"
-  },
-  {
-    "day": "2026_06_25",
     "index": 14,
     "topic": "Bit_Manipulation",
     "question": "Missing Number"
