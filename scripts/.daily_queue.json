@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_25",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Sudoku Solver"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 4,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 6,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 7,
+    "topic": "Greedy",
+    "question": "Non-overlapping Intervals"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Jump Game"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 11,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 13,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 14,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 15,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Product of Array Except Self"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 17,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_06_25",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  }
+]
