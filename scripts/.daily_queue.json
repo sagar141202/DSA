@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_25",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Interleaving String"
-  },
-  {
-    "day": "2026_06_25",
     "index": 19,
     "topic": "Advanced_Graphs",
     "question": "Bridges in Graph"
