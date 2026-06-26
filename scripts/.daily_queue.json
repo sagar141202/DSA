@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_26",
+    "index": 2,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 4,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 7,
+    "topic": "Sorting_and_Searching",
+    "question": "Sort Colors (Dutch Flag)"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 8,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 10,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 11,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Integer to Roman"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 18,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Generate Parentheses"
+  },
+  {
+    "day": "2026_06_26",
+    "index": 20,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  }
+]
