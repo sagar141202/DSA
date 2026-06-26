@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_26",
-    "index": 14,
-    "topic": "Arrays_and_Strings",
-    "question": "Container With Most Water"
-  },
-  {
-    "day": "2026_06_26",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
