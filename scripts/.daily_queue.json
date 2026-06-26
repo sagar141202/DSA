@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_26",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_06_26",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
