@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 14,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Queue using Stacks"
-  },
-  {
-    "day": "2026_06_27",
     "index": 15,
     "topic": "Sorting_and_Searching",
     "question": "Search a 2D Matrix"
