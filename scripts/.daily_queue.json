@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 2,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_06_27",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Redundant Connection"
