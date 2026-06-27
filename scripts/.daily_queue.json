@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 19,
-    "topic": "Trees_and_Graphs",
-    "question": "Lowest Common Ancestor of BST"
-  },
-  {
-    "day": "2026_06_27",
     "index": 20,
     "topic": "Arrays_and_Strings",
     "question": "Gas Station"
