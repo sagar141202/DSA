@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 10,
-    "topic": "Dynamic_Programming",
-    "question": "Target Sum"
-  },
-  {
-    "day": "2026_06_27",
     "index": 11,
     "topic": "Dynamic_Programming",
     "question": "Minimum Path Sum"
