@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Validate Binary Search Tree"
-  },
-  {
-    "day": "2026_06_27",
     "index": 5,
     "topic": "Arrays_and_Strings",
     "question": "Minimum Window Substring"
