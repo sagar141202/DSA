@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 5,
-    "topic": "Arrays_and_Strings",
-    "question": "Minimum Window Substring"
-  },
-  {
-    "day": "2026_06_27",
     "index": 6,
     "topic": "Sorting_and_Searching",
     "question": "Quick Sort Implementation"
