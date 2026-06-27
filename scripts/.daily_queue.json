@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber"
-  },
-  {
-    "day": "2026_06_27",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Rotate Array"
