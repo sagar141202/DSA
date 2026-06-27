@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 18,
-    "topic": "Linked_Lists",
-    "question": "Add Two Numbers"
-  },
-  {
-    "day": "2026_06_27",
     "index": 19,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
