@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 16,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_06_27",
     "index": 17,
     "topic": "Sorting_and_Searching",
     "question": "Median of Two Sorted Arrays"
