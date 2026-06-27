@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 19,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_06_27",
     "index": 20,
     "topic": "Trees_and_Graphs",
     "question": "Flatten Binary Tree to Linked List"
