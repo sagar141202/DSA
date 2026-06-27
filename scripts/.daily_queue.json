@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_27",
-    "index": 7,
-    "topic": "Bit_Manipulation",
-    "question": "Power of Two"
-  },
-  {
-    "day": "2026_06_27",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Clone Graph"
