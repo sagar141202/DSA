@@ -1,11 +1,12 @@
 [
-  "Daily Temperatures",
-  "Minimum Window Substring",
-  "Assign Cookies",
   "Euler Path",
-  "Kth Largest Element in Array",
+  "Unique Paths",
+  "Burst Balloons",
+  "Palindromic Substrings",
+  "Assign Cookies",
   "Implement Stack using Queues",
   "Boats to Save People",
-  "Burst Balloons",
-  "Unique Paths"
+  "Daily Temperatures",
+  "Minimum Window Substring",
+  "Kth Largest Element in Array"
 ]
