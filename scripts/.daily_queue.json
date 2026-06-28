@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_28",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Word Ladder"
-  },
-  {
-    "day": "2026_06_28",
     "index": 16,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
