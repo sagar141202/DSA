@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_28",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Unique Paths"
-  },
-  {
-    "day": "2026_06_28",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
