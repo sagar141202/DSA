@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_28",
-    "index": 6,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_06_28",
     "index": 7,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Zigzag Level Order Traversal"
