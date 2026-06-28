@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_28",
-    "index": 13,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_06_28",
     "index": 14,
     "topic": "Arrays_and_Strings",
     "question": "Maximum Product Subarray"
