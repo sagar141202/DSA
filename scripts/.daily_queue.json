@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_28",
-    "index": 4,
-    "topic": "Greedy",
-    "question": "Assign Cookies"
-  },
-  {
-    "day": "2026_06_28",
     "index": 5,
     "topic": "Advanced_Graphs",
     "question": "Euler Path"
