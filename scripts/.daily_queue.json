@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_06_29",
-    "index": 3,
-    "topic": "Dynamic_Programming",
-    "question": "Coin Change"
-  },
-  {
-    "day": "2026_06_29",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
