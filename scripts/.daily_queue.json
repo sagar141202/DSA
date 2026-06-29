@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_29",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Largest Number"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 6,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 7,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 9,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 12,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_06_29",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  }
+]
