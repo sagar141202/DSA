@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_06_30",
+    "index": 2,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 3,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 4,
+    "topic": "Sorting_and_Searching",
+    "question": "Median of Two Sorted Arrays"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 5,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 8,
+    "topic": "Tries",
+    "question": "Replace Words"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 10,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 16,
+    "topic": "Bit_Manipulation",
+    "question": "XOR of all Numbers in Range"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Edit Distance"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 18,
+    "topic": "Trees_and_Graphs",
+    "question": "Diameter of Binary Tree"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Jump Game"
+  },
+  {
+    "day": "2026_06_30",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  }
+]
