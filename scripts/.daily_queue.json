@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_01",
-    "index": 12,
-    "topic": "Greedy",
-    "question": "Minimum Number of Arrows to Burst Balloons"
-  },
-  {
-    "day": "2026_07_01",
     "index": 13,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
