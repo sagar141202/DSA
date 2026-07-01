@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_01",
-    "index": 16,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_07_01",
     "index": 17,
     "topic": "Greedy",
     "question": "Dijkstra's Algorithm"
