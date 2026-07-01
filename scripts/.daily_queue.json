@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_01",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Gray Code"
-  },
-  {
-    "day": "2026_07_01",
     "index": 5,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
