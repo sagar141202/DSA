@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_02",
-    "index": 5,
-    "topic": "Stacks_and_Queues",
-    "question": "Remove K Digits"
-  },
-  {
-    "day": "2026_07_02",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Path Sum"
