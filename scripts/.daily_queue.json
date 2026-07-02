@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_02",
-    "index": 3,
-    "topic": "Stacks_and_Queues",
-    "question": "Next Greater Element I"
-  },
-  {
-    "day": "2026_07_02",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Longest Common Subsequence"
