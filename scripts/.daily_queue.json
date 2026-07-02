@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_02",
-    "index": 9,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Palindromic Subsequence"
-  },
-  {
-    "day": "2026_07_02",
     "index": 10,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
