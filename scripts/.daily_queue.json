@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_02",
-    "index": 11,
-    "topic": "Sorting_and_Searching",
-    "question": "Find K Closest Elements"
-  },
-  {
-    "day": "2026_07_02",
     "index": 12,
     "topic": "Greedy",
     "question": "Activity Selection"
