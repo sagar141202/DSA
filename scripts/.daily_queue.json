@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_02",
-    "index": 12,
-    "topic": "Greedy",
-    "question": "Activity Selection"
-  },
-  {
-    "day": "2026_07_02",
     "index": 13,
     "topic": "Linked_Lists",
     "question": "Reorder List"
