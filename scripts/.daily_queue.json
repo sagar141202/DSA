@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_03",
-    "index": 10,
-    "topic": "Arrays_and_Strings",
-    "question": "Longest Substring Without Repeating Characters"
-  },
-  {
-    "day": "2026_07_03",
     "index": 11,
     "topic": "Bit_Manipulation",
     "question": "Power of Two"
