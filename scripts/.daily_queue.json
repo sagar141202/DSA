@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_03",
-    "index": 19,
-    "topic": "Greedy",
-    "question": "Dijkstra's Algorithm"
-  },
-  {
-    "day": "2026_07_03",
     "index": 20,
     "topic": "Dynamic_Programming",
     "question": "Triangle Minimum Path"
