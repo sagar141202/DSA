@@ -1,14 +1,15 @@
 [
-  "Power of Two",
-  "Task Scheduler",
-  "Assign Cookies",
-  "Rotate List",
-  "Reverse Bits",
-  "Largest Number",
   "Sliding Window Maximum",
-  "Partition List",
-  "Best Time to Buy and Sell Stock with Cooldown",
-  "Longest Substring Without Repeating Characters",
   "Merge Two Sorted Lists",
-  "Median of Two Sorted Arrays"
+  "Partition List",
+  "Task Scheduler",
+  "Longest Substring Without Repeating Characters",
+  "Reverse Bits",
+  "Best Time to Buy and Sell Stock with Cooldown",
+  "Rotate List",
+  "Largest Number",
+  "Median of Two Sorted Arrays",
+  "Symmetric Tree",
+  "Assign Cookies",
+  "Power of Two"
 ]
