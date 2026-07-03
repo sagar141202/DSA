@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_03",
-    "index": 8,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_07_03",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Kth Smallest Element in BST"
