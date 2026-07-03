@@ -1,18 +1,19 @@
 [
-  "Reverse Bits",
+  "Rotate List",
+  "Best Time to Buy and Sell Stock with Cooldown",
   "Merge Two Sorted Lists",
+  "Assign Cookies",
+  "Fractional Knapsack",
+  "Number of 1 Bits",
+  "Burst Balloons",
+  "Reverse Bits",
+  "Symmetric Tree",
   "Task Scheduler",
   "Sliding Window Maximum",
-  "Assign Cookies",
   "Partition List",
-  "Number of 1 Bits",
-  "Median of Two Sorted Arrays",
-  "Fractional Knapsack",
   "Longest Substring Without Repeating Characters",
   "Largest Number",
-  "Best Time to Buy and Sell Stock with Cooldown",
-  "Symmetric Tree",
-  "Rotate List",
   "Power of Two",
-  "Palindromic Substrings"
+  "Palindromic Substrings",
+  "Median of Two Sorted Arrays"
 ]
