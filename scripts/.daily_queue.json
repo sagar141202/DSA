@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_03",
-    "index": 3,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Task Scheduler"
-  },
-  {
-    "day": "2026_07_03",
     "index": 4,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
