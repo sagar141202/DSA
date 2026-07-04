@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_04",
-    "index": 6,
-    "topic": "Sorting_and_Searching",
-    "question": "Find K Closest Elements"
-  },
-  {
-    "day": "2026_07_04",
     "index": 7,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"
