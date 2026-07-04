@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_04",
-    "index": 5,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_07_04",
     "index": 6,
     "topic": "Stacks_and_Queues",
     "question": "Evaluate Reverse Polish Notation"
