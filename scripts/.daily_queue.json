@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_05",
-    "index": 12,
-    "topic": "Arrays_and_Strings",
-    "question": "Two Sum"
-  },
-  {
-    "day": "2026_07_05",
     "index": 13,
     "topic": "Trees_and_Graphs",
     "question": "Course Schedule (Topological Sort)"
