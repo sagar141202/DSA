@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_05",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Wildcard Matching"
-  },
-  {
-    "day": "2026_07_05",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Product of Array Except Self"
