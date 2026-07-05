@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_05",
-    "index": 8,
-    "topic": "Arrays_and_Strings",
-    "question": "Product of Array Except Self"
-  },
-  {
-    "day": "2026_07_05",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Serialize and Deserialize Binary Tree"
