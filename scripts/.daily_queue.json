@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_05",
-    "index": 18,
-    "topic": "Tries",
-    "question": "Longest Word in Dictionary"
-  },
-  {
-    "day": "2026_07_05",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Unique Paths"
