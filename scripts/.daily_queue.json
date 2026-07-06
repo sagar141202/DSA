@@ -1,80 +1,116 @@
 [
   {
-    "day": "2026_07_05",
-    "index": 8,
+    "day": "2026_07_06",
+    "index": 2,
     "topic": "Trees_and_Graphs",
-    "question": "Lowest Common Ancestor of BST"
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
   },
   {
-    "day": "2026_07_05",
-    "index": 9,
+    "day": "2026_07_06",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Word Search"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Permutations"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 5,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 6,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 7,
     "topic": "Linked_Lists",
-    "question": "Reverse Linked List"
+    "question": "Linked List Cycle"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Next Greater Element I"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  },
+  {
+    "day": "2026_07_06",
     "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Inorder Traversal"
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 11,
     "topic": "Dynamic_Programming",
     "question": "Jump Game II"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 12,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 13,
-    "topic": "Arrays_and_Strings",
-    "question": "Find Minimum in Rotated Sorted Array"
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Partition Equal Subset Sum"
-  },
-  {
-    "day": "2026_07_05",
-    "index": 15,
-    "topic": "Arrays_and_Strings",
-    "question": "Set Matrix Zeroes"
-  },
-  {
-    "day": "2026_07_05",
-    "index": 16,
     "topic": "Sorting_and_Searching",
     "question": "Quick Sort Implementation"
   },
   {
-    "day": "2026_07_05",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "Word Break"
+    "day": "2026_07_06",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Maximum Path Sum"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_07_06",
+    "index": 17,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_07_06",
     "index": 18,
     "topic": "Sorting_and_Searching",
     "question": "Search a 2D Matrix"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 19,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Subarray (Kadane's Algorithm)"
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
   },
   {
-    "day": "2026_07_05",
+    "day": "2026_07_06",
     "index": 20,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
   }
 ]
