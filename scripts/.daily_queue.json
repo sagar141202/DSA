@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_06",
-    "index": 6,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_07_06",
     "index": 7,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
