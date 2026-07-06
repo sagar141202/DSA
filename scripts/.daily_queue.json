@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_06",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Linked List Cycle"
-  },
-  {
-    "day": "2026_07_06",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Next Greater Element I"
