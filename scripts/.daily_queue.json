@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 4,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_07_07",
     "index": 5,
     "topic": "Advanced_Graphs",
     "question": "Minimum Spanning Tree (Kruskal's)"
