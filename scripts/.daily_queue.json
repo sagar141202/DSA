@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 5,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Generate Parentheses"
-  },
-  {
-    "day": "2026_07_07",
     "index": 6,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
