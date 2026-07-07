@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 9,
-    "topic": "Sorting_and_Searching",
-    "question": "Find Peak Element"
-  },
-  {
-    "day": "2026_07_07",
     "index": 10,
     "topic": "Arrays_and_Strings",
     "question": "Next Permutation"
