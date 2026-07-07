@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Interleaving String"
-  },
-  {
-    "day": "2026_07_07",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Generate Parentheses"
