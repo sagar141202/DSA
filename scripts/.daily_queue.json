@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 15,
-    "topic": "Linked_Lists",
-    "question": "Intersection of Two Linked Lists"
-  },
-  {
-    "day": "2026_07_07",
     "index": 16,
     "topic": "Dynamic_Programming",
     "question": "Maximum Square of 1s"
