@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_07",
-    "index": 6,
-    "topic": "Stacks_and_Queues",
-    "question": "Implement Stack using Queues"
-  },
-  {
-    "day": "2026_07_07",
     "index": 7,
     "topic": "Bit_Manipulation",
     "question": "Counting Bits"
