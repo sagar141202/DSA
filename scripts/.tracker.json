@@ -1,10 +1,11 @@
 [
-  "Gas Station",
-  "Sqrt(x)",
-  "Surrounded Regions",
+  "Remove K Digits",
   "Linked List Cycle II",
-  "Merge Sort Implementation",
   "Palindrome Partitioning",
   "Sum of Two Integers",
-  "Remove K Digits"
+  "Redundant Connection",
+  "Gas Station",
+  "Surrounded Regions",
+  "Merge Sort Implementation",
+  "Sqrt(x)"
 ]
