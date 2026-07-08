@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_08",
-    "index": 16,
-    "topic": "Advanced_Graphs",
-    "question": "Minimum Spanning Tree (Kruskal's)"
-  },
-  {
-    "day": "2026_07_08",
     "index": 17,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"

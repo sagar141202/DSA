@@ -1,17 +1,18 @@
 [
-  "Palindrome Partitioning",
   "Merge Sort Implementation",
-  "Articulation Points",
-  "Sliding Window Median",
   "Pacific Atlantic Water Flow",
   "Sqrt(x)",
   "Edit Distance",
   "Sudoku Solver",
   "Remove K Digits",
+  "Linked List Cycle II",
+  "Sliding Window Median",
+  "Redundant Connection",
+  "Minimum Spanning Tree (Kruskal's)",
+  "Binary Tree Maximum Path Sum",
   "Sum of Two Integers",
   "Surrounded Regions",
-  "Binary Tree Maximum Path Sum",
-  "Gas Station",
-  "Linked List Cycle II",
-  "Redundant Connection"
+  "Articulation Points",
+  "Palindrome Partitioning",
+  "Gas Station"
 ]
