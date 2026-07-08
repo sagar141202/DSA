@@ -1,8 +1,9 @@
 [
-  "Sum of Two Integers",
-  "Palindrome Partitioning",
-  "Sqrt(x)",
-  "Remove K Digits",
   "Gas Station",
+  "Palindrome Partitioning",
+  "Remove K Digits",
+  "Sum of Two Integers",
+  "Merge Sort Implementation",
+  "Sqrt(x)",
   "Linked List Cycle II"
 ]
