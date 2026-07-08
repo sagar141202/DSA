@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_08",
-    "index": 5,
-    "topic": "Arrays_and_Strings",
-    "question": "Search in Rotated Sorted Array"
-  },
-  {
-    "day": "2026_07_08",
     "index": 6,
     "topic": "Advanced_Graphs",
     "question": "Floyd-Warshall Algorithm"
