@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_08",
-    "index": 5,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_07_08",
     "index": 6,
     "topic": "Arrays_and_Strings",
     "question": "Gas Station"
