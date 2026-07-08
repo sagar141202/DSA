@@ -1,14 +1,15 @@
 [
-  "Sliding Window Median",
-  "Surrounded Regions",
-  "Merge Sort Implementation",
-  "Binary Tree Maximum Path Sum",
-  "Remove K Digits",
-  "Gas Station",
-  "Redundant Connection",
   "Edit Distance",
   "Sqrt(x)",
   "Sum of Two Integers",
-  "Linked List Cycle II",
-  "Palindrome Partitioning"
+  "Sliding Window Median",
+  "Palindrome Partitioning",
+  "Redundant Connection",
+  "Merge Sort Implementation",
+  "Articulation Points",
+  "Binary Tree Maximum Path Sum",
+  "Gas Station",
+  "Remove K Digits",
+  "Surrounded Regions",
+  "Linked List Cycle II"
 ]
