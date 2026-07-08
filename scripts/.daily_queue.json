@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_08",
-    "index": 4,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_07_08",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Palindrome Partitioning"
