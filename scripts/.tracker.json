@@ -1,13 +1,14 @@
 [
-  "Redundant Connection",
-  "Binary Tree Maximum Path Sum",
-  "Linked List Cycle II",
-  "Sqrt(x)",
+  "Sliding Window Median",
   "Surrounded Regions",
-  "Sum of Two Integers",
-  "Gas Station",
-  "Edit Distance",
-  "Palindrome Partitioning",
   "Merge Sort Implementation",
-  "Remove K Digits"
+  "Binary Tree Maximum Path Sum",
+  "Remove K Digits",
+  "Gas Station",
+  "Redundant Connection",
+  "Edit Distance",
+  "Sqrt(x)",
+  "Sum of Two Integers",
+  "Linked List Cycle II",
+  "Palindrome Partitioning"
 ]
