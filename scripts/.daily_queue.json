@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_09",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_07_09",
     "index": 20,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
