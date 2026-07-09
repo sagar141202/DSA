@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_09",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "Decode Ways"
-  },
-  {
-    "day": "2026_07_09",
     "index": 5,
     "topic": "Dynamic_Programming",
     "question": "Maximum Square of 1s"
