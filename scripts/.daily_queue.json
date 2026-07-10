@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_10",
+    "index": 2,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Pascal's Triangle"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 7,
+    "topic": "Tries",
+    "question": "Design Add and Search Words Data Structure"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Word Break"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 10,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 13,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Diameter of Binary Tree"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 17,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 19,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_07_10",
+    "index": 20,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  }
+]
