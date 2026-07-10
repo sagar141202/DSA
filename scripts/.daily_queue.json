@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_10",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_07_10",
     "index": 5,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
