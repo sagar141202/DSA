@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_10",
-    "index": 18,
-    "topic": "Arrays_and_Strings",
-    "question": "Next Permutation"
-  },
-  {
-    "day": "2026_07_10",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Minimum Path Sum"
