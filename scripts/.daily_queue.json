@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_10",
-    "index": 7,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Generate Parentheses"
-  },
-  {
-    "day": "2026_07_10",
     "index": 8,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Zigzag Level Order Traversal"
