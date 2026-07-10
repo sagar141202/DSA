@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_10",
-    "index": 7,
-    "topic": "Tries",
-    "question": "Design Add and Search Words Data Structure"
-  },
-  {
-    "day": "2026_07_10",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Contains Duplicate"
