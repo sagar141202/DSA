@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_10",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Word Search"
-  },
-  {
-    "day": "2026_07_10",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Next Greater Element II"
