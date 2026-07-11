@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_11",
-    "index": 3,
-    "topic": "Linked_Lists",
-    "question": "Reverse Linked List"
-  },
-  {
-    "day": "2026_07_11",
     "index": 4,
     "topic": "Bit_Manipulation",
     "question": "Single Number"
