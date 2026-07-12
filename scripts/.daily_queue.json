@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_12",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Climbing Stairs"
-  },
-  {
-    "day": "2026_07_12",
     "index": 20,
     "topic": "Greedy",
     "question": "Fractional Knapsack"
