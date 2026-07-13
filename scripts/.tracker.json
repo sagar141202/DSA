@@ -1,12 +1,13 @@
 [
-  "Valid Parentheses",
+  "Regular Expression Matching",
   "Smallest Range Covering Elements from K Lists",
-  "Flatten a Multilevel Doubly Linked List",
-  "Word Search II",
   "Sort Colors (Dutch Flag)",
   "Pascal's Triangle",
-  "Letter Combinations of Phone Number",
+  "Next Permutation",
   "Bellman-Ford Algorithm",
-  "Regular Expression Matching",
+  "Flatten a Multilevel Doubly Linked List",
+  "Letter Combinations of Phone Number",
+  "Valid Parentheses",
+  "Word Search II",
   "K Closest Points to Origin"
 ]
