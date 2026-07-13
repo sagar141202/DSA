@@ -1,11 +1,12 @@
 [
-  "Letter Combinations of Phone Number",
-  "Pascal's Triangle",
-  "Bellman-Ford Algorithm",
   "Valid Parentheses",
-  "Word Search II",
-  "Regular Expression Matching",
   "Smallest Range Covering Elements from K Lists",
   "Flatten a Multilevel Doubly Linked List",
-  "Sort Colors (Dutch Flag)"
+  "Word Search II",
+  "Sort Colors (Dutch Flag)",
+  "Pascal's Triangle",
+  "Letter Combinations of Phone Number",
+  "Bellman-Ford Algorithm",
+  "Regular Expression Matching",
+  "K Closest Points to Origin"
 ]
