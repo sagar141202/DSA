@@ -1,14 +1,15 @@
 [
-  "Coin Change",
-  "Smallest Range Covering Elements from K Lists",
-  "Flatten a Multilevel Doubly Linked List",
-  "Pascal's Triangle",
-  "Letter Combinations of Phone Number",
-  "Regular Expression Matching",
-  "Valid Parentheses",
-  "Bellman-Ford Algorithm",
-  "Next Permutation",
-  "Sort Colors (Dutch Flag)",
+  "K Closest Points to Origin",
   "Word Search II",
-  "K Closest Points to Origin"
+  "Bellman-Ford Algorithm",
+  "Smallest Range Covering Elements from K Lists",
+  "Regular Expression Matching",
+  "Coin Change",
+  "Sort Colors (Dutch Flag)",
+  "Valid Parentheses",
+  "Pascal's Triangle",
+  "Flatten a Multilevel Doubly Linked List",
+  "Next Permutation",
+  "Palindromic Substrings",
+  "Letter Combinations of Phone Number"
 ]
