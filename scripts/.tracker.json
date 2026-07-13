@@ -1,9 +1,10 @@
 [
-  "Valid Parentheses",
-  "Letter Combinations of Phone Number",
-  "Flatten a Multilevel Doubly Linked List",
-  "Bellman-Ford Algorithm",
   "Sort Colors (Dutch Flag)",
+  "Valid Parentheses",
+  "Pascal's Triangle",
+  "Bellman-Ford Algorithm",
+  "Word Search II",
   "Smallest Range Covering Elements from K Lists",
-  "Pascal's Triangle"
+  "Letter Combinations of Phone Number",
+  "Flatten a Multilevel Doubly Linked List"
 ]
