@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_13",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Valid Anagram"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Kth Smallest Element in BST"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Maximum Depth of Binary Tree"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 7,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 8,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 9,
+    "topic": "Sorting_and_Searching",
+    "question": "Kth Largest Element in Array"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 10,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Unique Paths"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 16,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Minimum Path Sum"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 18,
+    "topic": "Advanced_Graphs",
+    "question": "Alien Dictionary"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_07_13",
+    "index": 20,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  }
+]
