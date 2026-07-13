@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_13",
-    "index": 5,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_07_13",
     "index": 6,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
