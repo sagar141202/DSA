@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_13",
-    "index": 3,
-    "topic": "Linked_Lists",
-    "question": "Flatten a Multilevel Doubly Linked List"
-  },
-  {
-    "day": "2026_07_13",
     "index": 4,
     "topic": "Advanced_Graphs",
     "question": "Bellman-Ford Algorithm"
