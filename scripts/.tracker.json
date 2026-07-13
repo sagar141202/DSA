@@ -1,17 +1,18 @@
 [
-  "Word Search II",
+  "Coin Change",
+  "Palindromic Substrings",
+  "Excel Sheet Column Number",
+  "Letter Combinations of Phone Number",
   "Smallest Range Covering Elements from K Lists",
   "Bellman-Ford Algorithm",
-  "Coin Change",
-  "Letter Combinations of Phone Number",
   "Pascal's Triangle",
-  "Palindromic Substrings",
   "Valid Parentheses",
-  "Sort Colors (Dutch Flag)",
+  "Search in Rotated Sorted Array",
   "Spiral Matrix",
-  "Excel Sheet Column Number",
+  "Flatten a Multilevel Doubly Linked List",
+  "Word Search II",
+  "Sort Colors (Dutch Flag)",
   "Next Permutation",
   "Regular Expression Matching",
-  "K Closest Points to Origin",
-  "Flatten a Multilevel Doubly Linked List"
+  "K Closest Points to Origin"
 ]
