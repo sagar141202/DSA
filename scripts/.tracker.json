@@ -1,16 +1,17 @@
 [
-  "K Closest Points to Origin",
-  "Valid Parentheses",
-  "Excel Sheet Column Number",
-  "Palindromic Substrings",
-  "Smallest Range Covering Elements from K Lists",
-  "Flatten a Multilevel Doubly Linked List",
-  "Next Permutation",
-  "Coin Change",
   "Word Search II",
-  "Pascal's Triangle",
-  "Letter Combinations of Phone Number",
+  "Smallest Range Covering Elements from K Lists",
   "Bellman-Ford Algorithm",
+  "Coin Change",
+  "Letter Combinations of Phone Number",
+  "Pascal's Triangle",
+  "Palindromic Substrings",
+  "Valid Parentheses",
+  "Sort Colors (Dutch Flag)",
+  "Spiral Matrix",
+  "Excel Sheet Column Number",
+  "Next Permutation",
   "Regular Expression Matching",
-  "Sort Colors (Dutch Flag)"
+  "K Closest Points to Origin",
+  "Flatten a Multilevel Doubly Linked List"
 ]
