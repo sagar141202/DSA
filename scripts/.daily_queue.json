@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 15,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Reorganize String"
-  },
-  {
-    "day": "2026_07_14",
     "index": 16,
     "topic": "Arrays_and_Strings",
     "question": "Contains Duplicate"
