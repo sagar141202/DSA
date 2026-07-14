@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Maximum Path Sum"
-  },
-  {
-    "day": "2026_07_14",
     "index": 5,
     "topic": "Stacks_and_Queues",
     "question": "Implement Stack using Queues"
