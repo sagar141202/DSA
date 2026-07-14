@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 8,
-    "topic": "Dynamic_Programming",
-    "question": "Wildcard Matching"
-  },
-  {
-    "day": "2026_07_14",
     "index": 9,
     "topic": "Trees_and_Graphs",
     "question": "Word Search"
