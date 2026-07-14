@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 7,
-    "topic": "Math_and_Number_Theory",
-    "question": "Sqrt(x)"
-  },
-  {
-    "day": "2026_07_14",
     "index": 8,
     "topic": "Dynamic_Programming",
     "question": "Wildcard Matching"
