@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 14,
-    "topic": "Dynamic_Programming",
-    "question": "Edit Distance"
-  },
-  {
-    "day": "2026_07_14",
     "index": 15,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Kth Largest Element in a Stream"
