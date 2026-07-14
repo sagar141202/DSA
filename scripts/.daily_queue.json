@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_14",
-    "index": 2,
-    "topic": "Trees_and_Graphs",
-    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
-  },
-  {
-    "day": "2026_07_14",
     "index": 3,
     "topic": "Trees_and_Graphs",
     "question": "Right Side View of Binary Tree"
