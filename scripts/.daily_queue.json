@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_15",
-    "index": 7,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_07_15",
     "index": 8,
     "topic": "Stacks_and_Queues",
     "question": "Basic Calculator II"
