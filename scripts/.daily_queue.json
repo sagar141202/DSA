@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_16",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Target Sum"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 6,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 8,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 9,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 12,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Decode Ways"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "Combination Sum IV"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 17,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 18,
+    "topic": "Tries",
+    "question": "Implement Trie (Prefix Tree)"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 19,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_07_16",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  }
+]
