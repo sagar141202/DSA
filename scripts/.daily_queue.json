@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_17",
-    "index": 2,
-    "topic": "Dynamic_Programming",
-    "question": "Burst Balloons"
-  },
-  {
-    "day": "2026_07_17",
     "index": 3,
     "topic": "Linked_Lists",
     "question": "Copy List with Random Pointer"
