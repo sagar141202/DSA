@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_17",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Increasing Subsequence"
-  },
-  {
-    "day": "2026_07_17",
     "index": 19,
     "topic": "Recursion_and_Backtracking",
     "question": "Gray Code"
