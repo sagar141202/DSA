@@ -1,10 +1,11 @@
 [
   "Two Sum",
-  "Course Schedule (Topological Sort)",
-  "Sliding Window Median",
-  "Merge Two Sorted Lists",
-  "Missing Number",
   "Factorial Trailing Zeroes",
   "Subsets",
-  "Jump Game"
+  "Course Schedule (Topological Sort)",
+  "Jump Game",
+  "Sliding Window Median",
+  "Missing Number",
+  "Boats to Save People",
+  "Merge Two Sorted Lists"
 ]
