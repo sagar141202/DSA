@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_17",
-    "index": 11,
-    "topic": "Bit_Manipulation",
-    "question": "Single Number"
-  },
-  {
-    "day": "2026_07_17",
     "index": 12,
     "topic": "Recursion_and_Backtracking",
     "question": "Palindrome Partitioning"
