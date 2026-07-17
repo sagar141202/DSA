@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_17",
-    "index": 17,
-    "topic": "Arrays_and_Strings",
-    "question": "Product of Array Except Self"
-  },
-  {
-    "day": "2026_07_17",
     "index": 18,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
