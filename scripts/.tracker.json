@@ -1,12 +1,13 @@
 [
+  "Factorial Trailing Zeroes",
+  "Asteroid Collision",
+  "Sliding Window Median",
   "Boats to Save People",
-  "Jump Game",
   "Two Sum",
+  "Merge Two Sorted Lists",
+  "Search Suggestions System",
+  "Missing Number",
   "Subsets",
   "Course Schedule (Topological Sort)",
-  "Missing Number",
-  "Merge Two Sorted Lists",
-  "Factorial Trailing Zeroes",
-  "Sliding Window Median",
-  "Asteroid Collision"
+  "Jump Game"
 ]
