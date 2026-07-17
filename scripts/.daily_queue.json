@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_17",
-    "index": 15,
-    "topic": "Linked_Lists",
-    "question": "Odd Even Linked List"
-  },
-  {
-    "day": "2026_07_17",
     "index": 16,
     "topic": "Bit_Manipulation",
     "question": "Reverse Bits"
