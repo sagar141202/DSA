@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_18",
-    "index": 2,
-    "topic": "Sorting_and_Searching",
-    "question": "Kth Largest Element in Array"
-  },
-  {
-    "day": "2026_07_18",
     "index": 3,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
