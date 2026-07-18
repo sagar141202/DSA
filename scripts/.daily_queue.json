@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_18",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Next Permutation"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 3,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 6,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Top K Frequent Elements"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 8,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 9,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Invert Binary Tree"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 11,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Basic Calculator II"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 13,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 14,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 19,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_07_18",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Burst Balloons"
+  }
+]
