@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_18",
-    "index": 6,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "Top K Frequent Elements"
-  },
-  {
-    "day": "2026_07_18",
     "index": 7,
     "topic": "Trees_and_Graphs",
     "question": "Lowest Common Ancestor of BST"
