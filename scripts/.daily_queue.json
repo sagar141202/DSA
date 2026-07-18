@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_18",
-    "index": 3,
-    "topic": "Advanced_Graphs",
-    "question": "Articulation Points"
-  },
-  {
-    "day": "2026_07_18",
     "index": 4,
     "topic": "Sorting_and_Searching",
     "question": "Sort Colors (Dutch Flag)"
