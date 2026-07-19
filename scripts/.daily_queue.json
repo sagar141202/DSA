@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_19",
-    "index": 4,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_07_19",
     "index": 5,
     "topic": "Linked_Lists",
     "question": "Partition List"
