@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_19",
-    "index": 6,
-    "topic": "Arrays_and_Strings",
-    "question": "Maximum Subarray (Kadane's Algorithm)"
-  },
-  {
-    "day": "2026_07_19",
     "index": 7,
     "topic": "Stacks_and_Queues",
     "question": "Largest Rectangle in Histogram"
