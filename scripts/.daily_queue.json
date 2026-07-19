@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_19",
-    "index": 6,
-    "topic": "Greedy",
-    "question": "Non-overlapping Intervals"
-  },
-  {
-    "day": "2026_07_19",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Target Sum"
