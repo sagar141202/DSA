@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_20",
-    "index": 17,
-    "topic": "Arrays_and_Strings",
-    "question": "Pascal's Triangle"
-  },
-  {
-    "day": "2026_07_20",
     "index": 18,
     "topic": "Dynamic_Programming",
     "question": "Edit Distance"
