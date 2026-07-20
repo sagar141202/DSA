@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_20",
-    "index": 11,
-    "topic": "Linked_Lists",
-    "question": "Linked List Cycle"
-  },
-  {
-    "day": "2026_07_20",
     "index": 12,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
