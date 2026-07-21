@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_21",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Best Time to Buy and Sell Stock with Cooldown"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 3,
+    "topic": "Linked_Lists",
+    "question": "Reverse Linked List"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 4,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 5,
+    "topic": "Trees_and_Graphs",
+    "question": "Diameter of Binary Tree"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Redundant Connection"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 7,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 9,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 10,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Clone Graph"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 15,
+    "topic": "Arrays_and_Strings",
+    "question": "Sliding Window Maximum"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 16,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 17,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Letter Combinations of Phone Number"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 19,
+    "topic": "Math_and_Number_Theory",
+    "question": "Excel Sheet Column Number"
+  },
+  {
+    "day": "2026_07_21",
+    "index": 20,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  }
+]
