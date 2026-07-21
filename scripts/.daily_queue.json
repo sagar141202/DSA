@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_21",
-    "index": 7,
-    "topic": "Trees_and_Graphs",
-    "question": "Binary Tree Level Order Traversal"
-  },
-  {
-    "day": "2026_07_21",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Search in Rotated Sorted Array"
