@@ -1,13 +1,14 @@
 [
-  "Huffman Coding",
-  "Unique Paths",
-  "Implement Queue using Stacks",
-  "Sudoku Solver",
-  "Distinct Subsequences",
-  "Euler Path",
-  "Bipartite Graph Check",
   "Maximum Square of 1s",
+  "Distinct Subsequences",
+  "Huffman Coding",
+  "Bipartite Graph Check",
+  "Intersection of Two Linked Lists",
+  "Euler Path",
+  "Car Fleet",
   "Combination Sum II",
+  "Implement Queue using Stacks",
   "Bridges in Graph",
-  "Intersection of Two Linked Lists"
+  "Unique Paths",
+  "Sudoku Solver"
 ]
