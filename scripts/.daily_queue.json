@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_22",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Invert Binary Tree"
-  },
-  {
-    "day": "2026_07_22",
     "index": 19,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
