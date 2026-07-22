@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_22",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Serialize and Deserialize Binary Tree"
-  },
-  {
-    "day": "2026_07_22",
     "index": 11,
     "topic": "Math_and_Number_Theory",
     "question": "Palindrome Number"
