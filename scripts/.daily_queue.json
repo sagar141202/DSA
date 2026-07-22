@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_22",
-    "index": 3,
-    "topic": "Trees_and_Graphs",
-    "question": "Right Side View of Binary Tree"
-  },
-  {
-    "day": "2026_07_22",
     "index": 4,
     "topic": "Linked_Lists",
     "question": "Remove Nth Node From End"
