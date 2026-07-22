@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_22",
-    "index": 14,
-    "topic": "Tries",
-    "question": "Search Suggestions System"
-  },
-  {
-    "day": "2026_07_22",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Construct Binary Tree from Preorder and Inorder Traversal"
