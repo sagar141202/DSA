@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_22",
+    "index": 2,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Gray Code"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Right Side View of Binary Tree"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 4,
+    "topic": "Linked_Lists",
+    "question": "Remove Nth Node From End"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 5,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Graph Valid Tree"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 8,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 9,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Task Scheduler"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 11,
+    "topic": "Math_and_Number_Theory",
+    "question": "Palindrome Number"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 12,
+    "topic": "Bit_Manipulation",
+    "question": "Missing Number"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Level Order Traversal"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 14,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Lowest Common Ancestor of BST"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 18,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Triangle Minimum Path"
+  },
+  {
+    "day": "2026_07_22",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  }
+]
