@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_07_23",
+    "index": 2,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 4,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "Product of Array Except Self"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 6,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Find Median from Data Stream"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 7,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Palindromic Substrings"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Two Sum"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 10,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 14,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle II"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Add Two Numbers"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 16,
+    "topic": "Greedy",
+    "question": "Fractional Knapsack"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 18,
+    "topic": "Greedy",
+    "question": "Boats to Save People"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_07_23",
+    "index": 20,
+    "topic": "Math_and_Number_Theory",
+    "question": "Count Primes (Sieve)"
+  }
+]
