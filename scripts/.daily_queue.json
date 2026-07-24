@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_24",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_07_24",
     "index": 5,
     "topic": "Bit_Manipulation",
     "question": "Single Number"
