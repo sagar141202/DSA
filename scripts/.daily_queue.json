@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_24",
-    "index": 14,
-    "topic": "Tries",
-    "question": "Longest Word in Dictionary"
-  },
-  {
-    "day": "2026_07_24",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
