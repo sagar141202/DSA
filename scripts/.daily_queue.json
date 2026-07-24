@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_24",
-    "index": 13,
-    "topic": "Dynamic_Programming",
-    "question": "Paint House"
-  },
-  {
-    "day": "2026_07_24",
     "index": 14,
     "topic": "Advanced_Graphs",
     "question": "Tarjan's Algorithm (SCC)"
