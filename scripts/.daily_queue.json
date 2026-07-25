@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_25",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_07_25",
     "index": 8,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
