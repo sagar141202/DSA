@@ -1,15 +1,16 @@
 [
-  "Restore IP Addresses",
-  "Sort List",
-  "Merge Intervals",
-  "Simplify Path",
-  "Sliding Window Median",
   "Remove Nth Node From End",
-  "Number of 1 Bits",
-  "Paint House",
+  "Sort List",
   "Maximum Product Subarray",
-  "Minimum Spanning Tree (Prim's)",
-  "Largest Rectangle in Histogram",
+  "Graph Valid Tree",
+  "Sliding Window Median",
+  "Number of 1 Bits",
   "Sliding Window Maximum",
-  "Smallest Range Covering Elements from K Lists"
+  "Smallest Range Covering Elements from K Lists",
+  "Largest Rectangle in Histogram",
+  "Minimum Spanning Tree (Prim's)",
+  "Simplify Path",
+  "Paint House",
+  "Restore IP Addresses",
+  "Merge Intervals"
 ]
