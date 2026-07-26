@@ -1,11 +1,12 @@
 [
-  "Minimum Spanning Tree (Prim's)",
   "Number of 1 Bits",
-  "Smallest Range Covering Elements from K Lists",
-  "Sliding Window Median",
-  "Maximum Product Subarray",
-  "Sort List",
-  "Simplify Path",
+  "Paint House",
   "Remove Nth Node From End",
-  "Paint House"
+  "Maximum Product Subarray",
+  "Minimum Spanning Tree (Prim's)",
+  "Sliding Window Maximum",
+  "Sliding Window Median",
+  "Smallest Range Covering Elements from K Lists",
+  "Simplify Path",
+  "Sort List"
 ]
