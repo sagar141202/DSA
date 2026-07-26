@@ -1,8 +1,9 @@
 [
-  "Minimum Spanning Tree (Prim's)",
-  "Smallest Range Covering Elements from K Lists",
+  "Remove Nth Node From End",
+  "Sort List",
   "Maximum Product Subarray",
-  "Sliding Window Median",
   "Paint House",
-  "Sort List"
+  "Sliding Window Median",
+  "Smallest Range Covering Elements from K Lists",
+  "Minimum Spanning Tree (Prim's)"
 ]
