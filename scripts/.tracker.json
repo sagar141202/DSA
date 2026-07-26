@@ -1,17 +1,18 @@
 [
+  "Largest Rectangle in Histogram",
   "Remove Nth Node From End",
-  "Sliding Window Median",
-  "Minimum Spanning Tree (Prim's)",
-  "Sliding Window Maximum",
-  "Restore IP Addresses",
-  "Merge Intervals",
   "Maximum Product Subarray",
   "Sort List",
-  "Simplify Path",
-  "Smallest Range Covering Elements from K Lists",
-  "Largest Rectangle in Histogram",
-  "Number of 1 Bits",
+  "Count Primes (Sieve)",
+  "Sliding Window Maximum",
+  "Merge Intervals",
+  "Minimum Spanning Tree (Prim's)",
   "Paint House",
   "Move Zeroes",
-  "Graph Valid Tree"
+  "Number of 1 Bits",
+  "Graph Valid Tree",
+  "Simplify Path",
+  "Sliding Window Median",
+  "Smallest Range Covering Elements from K Lists",
+  "Restore IP Addresses"
 ]
