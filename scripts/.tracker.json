@@ -1,16 +1,17 @@
 [
   "Remove Nth Node From End",
-  "Sort List",
-  "Maximum Product Subarray",
-  "Graph Valid Tree",
   "Sliding Window Median",
-  "Number of 1 Bits",
+  "Minimum Spanning Tree (Prim's)",
   "Sliding Window Maximum",
+  "Restore IP Addresses",
+  "Merge Intervals",
+  "Maximum Product Subarray",
+  "Sort List",
+  "Simplify Path",
   "Smallest Range Covering Elements from K Lists",
   "Largest Rectangle in Histogram",
-  "Minimum Spanning Tree (Prim's)",
-  "Simplify Path",
+  "Number of 1 Bits",
   "Paint House",
-  "Restore IP Addresses",
-  "Merge Intervals"
+  "Move Zeroes",
+  "Graph Valid Tree"
 ]
