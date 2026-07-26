@@ -1,10 +1,10 @@
 # Sliding Window Median
 
 ## Problem Statement
-The median is the middle value in an ordered integer list. If the size of the list is even, there are two middle values, and the median is their mean. Given a list of integers `nums` and an integer `k`, return the median of each `k` sized sub-list. The sub-lists are created by sliding a window of size `k` over the list `nums`. The median of each sub-list should be returned in the order they are calculated. For example, given `nums = [1, 3, -1, -3, 5, 3, 6, 7]` and `k = 3`, the output should be `[1, -1, -1, 3, 5, 6]`.
+The Sliding Window Median problem involves finding the median of all numbers in a sliding window of size k in an array of integers. The array is given as `nums`, and the size of the sliding window is given as `k`. The goal is to calculate the median for each position of the sliding window and return a list of these medians. For example, given `nums = [1, 3, -1, -3, 5, 3, 6, 7]` and `k = 3`, the output should be `[1, -1, -1, 3, 5, 6]`.
 
 ## Approach
-We will use two heaps to maintain the smaller and larger halves of the current window, ensuring the max heap stores the smaller half and the min heap stores the larger half. This allows us to efficiently calculate the median for each window.
+We will use two priority queues (heaps) to solve this problem: a max-heap for the smaller half of the numbers and a min-heap for the larger half. This allows us to efficiently maintain the median as we slide the window.
 
 ## Complexity
 - Time: O(n log k)
@@ -17,18 +17,18 @@ using namespace std;
 
 class MedianFinder {
 public:
-    priority_queue<int> maxHeap; // max heap for smaller half
-    priority_queue<int, vector<int>, greater<int>> minHeap; // min heap for larger half
+    priority_queue<int> maxHeap; // max-heap for the smaller half
+    priority_queue<int, vector<int>, greater<int>> minHeap; // min-heap for the larger half
 
     void addNum(int num) {
-        // Add to correct heap
+        // Add num to the correct heap
         if (maxHeap.empty() || num <= maxHeap.top()) {
             maxHeap.push(num);
         } else {
             minHeap.push(num);
         }
-        
-        // Balance heaps
+
+        // Balance the heaps
         if (maxHeap.size() > minHeap.size() + 1) {
             minHeap.push(maxHeap.top());
             maxHeap.pop();
@@ -39,6 +39,7 @@ public:
     }
 
     double findMedian() {
+        // Calculate the median
         if (maxHeap.size() == minHeap.size()) {
             return (maxHeap.top() + minHeap.top()) / 2.0;
         } else {
@@ -50,41 +51,49 @@ public:
 vector<double> medianSlidingWindow(vector<int>& nums, int k) {
     MedianFinder mf;
     vector<double> medians;
-    
     for (int i = 0; i < nums.size(); i++) {
         mf.addNum(nums[i]);
-        
         if (i >= k) {
             // Remove the oldest number from the window
             if (nums[i - k] <= mf.maxHeap.top()) {
-                // If the number is in the max heap, remove it
-                // Note: This is a simplified version and does not handle duplicates.
-                // In a real scenario, you would need a more complex data structure.
-                if (mf.maxHeap.top() == nums[i - k]) {
+                // Remove from max-heap
+                priority_queue<int> temp;
+                while (mf.maxHeap.top() != nums[i - k]) {
+                    temp.push(mf.maxHeap.top());
                     mf.maxHeap.pop();
                 }
+                mf.maxHeap.pop();
+                while (!temp.empty()) {
+                    mf.maxHeap.push(temp.top());
+                    temp.pop();
+                }
             } else {
-                // If the number is in the min heap, remove it
-                if (mf.minHeap.top() == nums[i - k]) {
+                // Remove from min-heap
+                priority_queue<int, vector<int>, greater<int>> temp;
+                while (mf.minHeap.top() != nums[i - k]) {
+                    temp.push(mf.minHeap.top());
                     mf.minHeap.pop();
+                }
+                mf.minHeap.pop();
+                while (!temp.empty()) {
+                    mf.minHeap.push(temp.top());
+                    temp.pop();
                 }
             }
         }
-        
         if (i >= k - 1) {
             medians.push_back(mf.findMedian());
         }
     }
-    
     return medians;
 }
 
 int main() {
     vector<int> nums = {1, 3, -1, -3, 5, 3, 6, 7};
     int k = 3;
-    vector<double> result = medianSlidingWindow(nums, k);
-    for (double d : result) {
-        cout << d << " ";
+    vector<double> medians = medianSlidingWindow(nums, k);
+    for (double median : medians) {
+        cout << median << " ";
     }
     return 0;
 }
@@ -97,6 +106,6 @@ Output: [1, -1, -1, 3, 5, 6]
 ```
 
 ## Key Takeaways
-- Use two heaps to maintain the smaller and larger halves of the window for efficient median calculation.
-- Balance the heaps after adding a new number to ensure the max heap size is at most one more than the min heap size.
-- When removing the oldest number from the window, consider its presence in both heaps.
+- Use two priority queues (heaps) to maintain the median in a sliding window.
+- Balance the heaps to ensure the max-heap size is at most one more than the min-heap size.
+- Remove the oldest number from the window by checking which heap it belongs to and rebalancing the heaps as necessary.
