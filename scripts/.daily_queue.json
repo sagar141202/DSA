@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_27",
-    "index": 9,
-    "topic": "Trees_and_Graphs",
-    "question": "Maximum Depth of Binary Tree"
-  },
-  {
-    "day": "2026_07_27",
     "index": 10,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations II"
