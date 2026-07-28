@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_28",
-    "index": 7,
-    "topic": "Linked_Lists",
-    "question": "Merge Two Sorted Lists"
-  },
-  {
-    "day": "2026_07_28",
     "index": 8,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
