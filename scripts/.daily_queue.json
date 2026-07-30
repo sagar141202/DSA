@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_30",
-    "index": 18,
-    "topic": "Stacks_and_Queues",
-    "question": "Daily Temperatures"
-  },
-  {
-    "day": "2026_07_30",
     "index": 19,
     "topic": "Advanced_Graphs",
     "question": "Euler Path"
