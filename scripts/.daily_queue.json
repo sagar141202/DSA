@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_30",
-    "index": 4,
-    "topic": "Math_and_Number_Theory",
-    "question": "Happy Number"
-  },
-  {
-    "day": "2026_07_30",
     "index": 5,
     "topic": "Recursion_and_Backtracking",
     "question": "Permutations"
