@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_31",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_07_31",
     "index": 18,
     "topic": "Stacks_and_Queues",
     "question": "Asteroid Collision"
