@@ -1,12 +1,13 @@
 [
-  "Sqrt(x)",
-  "Implement Stack using Queues",
-  "Binary Tree Inorder Traversal",
-  "Task Scheduler",
-  "Combination Sum",
-  "Activity Selection",
-  "Power of Two",
-  "Next Permutation",
   "Find Minimum in Rotated Sorted Array",
-  "Largest Number"
+  "Next Permutation",
+  "Largest Number",
+  "Power of Two",
+  "Happy Number",
+  "Implement Stack using Queues",
+  "Combination Sum",
+  "Sqrt(x)",
+  "Activity Selection",
+  "Task Scheduler",
+  "Binary Tree Inorder Traversal"
 ]
