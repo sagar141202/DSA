@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_31",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Accounts Merge"
-  },
-  {
-    "day": "2026_07_31",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Minimum Path Sum"
