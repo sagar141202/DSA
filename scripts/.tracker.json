@@ -1,11 +1,12 @@
 [
-  "Binary Tree Inorder Traversal",
-  "Next Permutation",
   "Sqrt(x)",
-  "Power of Two",
-  "Activity Selection",
-  "Combination Sum",
-  "Find Minimum in Rotated Sorted Array",
   "Implement Stack using Queues",
+  "Binary Tree Inorder Traversal",
+  "Task Scheduler",
+  "Combination Sum",
+  "Activity Selection",
+  "Power of Two",
+  "Next Permutation",
+  "Find Minimum in Rotated Sorted Array",
   "Largest Number"
 ]
