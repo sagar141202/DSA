@@ -1,14 +1,15 @@
 [
-  "Largest Number",
   "Implement Stack using Queues",
-  "Happy Number",
   "Find Minimum in Rotated Sorted Array",
-  "Binary Tree Inorder Traversal",
-  "Activity Selection",
   "Count of Smaller Numbers After Self",
-  "Task Scheduler",
   "Power of Two",
+  "Coin Change",
   "Sqrt(x)",
+  "Task Scheduler",
+  "Happy Number",
+  "Next Permutation",
+  "Largest Number",
+  "Binary Tree Inorder Traversal",
   "Combination Sum",
-  "Next Permutation"
+  "Activity Selection"
 ]
