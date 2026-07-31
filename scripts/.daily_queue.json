@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_07_31",
-    "index": 11,
-    "topic": "Arrays_and_Strings",
-    "question": "Gas Station"
-  },
-  {
-    "day": "2026_07_31",
     "index": 12,
     "topic": "Greedy",
     "question": "Non-overlapping Intervals"
