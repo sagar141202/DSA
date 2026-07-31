@@ -1,13 +1,14 @@
 [
-  "Find Minimum in Rotated Sorted Array",
-  "Next Permutation",
   "Largest Number",
-  "Power of Two",
-  "Happy Number",
   "Implement Stack using Queues",
-  "Combination Sum",
-  "Sqrt(x)",
+  "Happy Number",
+  "Find Minimum in Rotated Sorted Array",
+  "Binary Tree Inorder Traversal",
   "Activity Selection",
+  "Count of Smaller Numbers After Self",
   "Task Scheduler",
-  "Binary Tree Inorder Traversal"
+  "Power of Two",
+  "Sqrt(x)",
+  "Combination Sum",
+  "Next Permutation"
 ]
