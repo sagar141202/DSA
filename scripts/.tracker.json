@@ -1,10 +1,11 @@
 [
-  "Sqrt(x)",
-  "Activity Selection",
   "Binary Tree Inorder Traversal",
   "Next Permutation",
+  "Sqrt(x)",
+  "Power of Two",
+  "Activity Selection",
   "Combination Sum",
   "Find Minimum in Rotated Sorted Array",
-  "Largest Number",
-  "Implement Stack using Queues"
+  "Implement Stack using Queues",
+  "Largest Number"
 ]
