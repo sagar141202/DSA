@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_01",
-    "index": 15,
-    "topic": "Trees_and_Graphs",
-    "question": "Surrounded Regions"
-  },
-  {
-    "day": "2026_08_01",
     "index": 16,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
