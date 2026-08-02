@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_02",
-    "index": 5,
-    "topic": "Stacks_and_Queues",
-    "question": "Min Stack"
-  },
-  {
-    "day": "2026_08_02",
     "index": 6,
     "topic": "Advanced_Graphs",
     "question": "Bridges in Graph"
