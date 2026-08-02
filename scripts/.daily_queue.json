@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_02",
+    "index": 2,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 3,
+    "topic": "Arrays_and_Strings",
+    "question": "Contains Duplicate"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 4,
+    "topic": "Dynamic_Programming",
+    "question": "Jump Game II"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 5,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 6,
+    "topic": "Linked_Lists",
+    "question": "Partition List"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Flatten a Multilevel Doubly Linked List"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 9,
+    "topic": "Trees_and_Graphs",
+    "question": "Validate Binary Search Tree"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 10,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix II"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 11,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Rotate Array"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 13,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 16,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Merge Two Sorted Lists"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 19,
+    "topic": "Sorting_and_Searching",
+    "question": "Meeting Rooms II"
+  },
+  {
+    "day": "2026_08_02",
+    "index": 20,
+    "topic": "Arrays_and_Strings",
+    "question": "Set Matrix Zeroes"
+  }
+]
