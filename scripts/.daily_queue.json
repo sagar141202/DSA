@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_02",
-    "index": 13,
-    "topic": "Stacks_and_Queues",
-    "question": "Evaluate Reverse Polish Notation"
-  },
-  {
-    "day": "2026_08_02",
     "index": 14,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
