@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_03",
-    "index": 5,
-    "topic": "Heaps_and_Priority_Queues",
-    "question": "K Closest Points to Origin"
-  },
-  {
-    "day": "2026_08_03",
     "index": 6,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
