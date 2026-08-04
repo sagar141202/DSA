@@ -1,12 +1,13 @@
 [
-  "Two Sum",
-  "Asteroid Collision",
-  "Activity Selection",
-  "Combination Sum IV",
-  "Generate Parentheses",
-  "Boats to Save People",
-  "Beautiful Arrangement",
-  "Linked List Cycle",
   "Minimum Number of Arrows to Burst Balloons",
-  "Reorder List"
+  "Activity Selection",
+  "Beautiful Arrangement",
+  "Asteroid Collision",
+  "Boats to Save People",
+  "Generate Parentheses",
+  "Reorder List",
+  "Combination Sum IV",
+  "Linked List Cycle",
+  "Implement Trie (Prefix Tree)",
+  "Two Sum"
 ]
