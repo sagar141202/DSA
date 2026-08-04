@@ -1,14 +1,15 @@
 [
-  "Asteroid Collision",
-  "Boats to Save People",
-  "Minimum Number of Arrows to Burst Balloons",
-  "Two Sum",
-  "Implement Trie (Prefix Tree)",
-  "Reorder List",
   "Longest Increasing Subsequence",
-  "Generate Parentheses",
-  "Combination Sum IV",
-  "Beautiful Arrangement",
+  "Two Sum",
+  "Linked List Cycle",
   "Activity Selection",
-  "Linked List Cycle"
+  "Implement Trie (Prefix Tree)",
+  "Beautiful Arrangement",
+  "Minimum Number of Arrows to Burst Balloons",
+  "Combination Sum IV",
+  "Letter Combinations of Phone Number",
+  "Asteroid Collision",
+  "Reorder List",
+  "Boats to Save People",
+  "Generate Parentheses"
 ]
