@@ -1,15 +1,16 @@
 [
-  "Longest Increasing Subsequence",
+  "Beautiful Arrangement",
+  "Boats to Save People",
+  "Minimum Number of Arrows to Burst Balloons",
+  "Binary Tree Level Order Traversal",
+  "Asteroid Collision",
   "Two Sum",
   "Linked List Cycle",
-  "Activity Selection",
   "Implement Trie (Prefix Tree)",
-  "Beautiful Arrangement",
-  "Minimum Number of Arrows to Burst Balloons",
+  "Reorder List",
+  "Generate Parentheses",
   "Combination Sum IV",
   "Letter Combinations of Phone Number",
-  "Asteroid Collision",
-  "Reorder List",
-  "Boats to Save People",
-  "Generate Parentheses"
+  "Activity Selection",
+  "Longest Increasing Subsequence"
 ]
