@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_04",
-    "index": 8,
-    "topic": "Greedy",
-    "question": "Activity Selection"
-  },
-  {
-    "day": "2026_08_04",
     "index": 9,
     "topic": "Linked_Lists",
     "question": "Linked List Cycle"
