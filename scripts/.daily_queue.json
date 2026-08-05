@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_05",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Burst Balloons"
-  },
-  {
-    "day": "2026_08_05",
     "index": 20,
     "topic": "Tries",
     "question": "Design Add and Search Words Data Structure"
