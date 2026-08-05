@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_05",
-    "index": 11,
-    "topic": "Dynamic_Programming",
-    "question": "Longest Common Subsequence"
-  },
-  {
-    "day": "2026_08_05",
     "index": 12,
     "topic": "Math_and_Number_Theory",
     "question": "Happy Number"
