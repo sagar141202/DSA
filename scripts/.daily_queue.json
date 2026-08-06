@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_06",
+    "index": 2,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 3,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 4,
+    "topic": "Math_and_Number_Theory",
+    "question": "Reverse Integer"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 6,
+    "topic": "Advanced_Graphs",
+    "question": "Minimum Spanning Tree (Kruskal's)"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 7,
+    "topic": "Linked_Lists",
+    "question": "Remove Duplicates from Sorted List"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 8,
+    "topic": "Arrays_and_Strings",
+    "question": "Jump Game"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 9,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber II"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 11,
+    "topic": "Arrays_and_Strings",
+    "question": "Move Zeroes"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 12,
+    "topic": "Trees_and_Graphs",
+    "question": "Pacific Atlantic Water Flow"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 13,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 14,
+    "topic": "Tries",
+    "question": "Replace Words"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 15,
+    "topic": "Stacks_and_Queues",
+    "question": "Car Fleet"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 16,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 17,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Kth Largest Element in a Stream"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 18,
+    "topic": "Stacks_and_Queues",
+    "question": "Remove K Digits"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 19,
+    "topic": "Linked_Lists",
+    "question": "Odd Even Linked List"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 20,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  }
+]
