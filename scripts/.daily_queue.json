@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_06",
+    "index": 2,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 3,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Maximum Path Sum"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Subarray (Kadane's Algorithm)"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Assign Cookies"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 7,
+    "topic": "Tries",
+    "question": "Longest Word in Dictionary"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Restore IP Addresses"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Search in Rotated Sorted Array"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 10,
+    "topic": "Dynamic_Programming",
+    "question": "Distinct Subsequences"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 11,
+    "topic": "Advanced_Graphs",
+    "question": "Bipartite Graph Check"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 12,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Task Scheduler"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 13,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 14,
+    "topic": "Sorting_and_Searching",
+    "question": "Count of Smaller Numbers After Self"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 15,
+    "topic": "Bit_Manipulation",
+    "question": "Counting Bits"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 16,
+    "topic": "Sorting_and_Searching",
+    "question": "Wiggle Sort II"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 17,
+    "topic": "Arrays_and_Strings",
+    "question": "Rotate Array"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 18,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Daily Temperatures"
+  },
+  {
+    "day": "2026_08_06",
+    "index": 20,
+    "topic": "Dynamic_Programming",
+    "question": "Wildcard Matching"
+  }
+]
