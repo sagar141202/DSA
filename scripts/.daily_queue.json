@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_07",
-    "index": 16,
-    "topic": "Bit_Manipulation",
-    "question": "Sum of Two Integers"
-  },
-  {
-    "day": "2026_08_07",
     "index": 17,
     "topic": "Dynamic_Programming",
     "question": "Word Break"
