@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_07",
+    "index": 2,
+    "topic": "Arrays_and_Strings",
+    "question": "Maximum Product Subarray"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 3,
+    "topic": "Math_and_Number_Theory",
+    "question": "Sqrt(x)"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Best Time to Buy and Sell Stock"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 6,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 7,
+    "topic": "Tries",
+    "question": "Search Suggestions System"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Climbing Stairs"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 9,
+    "topic": "Arrays_and_Strings",
+    "question": "Group Anagrams"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 10,
+    "topic": "Advanced_Graphs",
+    "question": "Bridges in Graph"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Largest Rectangle in Histogram"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 12,
+    "topic": "Arrays_and_Strings",
+    "question": "Gas Station"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 13,
+    "topic": "Dynamic_Programming",
+    "question": "Regular Expression Matching"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 14,
+    "topic": "Dynamic_Programming",
+    "question": "Coin Change"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 15,
+    "topic": "Trees_and_Graphs",
+    "question": "Accounts Merge"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 16,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Rotate List"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 18,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "K Closest Points to Origin"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 19,
+    "topic": "Dynamic_Programming",
+    "question": "Partition Equal Subset Sum"
+  },
+  {
+    "day": "2026_08_07",
+    "index": 20,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  }
+]
