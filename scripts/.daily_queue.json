@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 10,
-    "topic": "Trees_and_Graphs",
-    "question": "Flatten Binary Tree to Linked List"
-  },
-  {
-    "day": "2026_08_09",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Symmetric Tree"
