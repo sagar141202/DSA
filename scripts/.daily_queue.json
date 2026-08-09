@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_09",
+    "index": 2,
+    "topic": "Stacks_and_Queues",
+    "question": "Asteroid Collision"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 3,
+    "topic": "Stacks_and_Queues",
+    "question": "Simplify Path"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 4,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Palindrome Partitioning"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 5,
+    "topic": "Math_and_Number_Theory",
+    "question": "Pow(x,n)"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Valid Parentheses"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 7,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Sliding Window Median"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 8,
+    "topic": "Trees_and_Graphs",
+    "question": "Diameter of Binary Tree"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 9,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum II"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Flatten Binary Tree to Linked List"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 11,
+    "topic": "Trees_and_Graphs",
+    "question": "Symmetric Tree"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 12,
+    "topic": "Advanced_Graphs",
+    "question": "Articulation Points"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 13,
+    "topic": "Trees_and_Graphs",
+    "question": "Serialize and Deserialize Binary Tree"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 14,
+    "topic": "Bit_Manipulation",
+    "question": "Power of Two"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 15,
+    "topic": "Linked_Lists",
+    "question": "Merge K Sorted Lists"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Zigzag Level Order Traversal"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 17,
+    "topic": "Tries",
+    "question": "Replace Words"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 18,
+    "topic": "Arrays_and_Strings",
+    "question": "3Sum"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 19,
+    "topic": "Greedy",
+    "question": "Minimum Spanning Tree (Prim's)"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 20,
+    "topic": "Trees_and_Graphs",
+    "question": "Binary Tree Inorder Traversal"
+  }
+]
