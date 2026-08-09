@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_09",
+    "index": 2,
+    "topic": "Math_and_Number_Theory",
+    "question": "Happy Number"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 3,
+    "topic": "Bit_Manipulation",
+    "question": "Number of 1 Bits"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 4,
+    "topic": "Arrays_and_Strings",
+    "question": "Merge Intervals"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 5,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Palindromic Subsequence"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 6,
+    "topic": "Trees_and_Graphs",
+    "question": "Number of Islands"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 7,
+    "topic": "Dynamic_Programming",
+    "question": "Interleaving String"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 8,
+    "topic": "Recursion_and_Backtracking",
+    "question": "N-Queens"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 9,
+    "topic": "Linked_Lists",
+    "question": "Linked List Cycle"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 10,
+    "topic": "Bit_Manipulation",
+    "question": "Bitwise AND of Numbers Range"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 11,
+    "topic": "Sorting_and_Searching",
+    "question": "Merge Sort Implementation"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 12,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Combination Sum"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 13,
+    "topic": "Bit_Manipulation",
+    "question": "Reverse Bits"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 14,
+    "topic": "Stacks_and_Queues",
+    "question": "Evaluate Reverse Polish Notation"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 15,
+    "topic": "Dynamic_Programming",
+    "question": "House Robber"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Course Schedule (Topological Sort)"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 17,
+    "topic": "Linked_Lists",
+    "question": "Sort List"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 18,
+    "topic": "Bit_Manipulation",
+    "question": "Sum of Two Integers"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 19,
+    "topic": "Stacks_and_Queues",
+    "question": "Min Stack"
+  },
+  {
+    "day": "2026_08_09",
+    "index": 20,
+    "topic": "Advanced_Graphs",
+    "question": "Euler Path"
+  }
+]
