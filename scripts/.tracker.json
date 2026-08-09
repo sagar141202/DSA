@@ -1,14 +1,15 @@
 [
-  "Interleaving String",
+  "Number of Islands",
+  "Number of 1 Bits",
+  "Longest Palindromic Subsequence",
+  "Merge Intervals",
   "Merge Sort Implementation",
   "Longest Substring Without Repeating Characters",
-  "N-Queens",
-  "Merge Intervals",
-  "Bitwise AND of Numbers Range",
-  "Combination Sum",
-  "Number of Islands",
-  "Longest Palindromic Subsequence",
-  "Number of 1 Bits",
   "Linked List Cycle",
-  "Happy Number"
+  "Combination Sum",
+  "Happy Number",
+  "Reverse Bits",
+  "Bitwise AND of Numbers Range",
+  "Interleaving String",
+  "N-Queens"
 ]
