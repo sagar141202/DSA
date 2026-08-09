@@ -1,16 +1,17 @@
 [
-  "Bitwise AND of Numbers Range",
-  "Happy Number",
-  "Merge Sort Implementation",
-  "Number of 1 Bits",
-  "Reverse Bits",
-  "Evaluate Reverse Polish Notation",
-  "N-Queens",
-  "Longest Substring Without Repeating Characters",
   "Number of Islands",
-  "Linked List Cycle",
+  "House Robber",
   "Combination Sum",
   "Merge Intervals",
+  "Interleaving String",
+  "Reverse Bits",
+  "Number of 1 Bits",
+  "Linked List Cycle",
+  "Longest Substring Without Repeating Characters",
+  "Bitwise AND of Numbers Range",
+  "Happy Number",
+  "N-Queens",
   "Longest Palindromic Subsequence",
-  "Interleaving String"
+  "Evaluate Reverse Polish Notation",
+  "Merge Sort Implementation"
 ]
