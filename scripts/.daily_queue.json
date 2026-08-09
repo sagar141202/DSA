@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 14,
-    "topic": "Bit_Manipulation",
-    "question": "Power of Two"
-  },
-  {
-    "day": "2026_08_09",
     "index": 15,
     "topic": "Linked_Lists",
     "question": "Merge K Sorted Lists"
