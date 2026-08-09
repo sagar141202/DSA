@@ -1,9 +1,10 @@
 [
   "Number of 1 Bits",
+  "N-Queens",
   "Merge Intervals",
-  "Happy Number",
-  "Longest Palindromic Subsequence",
-  "Number of Islands",
   "Interleaving String",
-  "Longest Substring Without Repeating Characters"
+  "Longest Palindromic Subsequence",
+  "Longest Substring Without Repeating Characters",
+  "Happy Number",
+  "Number of Islands"
 ]
