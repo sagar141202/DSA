@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 10,
-    "topic": "Bit_Manipulation",
-    "question": "Bitwise AND of Numbers Range"
-  },
-  {
-    "day": "2026_08_09",
     "index": 11,
     "topic": "Sorting_and_Searching",
     "question": "Merge Sort Implementation"
