@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 4,
-    "topic": "Arrays_and_Strings",
-    "question": "Merge Intervals"
-  },
-  {
-    "day": "2026_08_09",
     "index": 5,
     "topic": "Dynamic_Programming",
     "question": "Longest Palindromic Subsequence"
