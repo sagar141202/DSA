@@ -1,7 +1,8 @@
 [
-  "Number of 1 Bits",
-  "Longest Substring Without Repeating Characters",
   "Happy Number",
+  "Longest Palindromic Subsequence",
   "Merge Intervals",
-  "Longest Palindromic Subsequence"
+  "Number of Islands",
+  "Number of 1 Bits",
+  "Longest Substring Without Repeating Characters"
 ]

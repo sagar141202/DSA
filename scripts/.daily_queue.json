@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 6,
-    "topic": "Trees_and_Graphs",
-    "question": "Number of Islands"
-  },
-  {
-    "day": "2026_08_09",
     "index": 7,
     "topic": "Dynamic_Programming",
     "question": "Interleaving String"
