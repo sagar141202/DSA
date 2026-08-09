@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_09",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_08_09",
     "index": 5,
     "topic": "Math_and_Number_Theory",
     "question": "Pow(x,n)"
