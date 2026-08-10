@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_10",
-    "index": 13,
-    "topic": "Linked_Lists",
-    "question": "Copy List with Random Pointer"
-  },
-  {
-    "day": "2026_08_10",
     "index": 14,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Smallest Range Covering Elements from K Lists"
