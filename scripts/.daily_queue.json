@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "day": "2026_08_10",
+    "index": 2,
+    "topic": "Greedy",
+    "question": "Huffman Coding"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 3,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Reorganize String"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 4,
+    "topic": "Greedy",
+    "question": "Dijkstra's Algorithm"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 5,
+    "topic": "Sorting_and_Searching",
+    "question": "Find Peak Element"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 6,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Stack using Queues"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 7,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Subsets II"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 8,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Common Subsequence"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 9,
+    "topic": "Dynamic_Programming",
+    "question": "Word Break"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 10,
+    "topic": "Trees_and_Graphs",
+    "question": "Surrounded Regions"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 11,
+    "topic": "Stacks_and_Queues",
+    "question": "Decode String"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 12,
+    "topic": "Stacks_and_Queues",
+    "question": "Implement Queue using Stacks"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 13,
+    "topic": "Linked_Lists",
+    "question": "Copy List with Random Pointer"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 14,
+    "topic": "Heaps_and_Priority_Queues",
+    "question": "Smallest Range Covering Elements from K Lists"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 15,
+    "topic": "Greedy",
+    "question": "Minimum Number of Arrows to Burst Balloons"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 16,
+    "topic": "Trees_and_Graphs",
+    "question": "Construct Binary Tree from Preorder and Inorder Traversal"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 17,
+    "topic": "Dynamic_Programming",
+    "question": "Longest Increasing Subsequence"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 18,
+    "topic": "Sorting_and_Searching",
+    "question": "Search a 2D Matrix"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 19,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Beautiful Arrangement"
+  },
+  {
+    "day": "2026_08_10",
+    "index": 20,
+    "topic": "Recursion_and_Backtracking",
+    "question": "Word Search II"
+  }
+]
