@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_10",
-    "index": 7,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Subsets II"
-  },
-  {
-    "day": "2026_08_10",
     "index": 8,
     "topic": "Dynamic_Programming",
     "question": "Longest Common Subsequence"
