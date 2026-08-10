@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_10",
-    "index": 10,
-    "topic": "Bit_Manipulation",
-    "question": "Missing Number"
-  },
-  {
-    "day": "2026_08_10",
     "index": 11,
     "topic": "Dynamic_Programming",
     "question": "Best Time to Buy and Sell Stock with Cooldown"
