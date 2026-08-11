@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_11",
-    "index": 12,
-    "topic": "Math_and_Number_Theory",
-    "question": "Palindrome Number"
-  },
-  {
-    "day": "2026_08_11",
     "index": 13,
     "topic": "Arrays_and_Strings",
     "question": "Contains Duplicate"
