@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_11",
-    "index": 13,
-    "topic": "Dynamic_Programming",
-    "question": "Combination Sum IV"
-  },
-  {
-    "day": "2026_08_11",
     "index": 14,
     "topic": "Dynamic_Programming",
     "question": "Coin Change"
