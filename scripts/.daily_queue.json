@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_12",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Maximum Square of 1s"
-  },
-  {
-    "day": "2026_08_12",
     "index": 8,
     "topic": "Greedy",
     "question": "Fractional Knapsack"
