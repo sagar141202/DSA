@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_13",
-    "index": 16,
-    "topic": "Linked_Lists",
-    "question": "Linked List Cycle"
-  },
-  {
-    "day": "2026_08_13",
     "index": 17,
     "topic": "Greedy",
     "question": "Minimum Number of Arrows to Burst Balloons"

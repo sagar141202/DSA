@@ -1,17 +1,18 @@
 [
-  "Longest Substring Without Repeating Characters",
-  "Reverse Linked List",
-  "Remove Duplicates from Sorted List",
-  "Find Median from Data Stream",
-  "Edit Distance",
-  "Gas Station",
+  "Bitwise AND of Numbers Range",
+  "Maximum Square of 1s",
   "Longest Palindromic Subsequence",
   "Restore IP Addresses",
-  "Maximum Square of 1s",
+  "Linked List Cycle",
+  "Longest Substring Without Repeating Characters",
   "Basic Calculator II",
   "Jump Game",
   "Sudoku Solver",
   "Count Primes (Sieve)",
-  "Bitwise AND of Numbers Range",
-  "Container With Most Water"
+  "Remove Duplicates from Sorted List",
+  "Container With Most Water",
+  "Find Median from Data Stream",
+  "Gas Station",
+  "Edit Distance",
+  "Reverse Linked List"
 ]
