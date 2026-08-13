@@ -1,9 +1,10 @@
 [
-  "Find Median from Data Stream",
-  "Bitwise AND of Numbers Range",
   "Longest Palindromic Subsequence",
+  "Find Median from Data Stream",
+  "Reverse Linked List",
+  "Bitwise AND of Numbers Range",
   "Sudoku Solver",
+  "Longest Substring Without Repeating Characters",
   "Remove Duplicates from Sorted List",
-  "Maximum Square of 1s",
-  "Longest Substring Without Repeating Characters"
+  "Maximum Square of 1s"
 ]
