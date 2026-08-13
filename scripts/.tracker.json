@@ -1,12 +1,13 @@
 [
-  "Sudoku Solver",
-  "Gas Station",
-  "Restore IP Addresses",
-  "Remove Duplicates from Sorted List",
   "Reverse Linked List",
+  "Remove Duplicates from Sorted List",
+  "Gas Station",
   "Longest Substring Without Repeating Characters",
-  "Longest Palindromic Subsequence",
+  "Jump Game",
   "Find Median from Data Stream",
   "Bitwise AND of Numbers Range",
+  "Restore IP Addresses",
+  "Longest Palindromic Subsequence",
+  "Sudoku Solver",
   "Maximum Square of 1s"
 ]
