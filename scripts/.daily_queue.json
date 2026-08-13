@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_13",
-    "index": 17,
-    "topic": "Dynamic_Programming",
-    "question": "House Robber II"
-  },
-  {
-    "day": "2026_08_13",
     "index": 18,
     "topic": "Arrays_and_Strings",
     "question": "Search in Rotated Sorted Array"
