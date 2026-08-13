@@ -1,11 +1,12 @@
 [
-  "Longest Palindromic Subsequence",
-  "Remove Duplicates from Sorted List",
-  "Maximum Square of 1s",
-  "Find Median from Data Stream",
-  "Longest Substring Without Repeating Characters",
-  "Reverse Linked List",
-  "Bitwise AND of Numbers Range",
   "Sudoku Solver",
-  "Gas Station"
+  "Gas Station",
+  "Restore IP Addresses",
+  "Remove Duplicates from Sorted List",
+  "Reverse Linked List",
+  "Longest Substring Without Repeating Characters",
+  "Longest Palindromic Subsequence",
+  "Find Median from Data Stream",
+  "Bitwise AND of Numbers Range",
+  "Maximum Square of 1s"
 ]
