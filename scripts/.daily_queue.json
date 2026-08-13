@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_13",
-    "index": 4,
-    "topic": "Trees_and_Graphs",
-    "question": "Graph Valid Tree"
-  },
-  {
-    "day": "2026_08_13",
     "index": 5,
     "topic": "Advanced_Graphs",
     "question": "Bellman-Ford Algorithm"
