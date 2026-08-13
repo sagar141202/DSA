@@ -1,15 +1,16 @@
 [
-  "Sudoku Solver",
-  "Reverse Linked List",
-  "Count Primes (Sieve)",
-  "Longest Substring Without Repeating Characters",
-  "Restore IP Addresses",
-  "Container With Most Water",
   "Find Median from Data Stream",
-  "Gas Station",
-  "Longest Palindromic Subsequence",
-  "Bitwise AND of Numbers Range",
-  "Remove Duplicates from Sorted List",
   "Maximum Square of 1s",
-  "Jump Game"
+  "Reverse Linked List",
+  "Gas Station",
+  "Container With Most Water",
+  "Jump Game",
+  "Bitwise AND of Numbers Range",
+  "Edit Distance",
+  "Sudoku Solver",
+  "Longest Substring Without Repeating Characters",
+  "Longest Palindromic Subsequence",
+  "Remove Duplicates from Sorted List",
+  "Restore IP Addresses",
+  "Count Primes (Sieve)"
 ]
