@@ -1,7 +1,8 @@
 [
-  "Longest Palindromic Subsequence",
-  "Sudoku Solver",
-  "Remove Duplicates from Sorted List",
   "Bitwise AND of Numbers Range",
-  "Find Median from Data Stream"
+  "Longest Palindromic Subsequence",
+  "Remove Duplicates from Sorted List",
+  "Longest Substring Without Repeating Characters",
+  "Find Median from Data Stream",
+  "Sudoku Solver"
 ]
