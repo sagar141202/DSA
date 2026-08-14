@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_14",
-    "index": 4,
-    "topic": "Recursion_and_Backtracking",
-    "question": "Palindrome Partitioning"
-  },
-  {
-    "day": "2026_08_14",
     "index": 5,
     "topic": "Heaps_and_Priority_Queues",
     "question": "Sliding Window Median"
