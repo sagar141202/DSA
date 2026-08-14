@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_14",
-    "index": 19,
-    "topic": "Dynamic_Programming",
-    "question": "Climbing Stairs"
-  },
-  {
-    "day": "2026_08_14",
     "index": 20,
     "topic": "Sorting_and_Searching",
     "question": "Find Peak Element"
