@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_14",
-    "index": 18,
-    "topic": "Dynamic_Programming",
-    "question": "Best Time to Buy and Sell Stock with Cooldown"
-  },
-  {
-    "day": "2026_08_14",
     "index": 19,
     "topic": "Dynamic_Programming",
     "question": "Climbing Stairs"
