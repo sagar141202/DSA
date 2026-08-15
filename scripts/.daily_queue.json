@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_15",
-    "index": 7,
-    "topic": "Dynamic_Programming",
-    "question": "Jump Game II"
-  },
-  {
-    "day": "2026_08_15",
     "index": 8,
     "topic": "Arrays_and_Strings",
     "question": "Contains Duplicate"
