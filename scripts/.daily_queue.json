@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_15",
-    "index": 10,
-    "topic": "Math_and_Number_Theory",
-    "question": "Happy Number"
-  },
-  {
-    "day": "2026_08_15",
     "index": 11,
     "topic": "Advanced_Graphs",
     "question": "Articulation Points"
