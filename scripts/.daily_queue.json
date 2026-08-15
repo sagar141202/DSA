@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_15",
-    "index": 11,
-    "topic": "Advanced_Graphs",
-    "question": "Articulation Points"
-  },
-  {
-    "day": "2026_08_15",
     "index": 12,
     "topic": "Greedy",
     "question": "Minimum Spanning Tree (Prim's)"
