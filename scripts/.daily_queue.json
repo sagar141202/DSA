@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_16",
-    "index": 18,
-    "topic": "Trees_and_Graphs",
-    "question": "Kth Smallest Element in BST"
-  },
-  {
-    "day": "2026_08_16",
     "index": 19,
     "topic": "Linked_Lists",
     "question": "Merge Two Sorted Lists"
