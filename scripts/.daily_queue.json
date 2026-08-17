@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_17",
-    "index": 14,
-    "topic": "Arrays_and_Strings",
-    "question": "Search in Rotated Sorted Array"
-  },
-  {
-    "day": "2026_08_17",
     "index": 15,
     "topic": "Trees_and_Graphs",
     "question": "Binary Tree Inorder Traversal"
