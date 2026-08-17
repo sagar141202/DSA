@@ -1,12 +1,6 @@
 [
   {
     "day": "2026_08_17",
-    "index": 10,
-    "topic": "Linked_Lists",
-    "question": "Remove Nth Node From End"
-  },
-  {
-    "day": "2026_08_17",
     "index": 11,
     "topic": "Trees_and_Graphs",
     "question": "Maximum Depth of Binary Tree"
